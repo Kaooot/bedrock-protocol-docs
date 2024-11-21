@@ -1,0 +1,653 @@
+<svg width="961px" height="1070px"
+ viewBox="0.00 0.00 960.98 1070.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 1066.0)">
+<title>BossEventPacket</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1066 956.98,-1066 956.98,4 -4,4"/>
+<!-- 0 -->
+<!-- name: &quot;BossEventPacket&quot;, typeName: &quot;&quot;, id: 0, branchId: 74, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>0</title>
+<ellipse fill="none" stroke="black" cx="74.89" cy="-990" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="74.89" y="-984.95" font-family="Times,serif" font-size="14.00">BossEventPacket</text>
+</g>
+<!-- 1 -->
+<!-- name: &quot;Target Actor ID&quot;, typeName: &quot;ActorUniqueID&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="271.41" cy="-1044" rx="70.29" ry="18"/>
+<text text-anchor="middle" x="271.41" y="-1038.95" font-family="Times,serif" font-size="14.00">Target Actor ID</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M125.23,-1003.7C151.45,-1010.97 183.85,-1019.97 211.4,-1027.62"/>
+<polygon fill="black" stroke="black" points="210.44,-1030.98 221.02,-1030.29 212.32,-1024.24 210.44,-1030.98"/>
+</g>
+<!-- 3 -->
+<!-- name: &quot;Event Type&quot;, typeName: &quot;&quot;, id: 3, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="271.41" cy="-990" rx="53.4" ry="18"/>
+<text text-anchor="middle" x="271.41" y="-984.95" font-family="Times,serif" font-size="14.00">Event Type</text>
+</g>
+<!-- 0&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>0&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M150.27,-990C168.65,-990 188.2,-990 206.07,-990"/>
+<polygon fill="black" stroke="black" points="206.02,-993.5 216.02,-990 206.02,-986.5 206.02,-993.5"/>
+</g>
+<!-- 5 -->
+<!-- name: &quot;Dependency on &#39;Event Type&#39;&quot;, typeName: &quot;&quot;, id: 5, branchId: 0, recurseId: &#45;1, attributes: 2, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>5</title>
+<polygon fill="none" stroke="black" points="351.04,-495 185.79,-495 185.79,-459 357.04,-459 357.04,-489 351.04,-495"/>
+<polyline fill="none" stroke="black" points="351.04,-495 351.04,-489"/>
+<polyline fill="none" stroke="black" points="357.04,-489 351.04,-489"/>
+<text text-anchor="middle" x="271.41" y="-471.95" font-family="Times,serif" font-size="14.00">Dependency on &#39;Event Type&#39;</text>
+</g>
+<!-- 0&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>0&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M82.82,-971.74C111.83,-895.24 223.74,-600.1 259.42,-506"/>
+<polygon fill="black" stroke="black" points="262.66,-507.31 262.94,-496.72 256.12,-504.83 262.66,-507.31"/>
+</g>
+<!-- 2 -->
+<!-- name: &quot;ActorUniqueID&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-1044" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-1038.95" font-family="Times,serif" font-size="14.00">ActorUniqueID</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M342.18,-1044C456.66,-1044 683.63,-1044 803.99,-1044"/>
+<polygon fill="black" stroke="black" points="803.78,-1047.5 813.78,-1044 803.78,-1040.5 803.78,-1047.5"/>
+</g>
+<!-- 4 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 4, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-990" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-984.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge4" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M325.29,-990C432.92,-990 677.99,-990 804.47,-990"/>
+<polygon fill="black" stroke="black" points="804.45,-993.5 814.45,-990 804.45,-986.5 804.45,-993.5"/>
+</g>
+<!-- 6 -->
+<!-- name: &quot;Add&quot;, typeName: &quot;&quot;, id: 6, branchId: 0, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>6</title>
+<polygon fill="none" stroke="black" points="502.58,-792 464.7,-774 502.58,-756 540.45,-774 502.58,-792"/>
+<text text-anchor="middle" x="502.58" y="-768.95" font-family="Times,serif" font-size="14.00">Add</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M285.59,-495.14C307.53,-525.27 353.12,-587.42 393.04,-639 424.35,-679.46 461.97,-725.76 483.69,-752.27"/>
+<polygon fill="black" stroke="black" points="480.93,-754.42 489.98,-759.93 486.34,-749.97 480.93,-754.42"/>
+</g>
+<!-- 17 -->
+<!-- name: &quot;Player Added&quot;, typeName: &quot;&quot;, id: 17, branchId: 1, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node20" class="node">
+<title>17</title>
+<polygon fill="none" stroke="black" points="502.58,-630 416.2,-612 502.58,-594 588.95,-612 502.58,-630"/>
+<text text-anchor="middle" x="502.58" y="-606.95" font-family="Times,serif" font-size="14.00">Player Added</text>
+</g>
+<!-- 5&#45;&gt;17 -->
+<g id="edge19" class="edge">
+<title>5&#45;&gt;17</title>
+<path fill="none" stroke="black" d="M287.58,-495.27C308.7,-519.48 349.32,-561.85 393.04,-585 407.12,-592.46 423.33,-597.91 438.86,-601.87"/>
+<polygon fill="black" stroke="black" points="437.99,-605.27 448.53,-604.16 439.6,-598.45 437.99,-605.27"/>
+</g>
+<!-- 20 -->
+<!-- name: &quot;Remove&quot;, typeName: &quot;&quot;, id: 20, branchId: 2, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node23" class="node">
+<title>20</title>
+<polygon fill="none" stroke="black" points="502.58,-576 442.98,-558 502.58,-540 562.17,-558 502.58,-576"/>
+<text text-anchor="middle" x="502.58" y="-552.95" font-family="Times,serif" font-size="14.00">Remove</text>
+</g>
+<!-- 5&#45;&gt;20 -->
+<g id="edge22" class="edge">
+<title>5&#45;&gt;20</title>
+<path fill="none" stroke="black" d="M308.95,-495.4C332.53,-506.75 364.08,-521.01 393.04,-531 412.99,-537.88 435.56,-543.79 454.93,-548.31"/>
+<polygon fill="black" stroke="black" points="453.92,-551.67 464.44,-550.47 455.47,-544.84 453.92,-551.67"/>
+</g>
+<!-- 22 -->
+<!-- name: &quot;Player Removed&quot;, typeName: &quot;&quot;, id: 22, branchId: 3, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node25" class="node">
+<title>22</title>
+<polygon fill="none" stroke="black" points="502.58,-522 399.55,-504 502.58,-486 605.6,-504 502.58,-522"/>
+<text text-anchor="middle" x="502.58" y="-498.95" font-family="Times,serif" font-size="14.00">Player Removed</text>
+</g>
+<!-- 5&#45;&gt;22 -->
+<g id="edge24" class="edge">
+<title>5&#45;&gt;22</title>
+<path fill="none" stroke="black" d="M357.42,-487.02C380.52,-489.74 405.34,-492.66 427.77,-495.3"/>
+<polygon fill="black" stroke="black" points="427.07,-498.75 437.41,-496.44 427.89,-491.79 427.07,-498.75"/>
+</g>
+<!-- 25 -->
+<!-- name: &quot;Update Percent&quot;, typeName: &quot;&quot;, id: 25, branchId: 4, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node28" class="node">
+<title>25</title>
+<polygon fill="none" stroke="black" points="502.58,-468 406.79,-450 502.58,-432 598.36,-450 502.58,-468"/>
+<text text-anchor="middle" x="502.58" y="-444.95" font-family="Times,serif" font-size="14.00">Update Percent</text>
+</g>
+<!-- 5&#45;&gt;25 -->
+<g id="edge27" class="edge">
+<title>5&#45;&gt;25</title>
+<path fill="none" stroke="black" d="M357.42,-466.98C381.5,-464.15 407.45,-461.09 430.61,-458.36"/>
+<polygon fill="black" stroke="black" points="430.71,-461.87 440.23,-457.23 429.89,-454.92 430.71,-461.87"/>
+</g>
+<!-- 28 -->
+<!-- name: &quot;Update Name&quot;, typeName: &quot;&quot;, id: 28, branchId: 5, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node31" class="node">
+<title>28</title>
+<polygon fill="none" stroke="black" points="502.58,-414 414.03,-396 502.58,-378 591.12,-396 502.58,-414"/>
+<text text-anchor="middle" x="502.58" y="-390.95" font-family="Times,serif" font-size="14.00">Update Name</text>
+</g>
+<!-- 5&#45;&gt;28 -->
+<g id="edge30" class="edge">
+<title>5&#45;&gt;28</title>
+<path fill="none" stroke="black" d="M308.95,-458.6C332.53,-447.25 364.08,-432.99 393.04,-423 409.98,-417.15 428.81,-412.01 445.97,-407.83"/>
+<polygon fill="black" stroke="black" points="446.57,-411.28 455.49,-405.57 444.95,-404.47 446.57,-411.28"/>
+</g>
+<!-- 31 -->
+<!-- name: &quot;Update Properties&quot;, typeName: &quot;&quot;, id: 31, branchId: 6, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node36" class="node">
+<title>31</title>
+<polygon fill="none" stroke="black" points="502.58,-279 393.04,-261 502.58,-243 612.11,-261 502.58,-279"/>
+<text text-anchor="middle" x="502.58" y="-255.95" font-family="Times,serif" font-size="14.00">Update Properties</text>
+</g>
+<!-- 5&#45;&gt;31 -->
+<g id="edge35" class="edge">
+<title>5&#45;&gt;31</title>
+<path fill="none" stroke="black" d="M291.95,-458.58C333.64,-419.29 431.24,-327.29 477.04,-284.13"/>
+<polygon fill="black" stroke="black" points="479.24,-286.86 484.11,-277.46 474.44,-281.77 479.24,-286.86"/>
+</g>
+<!-- 38 -->
+<!-- name: &quot;Update Style&quot;, typeName: &quot;&quot;, id: 38, branchId: 7, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node43" class="node">
+<title>38</title>
+<polygon fill="none" stroke="black" points="502.58,-144 419.1,-126 502.58,-108 586.05,-126 502.58,-144"/>
+<text text-anchor="middle" x="502.58" y="-120.95" font-family="Times,serif" font-size="14.00">Update Style</text>
+</g>
+<!-- 5&#45;&gt;38 -->
+<g id="edge42" class="edge">
+<title>5&#45;&gt;38</title>
+<path fill="none" stroke="black" d="M279.06,-458.81C294.9,-416.81 337.7,-310.81 393.04,-234 417.15,-200.53 451.91,-167.96 475.55,-147.49"/>
+<polygon fill="black" stroke="black" points="477.53,-150.39 482.87,-141.24 472.99,-145.07 477.53,-150.39"/>
+</g>
+<!-- 43 -->
+<!-- name: &quot;Query&quot;, typeName: &quot;&quot;, id: 43, branchId: 8, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node48" class="node">
+<title>43</title>
+<polygon fill="none" stroke="black" points="502.58,-63 454.56,-45 502.58,-27 550.59,-45 502.58,-63"/>
+<text text-anchor="middle" x="502.58" y="-39.95" font-family="Times,serif" font-size="14.00">Query</text>
+</g>
+<!-- 5&#45;&gt;43 -->
+<g id="edge47" class="edge">
+<title>5&#45;&gt;43</title>
+<path fill="none" stroke="black" d="M273.34,-458.85C277.25,-399.86 297.06,-210.89 393.04,-99 411.06,-78 439.2,-64.32 462.31,-55.99"/>
+<polygon fill="black" stroke="black" points="463.4,-59.32 471.75,-52.8 461.16,-52.69 463.4,-59.32"/>
+</g>
+<!-- 7 -->
+<!-- name: &quot;Name&quot;, typeName: &quot;&quot;, id: 7, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;Name of the boss to add&quot; -->
+<g id="node8" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-936" rx="33.44" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-930.95" font-family="Times,serif" font-size="14.00">Name</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M514.36,-786.75C536.89,-812.75 591.57,-872.49 648.11,-909 656.11,-914.16 665.25,-918.69 674.1,-922.49"/>
+<polygon fill="black" stroke="black" points="672.66,-925.68 683.24,-926.19 675.29,-919.19 672.66,-925.68"/>
+</g>
+<!-- 99 -->
+<!-- name: &quot;Filtered Name&quot;, typeName: &quot;&quot;, id: 99, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;Filtered name of the boss to add&quot; -->
+<g id="node10" class="node">
+<title>99</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-882" rx="64.66" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-876.95" font-family="Times,serif" font-size="14.00">Filtered Name</text>
+</g>
+<!-- 6&#45;&gt;99 -->
+<g id="edge9" class="edge">
+<title>6&#45;&gt;99</title>
+<path fill="none" stroke="black" d="M520.15,-784.12C546.68,-800.12 600.52,-831.83 648.11,-855 653.51,-857.63 659.24,-860.25 664.96,-862.77"/>
+<polygon fill="black" stroke="black" points="663.22,-865.83 673.79,-866.56 665.99,-859.4 663.22,-865.83"/>
+</g>
+<!-- 9 -->
+<!-- name: &quot;Health Percent&quot;, typeName: &quot;&quot;, id: 9, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;Health value of the boss&quot; -->
+<g id="node12" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-828" rx="65.68" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-822.95" font-family="Times,serif" font-size="14.00">Health Percent</text>
+</g>
+<!-- 6&#45;&gt;9 -->
+<g id="edge11" class="edge">
+<title>6&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M527.98,-780.3C558.59,-788.2 612.1,-802.01 653.68,-812.74"/>
+<polygon fill="black" stroke="black" points="652.77,-816.12 663.33,-815.23 654.52,-809.35 652.77,-816.12"/>
+</g>
+<!-- 11 -->
+<!-- name: &quot;Darken Screen&quot;, typeName: &quot;&quot;, id: 11, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;A boolean value for whether or not we should darken the screen (has a 0 or 1 value)&quot; -->
+<g id="node14" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-774" rx="65.68" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-768.95" font-family="Times,serif" font-size="14.00">Darken Screen</text>
+</g>
+<!-- 6&#45;&gt;11 -->
+<g id="edge13" class="edge">
+<title>6&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M541.46,-774C567.9,-774 604.1,-774 636.42,-774"/>
+<polygon fill="black" stroke="black" points="636.15,-777.5 646.15,-774 636.15,-770.5 636.15,-777.5"/>
+</g>
+<!-- 13 -->
+<!-- name: &quot;Color&quot;, typeName: &quot;&quot;, id: 13, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;color for the boss bar, listed in an enumeration&quot; -->
+<g id="node16" class="node">
+<title>13</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-720" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-714.95" font-family="Times,serif" font-size="14.00">Color</text>
+</g>
+<!-- 6&#45;&gt;13 -->
+<g id="edge15" class="edge">
+<title>6&#45;&gt;13</title>
+<path fill="none" stroke="black" d="M527.98,-767.7C563.63,-758.5 630.32,-741.29 673.09,-730.25"/>
+<polygon fill="black" stroke="black" points="673.93,-733.65 682.74,-727.76 672.18,-726.87 673.93,-733.65"/>
+</g>
+<!-- 15 -->
+<!-- name: &quot;Overlay&quot;, typeName: &quot;&quot;, id: 15, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;overlay for the boss bar, listed in an enumeration&quot; -->
+<g id="node18" class="node">
+<title>15</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-666" rx="40.6" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-660.95" font-family="Times,serif" font-size="14.00">Overlay</text>
+</g>
+<!-- 6&#45;&gt;15 -->
+<g id="edge17" class="edge">
+<title>6&#45;&gt;15</title>
+<path fill="none" stroke="black" d="M520.15,-763.88C546.68,-747.88 600.52,-716.17 648.11,-693 655.71,-689.3 663.94,-685.62 671.91,-682.22"/>
+<polygon fill="black" stroke="black" points="673.25,-685.46 681.13,-678.37 670.55,-679 673.25,-685.46"/>
+</g>
+<!-- 8 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 8, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-936" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-930.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge8" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M747.67,-936C774.17,-936 811.65,-936 840.48,-936"/>
+<polygon fill="black" stroke="black" points="840.35,-939.5 850.35,-936 840.35,-932.5 840.35,-939.5"/>
+</g>
+<!-- 100 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 100, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>100</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-882" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-876.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 99&#45;&gt;100 -->
+<g id="edge10" class="edge">
+<title>99&#45;&gt;100</title>
+<path fill="none" stroke="black" d="M778.47,-882C799.2,-882 821.7,-882 840.52,-882"/>
+<polygon fill="black" stroke="black" points="840.49,-885.5 850.49,-882 840.49,-878.5 840.49,-885.5"/>
+</g>
+<!-- 10 -->
+<!-- name: &quot;float&quot;, typeName: &quot;&quot;, id: 10, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node13" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-828" rx="27.81" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-822.95" font-family="Times,serif" font-size="14.00">float</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge12" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M779.91,-828C801.84,-828 825.59,-828 844.78,-828"/>
+<polygon fill="black" stroke="black" points="844.57,-831.5 854.57,-828 844.57,-824.5 844.57,-831.5"/>
+</g>
+<!-- 12 -->
+<!-- name: &quot;unsigned short&quot;, typeName: &quot;&quot;, id: 12, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node15" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-774" rx="65.17" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-768.95" font-family="Times,serif" font-size="14.00">unsigned short</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge14" class="edge">
+<title>11&#45;&gt;12</title>
+<path fill="none" stroke="black" d="M779.91,-774C788.9,-774 798.19,-774 807.34,-774"/>
+<polygon fill="black" stroke="black" points="807.32,-777.5 817.32,-774 807.32,-770.5 807.32,-777.5"/>
+</g>
+<!-- 14 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 14, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node17" class="node">
+<title>14</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-720" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-714.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 13&#45;&gt;14 -->
+<g id="edge16" class="edge">
+<title>13&#45;&gt;14</title>
+<path fill="none" stroke="black" d="M746.08,-720C762.62,-720 783.73,-720 804.41,-720"/>
+<polygon fill="black" stroke="black" points="804.31,-723.5 814.31,-720 804.31,-716.5 804.31,-723.5"/>
+</g>
+<!-- 16 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 16, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node19" class="node">
+<title>16</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-666" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-660.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 15&#45;&gt;16 -->
+<g id="edge18" class="edge">
+<title>15&#45;&gt;16</title>
+<path fill="none" stroke="black" d="M754.71,-666C769.63,-666 787.15,-666 804.37,-666"/>
+<polygon fill="black" stroke="black" points="804.09,-669.5 814.09,-666 804.09,-662.5 804.09,-669.5"/>
+</g>
+<!-- 18 -->
+<!-- name: &quot;Player ID&quot;, typeName: &quot;ActorUniqueID&quot;, id: 18, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node21" class="node">
+<title>18</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-612" rx="46.75" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-606.95" font-family="Times,serif" font-size="14.00">Player ID</text>
+</g>
+<!-- 17&#45;&gt;18 -->
+<g id="edge20" class="edge">
+<title>17&#45;&gt;18</title>
+<path fill="none" stroke="black" d="M591.39,-612C612.99,-612 635.56,-612 655.3,-612"/>
+<polygon fill="black" stroke="black" points="655.06,-615.5 665.06,-612 655.06,-608.5 655.06,-615.5"/>
+</g>
+<!-- 19 -->
+<!-- name: &quot;ActorUniqueID&quot;, typeName: &quot;&quot;, id: 19, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node22" class="node">
+<title>19</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-612" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-606.95" font-family="Times,serif" font-size="14.00">ActorUniqueID</text>
+</g>
+<!-- 18&#45;&gt;19 -->
+<g id="edge21" class="edge">
+<title>18&#45;&gt;19</title>
+<path fill="none" stroke="black" d="M760.82,-612C774.17,-612 789.14,-612 803.92,-612"/>
+<polygon fill="black" stroke="black" points="803.63,-615.5 813.63,-612 803.63,-608.5 803.63,-615.5"/>
+</g>
+<!-- 21 -->
+<!-- name: &quot;[No Data]&quot;, typeName: &quot;&quot;, id: 21, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node24" class="node">
+<title>21</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-558" rx="48.28" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-552.95" font-family="Times,serif" font-size="14.00">[No Data]</text>
+</g>
+<!-- 20&#45;&gt;21 -->
+<g id="edge23" class="edge">
+<title>20&#45;&gt;21</title>
+<path fill="none" stroke="black" d="M563.73,-558C635.13,-558 753.42,-558 824.28,-558"/>
+<polygon fill="black" stroke="black" points="824.15,-561.5 834.15,-558 824.15,-554.5 824.15,-561.5"/>
+</g>
+<!-- 23 -->
+<!-- name: &quot;Player ID&quot;, typeName: &quot;ActorUniqueID&quot;, id: 23, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node26" class="node">
+<title>23</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-504" rx="46.75" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-498.95" font-family="Times,serif" font-size="14.00">Player ID</text>
+</g>
+<!-- 22&#45;&gt;23 -->
+<g id="edge25" class="edge">
+<title>22&#45;&gt;23</title>
+<path fill="none" stroke="black" d="M608.49,-504C624.66,-504 640.82,-504 655.43,-504"/>
+<polygon fill="black" stroke="black" points="655.26,-507.5 665.26,-504 655.26,-500.5 655.26,-507.5"/>
+</g>
+<!-- 24 -->
+<!-- name: &quot;ActorUniqueID&quot;, typeName: &quot;&quot;, id: 24, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node27" class="node">
+<title>24</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-504" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-498.95" font-family="Times,serif" font-size="14.00">ActorUniqueID</text>
+</g>
+<!-- 23&#45;&gt;24 -->
+<g id="edge26" class="edge">
+<title>23&#45;&gt;24</title>
+<path fill="none" stroke="black" d="M760.82,-504C774.17,-504 789.14,-504 803.92,-504"/>
+<polygon fill="black" stroke="black" points="803.63,-507.5 813.63,-504 803.63,-500.5 803.63,-507.5"/>
+</g>
+<!-- 26 -->
+<!-- name: &quot;Health Percent&quot;, typeName: &quot;&quot;, id: 26, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node29" class="node">
+<title>26</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-450" rx="65.68" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-444.95" font-family="Times,serif" font-size="14.00">Health Percent</text>
+</g>
+<!-- 25&#45;&gt;26 -->
+<g id="edge28" class="edge">
+<title>25&#45;&gt;26</title>
+<path fill="none" stroke="black" d="M600.83,-450C612.76,-450 624.81,-450 636.37,-450"/>
+<polygon fill="black" stroke="black" points="636.22,-453.5 646.22,-450 636.22,-446.5 636.22,-453.5"/>
+</g>
+<!-- 27 -->
+<!-- name: &quot;float&quot;, typeName: &quot;&quot;, id: 27, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node30" class="node">
+<title>27</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-450" rx="27.81" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-444.95" font-family="Times,serif" font-size="14.00">float</text>
+</g>
+<!-- 26&#45;&gt;27 -->
+<g id="edge29" class="edge">
+<title>26&#45;&gt;27</title>
+<path fill="none" stroke="black" d="M779.91,-450C801.84,-450 825.59,-450 844.78,-450"/>
+<polygon fill="black" stroke="black" points="844.57,-453.5 854.57,-450 844.57,-446.5 844.57,-453.5"/>
+</g>
+<!-- 29 -->
+<!-- name: &quot;Name&quot;, typeName: &quot;&quot;, id: 29, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node32" class="node">
+<title>29</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-396" rx="33.44" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-390.95" font-family="Times,serif" font-size="14.00">Name</text>
+</g>
+<!-- 28&#45;&gt;29 -->
+<g id="edge31" class="edge">
+<title>28&#45;&gt;29</title>
+<path fill="none" stroke="black" d="M593.52,-396C619.52,-396 646.76,-396 668.63,-396"/>
+<polygon fill="black" stroke="black" points="668.35,-399.5 678.35,-396 668.35,-392.5 668.35,-399.5"/>
+</g>
+<!-- 101 -->
+<!-- name: &quot;Filtered Name&quot;, typeName: &quot;&quot;, id: 101, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node34" class="node">
+<title>101</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-342" rx="64.66" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-336.95" font-family="Times,serif" font-size="14.00">Filtered Name</text>
+</g>
+<!-- 28&#45;&gt;101 -->
+<g id="edge33" class="edge">
+<title>28&#45;&gt;101</title>
+<path fill="none" stroke="black" d="M542.93,-385.84C574.36,-377.73 618.88,-366.24 654.45,-357.06"/>
+<polygon fill="black" stroke="black" points="654.91,-360.56 663.72,-354.67 653.16,-353.78 654.91,-360.56"/>
+</g>
+<!-- 30 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 30, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node33" class="node">
+<title>30</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-396" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-390.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 29&#45;&gt;30 -->
+<g id="edge32" class="edge">
+<title>29&#45;&gt;30</title>
+<path fill="none" stroke="black" d="M747.67,-396C774.17,-396 811.65,-396 840.48,-396"/>
+<polygon fill="black" stroke="black" points="840.35,-399.5 850.35,-396 840.35,-392.5 840.35,-399.5"/>
+</g>
+<!-- 102 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 102, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node35" class="node">
+<title>102</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-342" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-336.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 101&#45;&gt;102 -->
+<g id="edge34" class="edge">
+<title>101&#45;&gt;102</title>
+<path fill="none" stroke="black" d="M778.47,-342C799.2,-342 821.7,-342 840.52,-342"/>
+<polygon fill="black" stroke="black" points="840.49,-345.5 850.49,-342 840.49,-338.5 840.49,-345.5"/>
+</g>
+<!-- 32 -->
+<!-- name: &quot;Darken Screen&quot;, typeName: &quot;&quot;, id: 32, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node37" class="node">
+<title>32</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-288" rx="65.68" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-282.95" font-family="Times,serif" font-size="14.00">Darken Screen</text>
+</g>
+<!-- 31&#45;&gt;32 -->
+<g id="edge36" class="edge">
+<title>31&#45;&gt;32</title>
+<path fill="none" stroke="black" d="M566.06,-269.06C590.18,-272.18 617.89,-275.75 642.69,-278.95"/>
+<polygon fill="black" stroke="black" points="641.98,-282.39 652.35,-280.2 642.88,-275.45 641.98,-282.39"/>
+</g>
+<!-- 34 -->
+<!-- name: &quot;Color&quot;, typeName: &quot;&quot;, id: 34, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node39" class="node">
+<title>34</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-234" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-228.95" font-family="Times,serif" font-size="14.00">Color</text>
+</g>
+<!-- 31&#45;&gt;34 -->
+<g id="edge38" class="edge">
+<title>31&#45;&gt;34</title>
+<path fill="none" stroke="black" d="M566.06,-252.94C599.97,-248.56 640.97,-243.27 671,-239.39"/>
+<polygon fill="black" stroke="black" points="671.37,-242.88 680.84,-238.12 670.47,-235.93 671.37,-242.88"/>
+</g>
+<!-- 36 -->
+<!-- name: &quot;Overlay&quot;, typeName: &quot;&quot;, id: 36, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node41" class="node">
+<title>36</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-180" rx="40.6" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-174.95" font-family="Times,serif" font-size="14.00">Overlay</text>
+</g>
+<!-- 31&#45;&gt;36 -->
+<g id="edge40" class="edge">
+<title>31&#45;&gt;36</title>
+<path fill="none" stroke="black" d="M536.73,-248.17C573.38,-233.98 632.45,-211.11 671.93,-195.82"/>
+<polygon fill="black" stroke="black" points="673.04,-199.14 681.1,-192.27 670.51,-192.62 673.04,-199.14"/>
+</g>
+<!-- 33 -->
+<!-- name: &quot;unsigned short&quot;, typeName: &quot;&quot;, id: 33, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node38" class="node">
+<title>33</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-288" rx="65.17" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-282.95" font-family="Times,serif" font-size="14.00">unsigned short</text>
+</g>
+<!-- 32&#45;&gt;33 -->
+<g id="edge37" class="edge">
+<title>32&#45;&gt;33</title>
+<path fill="none" stroke="black" d="M779.91,-288C788.9,-288 798.19,-288 807.34,-288"/>
+<polygon fill="black" stroke="black" points="807.32,-291.5 817.32,-288 807.32,-284.5 807.32,-291.5"/>
+</g>
+<!-- 35 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 35, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node40" class="node">
+<title>35</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-234" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-228.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 34&#45;&gt;35 -->
+<g id="edge39" class="edge">
+<title>34&#45;&gt;35</title>
+<path fill="none" stroke="black" d="M746.08,-234C762.62,-234 783.73,-234 804.41,-234"/>
+<polygon fill="black" stroke="black" points="804.31,-237.5 814.31,-234 804.31,-230.5 804.31,-237.5"/>
+</g>
+<!-- 37 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 37, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node42" class="node">
+<title>37</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-180" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-174.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 36&#45;&gt;37 -->
+<g id="edge41" class="edge">
+<title>36&#45;&gt;37</title>
+<path fill="none" stroke="black" d="M754.71,-180C769.63,-180 787.15,-180 804.37,-180"/>
+<polygon fill="black" stroke="black" points="804.09,-183.5 814.09,-180 804.09,-176.5 804.09,-183.5"/>
+</g>
+<!-- 39 -->
+<!-- name: &quot;Color&quot;, typeName: &quot;&quot;, id: 39, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node44" class="node">
+<title>39</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-126" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-120.95" font-family="Times,serif" font-size="14.00">Color</text>
+</g>
+<!-- 38&#45;&gt;39 -->
+<g id="edge43" class="edge">
+<title>38&#45;&gt;39</title>
+<path fill="none" stroke="black" d="M588.37,-126C616.47,-126 646.55,-126 670.1,-126"/>
+<polygon fill="black" stroke="black" points="669.92,-129.5 679.92,-126 669.92,-122.5 669.92,-129.5"/>
+</g>
+<!-- 41 -->
+<!-- name: &quot;Overlay&quot;, typeName: &quot;&quot;, id: 41, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node46" class="node">
+<title>41</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-72" rx="40.6" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-66.95" font-family="Times,serif" font-size="14.00">Overlay</text>
+</g>
+<!-- 38&#45;&gt;41 -->
+<g id="edge45" class="edge">
+<title>38&#45;&gt;41</title>
+<path fill="none" stroke="black" d="M541.95,-116.1C577.23,-106.99 629.58,-93.48 667.03,-83.81"/>
+<polygon fill="black" stroke="black" points="667.86,-87.21 676.67,-81.32 666.11,-80.43 667.86,-87.21"/>
+</g>
+<!-- 40 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 40, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node45" class="node">
+<title>40</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-126" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-120.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 39&#45;&gt;40 -->
+<g id="edge44" class="edge">
+<title>39&#45;&gt;40</title>
+<path fill="none" stroke="black" d="M746.08,-126C762.62,-126 783.73,-126 804.41,-126"/>
+<polygon fill="black" stroke="black" points="804.31,-129.5 814.31,-126 804.31,-122.5 804.31,-129.5"/>
+</g>
+<!-- 42 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 42, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node47" class="node">
+<title>42</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-72" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-66.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 41&#45;&gt;42 -->
+<g id="edge46" class="edge">
+<title>41&#45;&gt;42</title>
+<path fill="none" stroke="black" d="M754.71,-72C769.63,-72 787.15,-72 804.37,-72"/>
+<polygon fill="black" stroke="black" points="804.09,-75.5 814.09,-72 804.09,-68.5 804.09,-75.5"/>
+</g>
+<!-- 44 -->
+<!-- name: &quot;Player ID&quot;, typeName: &quot;ActorUniqueID&quot;, id: 44, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node49" class="node">
+<title>44</title>
+<ellipse fill="none" stroke="black" cx="713.79" cy="-18" rx="46.75" ry="18"/>
+<text text-anchor="middle" x="713.79" y="-12.95" font-family="Times,serif" font-size="14.00">Player ID</text>
+</g>
+<!-- 43&#45;&gt;44 -->
+<g id="edge48" class="edge">
+<title>43&#45;&gt;44</title>
+<path fill="none" stroke="black" d="M539.54,-40.36C572.05,-36.16 620.38,-29.93 657.75,-25.1"/>
+<polygon fill="black" stroke="black" points="657.99,-28.6 667.46,-23.85 657.09,-21.66 657.99,-28.6"/>
+</g>
+<!-- 45 -->
+<!-- name: &quot;ActorUniqueID&quot;, typeName: &quot;&quot;, id: 45, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node50" class="node">
+<title>45</title>
+<ellipse fill="none" stroke="black" cx="884.23" cy="-18" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="884.23" y="-12.95" font-family="Times,serif" font-size="14.00">ActorUniqueID</text>
+</g>
+<!-- 44&#45;&gt;45 -->
+<g id="edge49" class="edge">
+<title>44&#45;&gt;45</title>
+<path fill="none" stroke="black" d="M760.82,-18C774.17,-18 789.14,-18 803.92,-18"/>
+<polygon fill="black" stroke="black" points="803.63,-21.5 813.63,-18 803.63,-14.5 803.63,-21.5"/>
+</g>
+</g>
+</svg>
