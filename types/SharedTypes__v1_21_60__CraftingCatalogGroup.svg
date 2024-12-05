@@ -1,0 +1,66 @@
+<svg width="1062px" height="98px"
+ viewBox="0.00 0.00 1061.65 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>ClientCameraAimAssistPacket</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-94 1057.65,-94 1057.65,4 -4,4"/>
+<!-- 0 -->
+<!-- name: &quot;SharedTypes::v1_21_60::CraftingCatalogGroup&quot;, typeName: &quot;&quot;, id: 0, branchId: 78, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>0</title>
+<ellipse fill="none" stroke="black" cx="189.03" cy="-45" rx="189.03" ry="18"/>
+<text text-anchor="middle" x="189.03" y="-39.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_60::CraftingCatalogGroup</text>
+</g>
+<!-- 1 -->
+<!-- name: &quot;Creative Category&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="492.53" cy="-72" rx="78.48" ry="18"/>
+<text text-anchor="middle" x="492.53" y="-66.95" font-family="Times,serif" font-size="14.00">Creative Category</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M328.87,-57.43C355.68,-59.83 383.01,-62.28 407.41,-64.47"/>
+<polygon fill="black" stroke="black" points="407,-67.94 417.27,-65.35 407.62,-60.97 407,-67.94"/>
+</g>
+<!-- 3 -->
+<!-- name: &quot;Group Identifier&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="492.53" cy="-18" rx="71.31" ry="18"/>
+<text text-anchor="middle" x="492.53" y="-12.95" font-family="Times,serif" font-size="14.00">Group Identifier</text>
+</g>
+<!-- 0&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>0&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M328.87,-32.57C357.95,-29.96 387.62,-27.31 413.53,-24.99"/>
+<polygon fill="black" stroke="black" points="413.61,-28.49 423.26,-24.11 412.99,-21.52 413.61,-28.49"/>
+</g>
+<!-- 2 -->
+<!-- name: &quot;int&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="830.33" cy="-72" rx="27" ry="18"/>
+<text text-anchor="middle" x="830.33" y="-66.95" font-family="Times,serif" font-size="14.00">int</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M571.42,-72C640.58,-72 738.69,-72 791.75,-72"/>
+<polygon fill="black" stroke="black" points="791.47,-75.5 801.47,-72 791.47,-68.5 791.47,-75.5"/>
+</g>
+<!-- 4 -->
+<!-- name: &quot;SharedTypes::v1_21_60::CraftingCatalogGroupIdentifier&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="830.33" cy="-18" rx="223.32" ry="18"/>
+<text text-anchor="middle" x="830.33" y="-12.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_60::CraftingCatalogGroupIdentifier</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge4" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M564.34,-18C574.05,-18 584.42,-18 595.23,-18"/>
+<polygon fill="black" stroke="black" points="595.12,-21.5 605.12,-18 595.12,-14.5 595.12,-21.5"/>
+</g>
+</g>
+</svg>
