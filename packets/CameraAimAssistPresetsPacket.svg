@@ -1,170 +1,196 @@
-<svg width="1397px" height="206px"
- viewBox="0.00 0.00 1397.40 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 202.0)">
+<svg width="1404px" height="260px"
+ viewBox="0.00 0.00 1403.54 260.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 256.0)">
 <title>CameraAimAssistPresetsPacket</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-202 1393.4,-202 1393.4,4 -4,4"/>
+<polygon fill="white" stroke="none" points="-4,4 -4,-256 1399.54,-256 1399.54,4 -4,4"/>
 <!-- 0 -->
 <!-- name: &quot;CameraAimAssistPresetsPacket&quot;, typeName: &quot;&quot;, id: 0, branchId: 320, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
 <g id="node1" class="node">
 <title>0</title>
-<ellipse fill="none" stroke="black" cx="130.17" cy="-99" rx="130.17" ry="18"/>
-<text text-anchor="middle" x="130.17" y="-93.95" font-family="Times,serif" font-size="14.00">CameraAimAssistPresetsPacket</text>
+<ellipse fill="none" stroke="black" cx="130.17" cy="-101" rx="130.17" ry="18"/>
+<text text-anchor="middle" x="130.17" y="-95.95" font-family="Times,serif" font-size="14.00">CameraAimAssistPresetsPacket</text>
 </g>
 <!-- 1 -->
 <!-- name: &quot;Camera Aim&#45;Assist Categories&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
 <g id="node2" class="node">
 <title>1</title>
-<ellipse fill="none" stroke="black" cx="422.93" cy="-126" rx="126.59" ry="18"/>
-<text text-anchor="middle" x="422.93" y="-120.95" font-family="Times,serif" font-size="14.00">Camera Aim&#45;Assist Categories</text>
+<ellipse fill="none" stroke="black" cx="422.93" cy="-180" rx="126.59" ry="18"/>
+<text text-anchor="middle" x="422.93" y="-174.95" font-family="Times,serif" font-size="14.00">Camera Aim&#45;Assist Categories</text>
 </g>
 <!-- 0&#45;&gt;1 -->
 <g id="edge1" class="edge">
 <title>0&#45;&gt;1</title>
-<path fill="none" stroke="black" d="M239.44,-109.05C260.51,-111.01 282.71,-113.07 304.07,-115.06"/>
-<polygon fill="black" stroke="black" points="303.72,-118.54 314,-115.98 304.36,-111.57 303.72,-118.54"/>
+<path fill="none" stroke="black" d="M191.06,-117.27C237.74,-129.95 302.65,-147.59 351.75,-160.93"/>
+<polygon fill="black" stroke="black" points="350.58,-164.24 361.15,-163.49 352.42,-157.49 350.58,-164.24"/>
 </g>
 <!-- 50 -->
 <!-- name: &quot;Camera Aim&#45;Assist Presets&quot;, typeName: &quot;&quot;, id: 50, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
 <g id="node8" class="node">
 <title>50</title>
-<ellipse fill="none" stroke="black" cx="422.93" cy="-72" rx="113.28" ry="18"/>
-<text text-anchor="middle" x="422.93" y="-66.95" font-family="Times,serif" font-size="14.00">Camera Aim&#45;Assist Presets</text>
+<ellipse fill="none" stroke="black" cx="422.93" cy="-101" rx="113.28" ry="18"/>
+<text text-anchor="middle" x="422.93" y="-95.95" font-family="Times,serif" font-size="14.00">Camera Aim&#45;Assist Presets</text>
 </g>
 <!-- 0&#45;&gt;50 -->
 <g id="edge7" class="edge">
 <title>0&#45;&gt;50</title>
-<path fill="none" stroke="black" d="M239.44,-88.95C263.41,-86.72 288.83,-84.36 312.83,-82.13"/>
-<polygon fill="black" stroke="black" points="312.98,-85.63 322.62,-81.22 312.34,-78.66 312.98,-85.63"/>
+<path fill="none" stroke="black" d="M260.82,-101C273.22,-101 285.78,-101 298.13,-101"/>
+<polygon fill="black" stroke="black" points="297.89,-104.5 307.89,-101 297.89,-97.5 297.89,-104.5"/>
+</g>
+<!-- 99 -->
+<!-- name: &quot;Operation&quot;, typeName: &quot;&quot;, id: 99, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node14" class="node">
+<title>99</title>
+<ellipse fill="none" stroke="black" cx="819.07" cy="-18" rx="47.77" ry="18"/>
+<text text-anchor="middle" x="819.07" y="-12.95" font-family="Times,serif" font-size="14.00">Operation</text>
+</g>
+<!-- 0&#45;&gt;99 -->
+<g id="edge13" class="edge">
+<title>0&#45;&gt;99</title>
+<path fill="none" stroke="black" d="M212.95,-86.72C239.5,-82.32 269.13,-77.68 296.34,-74 464.85,-51.2 665.01,-31.88 761.07,-23.08"/>
+<polygon fill="black" stroke="black" points="761.11,-26.59 770.75,-22.2 760.47,-19.62 761.11,-26.59"/>
 </g>
 <!-- 2 -->
 <!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
 <g id="node3" class="node">
 <title>2</title>
-<ellipse fill="none" stroke="black" cx="816" cy="-180" rx="43.67" ry="18"/>
-<text text-anchor="middle" x="816" y="-174.95" font-family="Times,serif" font-size="14.00">List Size</text>
+<ellipse fill="none" stroke="black" cx="660.41" cy="-234" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="660.41" y="-228.95" font-family="Times,serif" font-size="14.00">List Size</text>
 </g>
 <!-- 1&#45;&gt;2 -->
 <g id="edge2" class="edge">
 <title>1&#45;&gt;2</title>
-<path fill="none" stroke="black" d="M503.94,-140.16C529.92,-144.54 558.9,-149.21 585.51,-153 645.93,-161.6 715.57,-169.51 762.14,-174.52"/>
-<polygon fill="black" stroke="black" points="761.65,-177.98 771.96,-175.56 762.39,-171.02 761.65,-177.98"/>
+<path fill="none" stroke="black" d="M491.72,-195.55C529.69,-204.25 576.15,-214.91 610.54,-222.79"/>
+<polygon fill="black" stroke="black" points="609.7,-226.19 620.23,-225.02 611.27,-219.37 609.7,-226.19"/>
 </g>
 <!-- 4 -->
 <!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 4, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
 <g id="node5" class="node">
 <title>4</title>
-<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="660.41" cy="-126" rx="74.89" ry="18"/>
-<text text-anchor="middle" x="660.41" y="-120.95" font-family="Times,serif" font-size="14.00">example element</text>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="660.41" cy="-180" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="660.41" y="-174.95" font-family="Times,serif" font-size="14.00">example element</text>
 </g>
 <!-- 1&#45;&gt;4 -->
 <g id="edge4" class="edge">
 <title>1&#45;&gt;4</title>
-<path fill="none" stroke="black" d="M549.94,-126C558.02,-126 566.05,-126 573.88,-126"/>
-<polygon fill="black" stroke="black" points="573.66,-129.5 583.66,-126 573.66,-122.5 573.66,-129.5"/>
+<path fill="none" stroke="black" d="M549.94,-180C558.02,-180 566.05,-180 573.88,-180"/>
+<polygon fill="black" stroke="black" points="573.66,-183.5 583.66,-180 573.66,-176.5 573.66,-183.5"/>
 </g>
 <!-- 3 -->
 <!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 3, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
 <g id="node4" class="node">
 <title>3</title>
-<ellipse fill="none" stroke="black" cx="1143.05" cy="-180" rx="68.24" ry="18"/>
-<text text-anchor="middle" x="1143.05" y="-174.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+<ellipse fill="none" stroke="black" cx="1149.19" cy="-234" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="1149.19" y="-228.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
 </g>
 <!-- 2&#45;&gt;3 -->
 <g id="edge3" class="edge">
 <title>2&#45;&gt;3</title>
-<path fill="none" stroke="black" d="M860.17,-180C911.81,-180 999.29,-180 1063.12,-180"/>
-<polygon fill="black" stroke="black" points="1062.84,-183.5 1072.84,-180 1062.84,-176.5 1062.84,-183.5"/>
+<path fill="none" stroke="black" d="M704.18,-234C785.91,-234 965.38,-234 1069.4,-234"/>
+<polygon fill="black" stroke="black" points="1069.25,-237.5 1079.25,-234 1069.25,-230.5 1069.25,-237.5"/>
 </g>
 <!-- 5 -->
 <!-- name: &quot;Category&quot;, typeName: &quot;SharedTypes::v1_21_50::CameraAimAssistCategoryDefinition&quot;, id: 5, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
 <g id="node6" class="node">
 <title>5</title>
-<ellipse fill="none" stroke="black" cx="816" cy="-126" rx="44.7" ry="18"/>
-<text text-anchor="middle" x="816" y="-120.95" font-family="Times,serif" font-size="14.00">Category</text>
+<ellipse fill="none" stroke="black" cx="819.07" cy="-180" rx="44.7" ry="18"/>
+<text text-anchor="middle" x="819.07" y="-174.95" font-family="Times,serif" font-size="14.00">Category</text>
 </g>
 <!-- 4&#45;&gt;5 -->
 <g id="edge5" class="edge">
 <title>4&#45;&gt;5</title>
-<path fill="none" stroke="black" d="M735.51,-126C743.55,-126 751.64,-126 759.42,-126"/>
-<polygon fill="black" stroke="black" points="759.41,-129.5 769.41,-126 759.41,-122.5 759.41,-129.5"/>
+<path fill="none" stroke="black" d="M735.61,-180C744.74,-180 753.94,-180 762.72,-180"/>
+<polygon fill="black" stroke="black" points="762.47,-183.5 772.47,-180 762.47,-176.5 762.47,-183.5"/>
 </g>
 <!-- 49 -->
 <!-- name: &quot;SharedTypes::v1_21_50::CameraAimAssistCategoryDefinition&quot;, typeName: &quot;&quot;, id: 49, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
 <g id="node7" class="node">
 <title>49</title>
-<ellipse fill="none" stroke="black" cx="1143.05" cy="-126" rx="246.35" ry="18"/>
-<text text-anchor="middle" x="1143.05" y="-120.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_50::CameraAimAssistCategoryDefinition</text>
+<ellipse fill="none" stroke="black" cx="1149.19" cy="-180" rx="246.35" ry="18"/>
+<text text-anchor="middle" x="1149.19" y="-174.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_50::CameraAimAssistCategoryDefinition</text>
 </g>
 <!-- 5&#45;&gt;49 -->
 <g id="edge6" class="edge">
 <title>5&#45;&gt;49</title>
-<path fill="none" stroke="black" d="M861.18,-126C868.48,-126 876.48,-126 885.01,-126"/>
-<polygon fill="black" stroke="black" points="885,-129.5 895,-126 885,-122.5 885,-129.5"/>
+<path fill="none" stroke="black" d="M863.98,-180C872.23,-180 881.37,-180 891.18,-180"/>
+<polygon fill="black" stroke="black" points="891,-183.5 901,-180 891,-176.5 891,-183.5"/>
 </g>
 <!-- 51 -->
 <!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 51, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
 <g id="node9" class="node">
 <title>51</title>
-<ellipse fill="none" stroke="black" cx="660.41" cy="-72" rx="43.67" ry="18"/>
-<text text-anchor="middle" x="660.41" y="-66.95" font-family="Times,serif" font-size="14.00">List Size</text>
+<ellipse fill="none" stroke="black" cx="819.07" cy="-126" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="819.07" y="-120.95" font-family="Times,serif" font-size="14.00">List Size</text>
 </g>
 <!-- 50&#45;&gt;51 -->
 <g id="edge8" class="edge">
 <title>50&#45;&gt;51</title>
-<path fill="none" stroke="black" d="M536.5,-72C560.43,-72 584.65,-72 605.19,-72"/>
-<polygon fill="black" stroke="black" points="604.99,-75.5 614.99,-72 604.99,-68.5 604.99,-75.5"/>
+<path fill="none" stroke="black" d="M529.03,-107.67C604.87,-112.48 704.14,-118.77 764.4,-122.6"/>
+<polygon fill="black" stroke="black" points="763.84,-126.07 774.04,-123.21 764.28,-119.08 763.84,-126.07"/>
 </g>
 <!-- 53 -->
 <!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 53, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
 <g id="node11" class="node">
 <title>53</title>
-<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="660.41" cy="-18" rx="74.89" ry="18"/>
-<text text-anchor="middle" x="660.41" y="-12.95" font-family="Times,serif" font-size="14.00">example element</text>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="660.41" cy="-74" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="660.41" y="-68.95" font-family="Times,serif" font-size="14.00">example element</text>
 </g>
 <!-- 50&#45;&gt;53 -->
 <g id="edge10" class="edge">
 <title>50&#45;&gt;53</title>
-<path fill="none" stroke="black" d="M489.21,-57.03C521.98,-49.51 561.57,-40.44 594.32,-32.93"/>
-<polygon fill="black" stroke="black" points="594.7,-36.43 603.67,-30.78 593.14,-29.61 594.7,-36.43"/>
+<path fill="none" stroke="black" d="M515.98,-90.45C537.42,-87.99 560.06,-85.39 580.86,-83.01"/>
+<polygon fill="black" stroke="black" points="581.16,-86.49 590.7,-81.88 580.36,-79.54 581.16,-86.49"/>
 </g>
 <!-- 52 -->
 <!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 52, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
 <g id="node10" class="node">
 <title>52</title>
-<ellipse fill="none" stroke="black" cx="1143.05" cy="-72" rx="68.24" ry="18"/>
-<text text-anchor="middle" x="1143.05" y="-66.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+<ellipse fill="none" stroke="black" cx="1149.19" cy="-126" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="1149.19" y="-120.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
 </g>
 <!-- 51&#45;&gt;52 -->
 <g id="edge9" class="edge">
 <title>51&#45;&gt;52</title>
-<path fill="none" stroke="black" d="M704.49,-72C785.33,-72 960.84,-72 1063.32,-72"/>
-<polygon fill="black" stroke="black" points="1063.01,-75.5 1073.01,-72 1063.01,-68.5 1063.01,-75.5"/>
+<path fill="none" stroke="black" d="M862.97,-126C915.16,-126 1004.32,-126 1069.09,-126"/>
+<polygon fill="black" stroke="black" points="1068.96,-129.5 1078.96,-126 1068.96,-122.5 1068.96,-129.5"/>
 </g>
 <!-- 54 -->
 <!-- name: &quot;Preset&quot;, typeName: &quot;SharedTypes::v1_21_50::CameraAimAssistPresetDefinition&quot;, id: 54, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
 <g id="node12" class="node">
 <title>54</title>
-<ellipse fill="none" stroke="black" cx="816" cy="-18" rx="33.44" ry="18"/>
-<text text-anchor="middle" x="816" y="-12.95" font-family="Times,serif" font-size="14.00">Preset</text>
+<ellipse fill="none" stroke="black" cx="819.07" cy="-72" rx="33.44" ry="18"/>
+<text text-anchor="middle" x="819.07" y="-66.95" font-family="Times,serif" font-size="14.00">Preset</text>
 </g>
 <!-- 53&#45;&gt;54 -->
 <g id="edge11" class="edge">
 <title>53&#45;&gt;54</title>
-<path fill="none" stroke="black" d="M735.51,-18C747.56,-18 759.71,-18 770.75,-18"/>
-<polygon fill="black" stroke="black" points="770.73,-21.5 780.73,-18 770.73,-14.5 770.73,-21.5"/>
+<path fill="none" stroke="black" d="M735.61,-73.05C748.66,-72.89 761.86,-72.72 773.77,-72.57"/>
+<polygon fill="black" stroke="black" points="773.71,-76.07 783.67,-72.44 773.62,-69.07 773.71,-76.07"/>
 </g>
 <!-- 84 -->
 <!-- name: &quot;SharedTypes::v1_21_50::CameraAimAssistPresetDefinition&quot;, typeName: &quot;&quot;, id: 84, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
 <g id="node13" class="node">
 <title>84</title>
-<ellipse fill="none" stroke="black" cx="1143.05" cy="-18" rx="235.09" ry="18"/>
-<text text-anchor="middle" x="1143.05" y="-12.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_50::CameraAimAssistPresetDefinition</text>
+<ellipse fill="none" stroke="black" cx="1149.19" cy="-72" rx="235.09" ry="18"/>
+<text text-anchor="middle" x="1149.19" y="-66.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_50::CameraAimAssistPresetDefinition</text>
 </g>
 <!-- 54&#45;&gt;84 -->
 <g id="edge12" class="edge">
 <title>54&#45;&gt;84</title>
-<path fill="none" stroke="black" d="M849.66,-18C862.52,-18 878.49,-18 896.29,-18"/>
-<polygon fill="black" stroke="black" points="896.08,-21.5 906.08,-18 896.08,-14.5 896.08,-21.5"/>
+<path fill="none" stroke="black" d="M852.73,-72C866.28,-72 883.28,-72 902.25,-72"/>
+<polygon fill="black" stroke="black" points="902.12,-75.5 912.12,-72 902.12,-68.5 902.12,-75.5"/>
+</g>
+<!-- 100 -->
+<!-- name: &quot;byte&quot;, typeName: &quot;&quot;, id: 100, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node15" class="node">
+<title>100</title>
+<ellipse fill="none" stroke="black" cx="1149.19" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="1149.19" y="-12.95" font-family="Times,serif" font-size="14.00">byte</text>
+</g>
+<!-- 99&#45;&gt;100 -->
+<g id="edge14" class="edge">
+<title>99&#45;&gt;100</title>
+<path fill="none" stroke="black" d="M867.08,-18C932.7,-18 1050.45,-18 1110.6,-18"/>
+<polygon fill="black" stroke="black" points="1110.31,-21.5 1120.31,-18 1110.31,-14.5 1110.31,-21.5"/>
 </g>
 </g>
 </svg>
