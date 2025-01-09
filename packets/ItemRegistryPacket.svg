@@ -1,0 +1,92 @@
+<svg width="1064px" height="98px"
+ viewBox="0.00 0.00 1063.70 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>ItemRegistryPacket</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-94 1059.7,-94 1059.7,4 -4,4"/>
+<!-- 0 -->
+<!-- name: &quot;ItemRegistryPacket&quot;, typeName: &quot;&quot;, id: 0, branchId: 11, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>0</title>
+<ellipse fill="none" stroke="black" cx="84.11" cy="-45" rx="84.11" ry="18"/>
+<text text-anchor="middle" x="84.11" y="-39.95" font-family="Times,serif" font-size="14.00">ItemRegistryPacket</text>
+</g>
+<!-- 1 -->
+<!-- name: &quot;Item List &#45; every vanilla item must be present&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="386.59" cy="-45" rx="182.37" ry="18"/>
+<text text-anchor="middle" x="386.59" y="-39.95" font-family="Times,serif" font-size="14.00">Item List &#45; every vanilla item must be present</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M168.41,-45C176.17,-45 184.23,-45 192.48,-45"/>
+<polygon fill="black" stroke="black" points="192.32,-48.5 202.32,-45 192.32,-41.5 192.32,-48.5"/>
+</g>
+<!-- 2 -->
+<!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="836.99" cy="-72" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="836.99" y="-66.95" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M543.79,-54.41C626.72,-59.4 723.36,-65.22 782.08,-68.75"/>
+<polygon fill="black" stroke="black" points="781.6,-72.23 791.8,-69.34 782.02,-65.24 781.6,-72.23"/>
+</g>
+<!-- 4 -->
+<!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 4, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="679.86" cy="-22" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="679.86" y="-16.95" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 1&#45;&gt;4 -->
+<g id="edge4" class="edge">
+<title>1&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M531.09,-33.67C553.75,-31.88 576.47,-30.08 597.07,-28.46"/>
+<polygon fill="black" stroke="black" points="597.08,-31.97 606.78,-27.69 596.53,-24.99 597.08,-31.97"/>
+</g>
+<!-- 3 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 3, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="987.46" cy="-72" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="987.46" y="-66.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M880.93,-72C889.39,-72 898.52,-72 907.74,-72"/>
+<polygon fill="black" stroke="black" points="907.48,-75.5 917.48,-72 907.48,-68.5 907.48,-75.5"/>
+</g>
+<!-- 5 -->
+<!-- name: &quot;Item Info&quot;, typeName: &quot;ItemData&quot;, id: 5, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;See: ItemData Type&quot; -->
+<g id="node6" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="836.99" cy="-18" rx="46.23" ry="18"/>
+<text text-anchor="middle" x="836.99" y="-12.95" font-family="Times,serif" font-size="14.00">Item Info</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M754.79,-20.09C762.97,-19.88 771.2,-19.67 779.12,-19.47"/>
+<polygon fill="black" stroke="black" points="779.04,-22.97 788.95,-19.21 778.86,-15.97 779.04,-22.97"/>
+</g>
+<!-- 6 -->
+<!-- name: &quot;ItemData&quot;, typeName: &quot;&quot;, id: 6, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="987.46" cy="-18" rx="45.72" ry="18"/>
+<text text-anchor="middle" x="987.46" y="-12.95" font-family="Times,serif" font-size="14.00">ItemData</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M883.34,-18C898.02,-18 914.48,-18 929.87,-18"/>
+<polygon fill="black" stroke="black" points="929.87,-21.5 939.87,-18 929.87,-14.5 929.87,-21.5"/>
+</g>
+</g>
+</svg>
