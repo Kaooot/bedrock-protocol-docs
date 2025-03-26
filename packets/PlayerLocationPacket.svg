@@ -1,0 +1,159 @@
+<svg width="919px" height="206px"
+ viewBox="0.00 0.00 918.63 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 202.0)">
+<title>PlayerLocationPacket</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-202 914.63,-202 914.63,4 -4,4"/>
+<!-- 0 -->
+<!-- name: &quot;PlayerLocationPacket&quot;, typeName: &quot;&quot;, id: 0, branchId: 323, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>0</title>
+<ellipse fill="none" stroke="black" cx="91.78" cy="-113" rx="91.78" ry="18"/>
+<text text-anchor="middle" x="91.78" y="-107.95" font-family="Times,serif" font-size="14.00">PlayerLocationPacket</text>
+</g>
+<!-- 1 -->
+<!-- name: &quot;Packet Type&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;Whether or not packet has graphics mode change&quot; -->
+<g id="node2" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="307.44" cy="-153" rx="56.47" ry="18"/>
+<text text-anchor="middle" x="307.44" y="-147.95" font-family="Times,serif" font-size="14.00">Packet Type</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M159.51,-125.49C187.47,-130.73 219.72,-136.76 246.87,-141.85"/>
+<polygon fill="black" stroke="black" points="246.21,-145.28 256.68,-143.68 247.5,-138.4 246.21,-145.28"/>
+</g>
+<!-- 3 -->
+<!-- name: &quot;Dependency on &#39;Packet Type&#39;&quot;, typeName: &quot;&quot;, id: 3, branchId: 0, recurseId: &#45;1, attributes: 2, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>3</title>
+<polygon fill="none" stroke="black" points="389.32,-104 219.57,-104 219.57,-68 395.32,-68 395.32,-98 389.32,-104"/>
+<polyline fill="none" stroke="black" points="389.32,-104 389.32,-98"/>
+<polyline fill="none" stroke="black" points="395.32,-98 389.32,-98"/>
+<text text-anchor="middle" x="307.44" y="-80.95" font-family="Times,serif" font-size="14.00">Dependency on &#39;Packet Type&#39;</text>
+</g>
+<!-- 0&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>0&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M169.92,-103.25C182.31,-101.69 195.28,-100.05 208.08,-98.43"/>
+<polygon fill="black" stroke="black" points="208.29,-101.93 217.77,-97.21 207.41,-94.99 208.29,-101.93"/>
+</g>
+<!-- 2 -->
+<!-- name: &quot;int&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="841.88" cy="-180" rx="27" ry="18"/>
+<text text-anchor="middle" x="841.88" y="-174.95" font-family="Times,serif" font-size="14.00">int</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M363.67,-155.8C472.23,-161.31 710.92,-173.41 803.32,-178.1"/>
+<polygon fill="black" stroke="black" points="802.93,-181.58 813.09,-178.59 803.28,-174.59 802.93,-181.58"/>
+</g>
+<!-- 4 -->
+<!-- name: &quot;If Coordinates&quot;, typeName: &quot;&quot;, id: 4, branchId: 0, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>4</title>
+<polygon fill="none" stroke="black" points="522.04,-104 431.32,-86 522.04,-68 612.75,-86 522.04,-104"/>
+<text text-anchor="middle" x="522.04" y="-80.95" font-family="Times,serif" font-size="14.00">If Coordinates</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge4" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M395.53,-86C402.75,-86 410.1,-86 417.43,-86"/>
+<polygon fill="black" stroke="black" points="417.4,-89.5 427.4,-86 417.4,-82.5 417.4,-89.5"/>
+</g>
+<!-- 9 -->
+<!-- name: &quot;If Hide&quot;, typeName: &quot;&quot;, id: 9, branchId: 1, recurseId: &#45;1, attributes: 4, notes: &quot;&quot; -->
+<g id="node10" class="node">
+<title>9</title>
+<polygon fill="none" stroke="black" points="522.04,-43 468.96,-25 522.04,-7 575.11,-25 522.04,-43"/>
+<text text-anchor="middle" x="522.04" y="-19.95" font-family="Times,serif" font-size="14.00">If Hide</text>
+</g>
+<!-- 3&#45;&gt;9 -->
+<g id="edge9" class="edge">
+<title>3&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M372.81,-67.53C408.02,-57.43 450.56,-45.22 481.01,-36.48"/>
+<polygon fill="black" stroke="black" points="481.95,-39.86 490.6,-33.73 480.02,-33.13 481.95,-39.86"/>
+</g>
+<!-- 5 -->
+<!-- name: &quot;Actor ID&quot;, typeName: &quot;&quot;, id: 5, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="692.94" cy="-126" rx="44.19" ry="18"/>
+<text text-anchor="middle" x="692.94" y="-120.95" font-family="Times,serif" font-size="14.00">Actor ID</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M564.79,-95.89C588.51,-101.51 618.33,-108.57 643.12,-114.44"/>
+<polygon fill="black" stroke="black" points="642.12,-117.8 652.65,-116.7 643.73,-110.99 642.12,-117.8"/>
+</g>
+<!-- 7 -->
+<!-- name: &quot;Pos&quot;, typeName: &quot;&quot;, id: 7, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node8" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="692.94" cy="-72" rx="27" ry="18"/>
+<text text-anchor="middle" x="692.94" y="-66.95" font-family="Times,serif" font-size="14.00">Pos</text>
+</g>
+<!-- 4&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>4&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M587.85,-80.63C610.46,-78.75 635.05,-76.72 654.65,-75.09"/>
+<polygon fill="black" stroke="black" points="654.66,-78.6 664.34,-74.29 654.09,-71.63 654.66,-78.6"/>
+</g>
+<!-- 6 -->
+<!-- name: &quot;ActorUniqueID&quot;, typeName: &quot;&quot;, id: 6, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="841.88" cy="-126" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="841.88" y="-120.95" font-family="Times,serif" font-size="14.00">ActorUniqueID</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M737.23,-126C744.91,-126 753.13,-126 761.45,-126"/>
+<polygon fill="black" stroke="black" points="761.3,-129.5 771.3,-126 761.3,-122.5 761.3,-129.5"/>
+</g>
+<!-- 8 -->
+<!-- name: &quot;Vec3&quot;, typeName: &quot;&quot;, id: 8, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="841.88" cy="-72" rx="29.34" ry="18"/>
+<text text-anchor="middle" x="841.88" y="-66.95" font-family="Times,serif" font-size="14.00">Vec3</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge8" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M720.21,-72C742.61,-72 775.18,-72 800.83,-72"/>
+<polygon fill="black" stroke="black" points="800.56,-75.5 810.56,-72 800.56,-68.5 800.56,-75.5"/>
+</g>
+<!-- 10 -->
+<!-- name: &quot;Actor ID&quot;, typeName: &quot;&quot;, id: 10, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="692.94" cy="-18" rx="44.19" ry="18"/>
+<text text-anchor="middle" x="692.94" y="-12.95" font-family="Times,serif" font-size="14.00">Actor ID</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge10" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M570.53,-23.03C591.29,-22.17 615.76,-21.16 637.28,-20.27"/>
+<polygon fill="black" stroke="black" points="637.19,-23.77 647.04,-19.86 636.9,-16.78 637.19,-23.77"/>
+</g>
+<!-- 11 -->
+<!-- name: &quot;ActorUniqueID&quot;, typeName: &quot;&quot;, id: 11, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node12" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="841.88" cy="-18" rx="68.75" ry="18"/>
+<text text-anchor="middle" x="841.88" y="-12.95" font-family="Times,serif" font-size="14.00">ActorUniqueID</text>
+</g>
+<!-- 10&#45;&gt;11 -->
+<g id="edge11" class="edge">
+<title>10&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M737.23,-18C744.91,-18 753.13,-18 761.45,-18"/>
+<polygon fill="black" stroke="black" points="761.3,-21.5 771.3,-18 761.3,-14.5 761.3,-21.5"/>
+</g>
+</g>
+</svg>
