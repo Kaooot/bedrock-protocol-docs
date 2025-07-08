@@ -1,0 +1,248 @@
+<svg width="1022px" height="368px"
+ viewBox="0.00 0.00 1021.73 368.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 364.0)">
+<title>BiomeCappedSurfaceData</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-364 1017.73,-364 1017.73,4 -4,4"/>
+<!-- 245 -->
+<!-- name: &quot;BiomeCappedSurfaceData&quot;, typeName: &quot;&quot;, id: 245, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>245</title>
+<ellipse fill="none" stroke="black" cx="109.7" cy="-126" rx="109.7" ry="18"/>
+<text text-anchor="middle" x="109.7" y="-120.95" font-family="Times,serif" font-size="14.00">BiomeCappedSurfaceData</text>
+</g>
+<!-- 246 -->
+<!-- name: &quot;block&quot;, typeName: &quot;&quot;, id: 246, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>246</title>
+<ellipse fill="none" stroke="black" cx="329.27" cy="-288" rx="31.39" ry="18"/>
+<text text-anchor="middle" x="329.27" y="-282.95" font-family="Times,serif" font-size="14.00">block</text>
+</g>
+<!-- 245&#45;&gt;246 -->
+<g id="edge1" class="edge">
+<title>245&#45;&gt;246</title>
+<path fill="none" stroke="black" d="M134.81,-143.96C175.34,-174.13 256.89,-234.86 300.03,-266.97"/>
+<polygon fill="black" stroke="black" points="297.8,-269.68 307.91,-272.84 301.98,-264.06 297.8,-269.68"/>
+</g>
+<!-- 252 -->
+<!-- name: &quot;block&quot;, typeName: &quot;&quot;, id: 252, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
+<g id="node8" class="node">
+<title>252</title>
+<ellipse fill="none" stroke="black" cx="329.27" cy="-180" rx="31.39" ry="18"/>
+<text text-anchor="middle" x="329.27" y="-174.95" font-family="Times,serif" font-size="14.00">block</text>
+</g>
+<!-- 245&#45;&gt;252 -->
+<g id="edge7" class="edge">
+<title>245&#45;&gt;252</title>
+<path fill="none" stroke="black" d="M171.88,-141.19C209.43,-150.51 256.41,-162.17 289.03,-170.26"/>
+<polygon fill="black" stroke="black" points="287.91,-173.59 298.46,-172.6 289.59,-166.8 287.91,-173.59"/>
+</g>
+<!-- 258 -->
+<!-- name: &quot;sea block&quot;, typeName: &quot;std::optional&lt;unsigned int&gt;&quot;, id: 258, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node14" class="node">
+<title>258</title>
+<ellipse fill="none" stroke="black" cx="687.54" cy="-126" rx="45.72" ry="18"/>
+<text text-anchor="middle" x="687.54" y="-120.95" font-family="Times,serif" font-size="14.00">sea block</text>
+</g>
+<!-- 245&#45;&gt;258 -->
+<g id="edge13" class="edge">
+<title>245&#45;&gt;258</title>
+<path fill="none" stroke="black" d="M219.69,-126C341.91,-126 535.42,-126 630.31,-126"/>
+<polygon fill="black" stroke="black" points="630.14,-129.5 640.14,-126 630.14,-122.5 630.14,-129.5"/>
+</g>
+<!-- 260 -->
+<!-- name: &quot;foundation block&quot;, typeName: &quot;std::optional&lt;unsigned int&gt;&quot;, id: 260, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node16" class="node">
+<title>260</title>
+<ellipse fill="none" stroke="black" cx="329.27" cy="-77" rx="73.87" ry="18"/>
+<text text-anchor="middle" x="329.27" y="-71.95" font-family="Times,serif" font-size="14.00">foundation block</text>
+</g>
+<!-- 245&#45;&gt;260 -->
+<g id="edge15" class="edge">
+<title>245&#45;&gt;260</title>
+<path fill="none" stroke="black" d="M175.98,-111.3C203.48,-105.1 235.42,-97.91 262.93,-91.71"/>
+<polygon fill="black" stroke="black" points="263.56,-95.16 272.55,-89.55 262.02,-88.33 263.56,-95.16"/>
+</g>
+<!-- 262 -->
+<!-- name: &quot;beach block&quot;, typeName: &quot;std::optional&lt;unsigned int&gt;&quot;, id: 262, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node18" class="node">
+<title>262</title>
+<ellipse fill="none" stroke="black" cx="687.54" cy="-22" rx="55.45" ry="18"/>
+<text text-anchor="middle" x="687.54" y="-16.95" font-family="Times,serif" font-size="14.00">beach block</text>
+</g>
+<!-- 245&#45;&gt;262 -->
+<g id="edge17" class="edge">
+<title>245&#45;&gt;262</title>
+<path fill="none" stroke="black" d="M136.48,-108.16C164.38,-89.91 210.87,-62.53 255.4,-50 381.38,-14.56 535.91,-14.42 621.55,-17.93"/>
+<polygon fill="black" stroke="black" points="621.26,-21.42 631.4,-18.36 621.57,-14.42 621.26,-21.42"/>
+</g>
+<!-- 247 -->
+<!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 247, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>247</title>
+<ellipse fill="none" stroke="black" cx="514.03" cy="-342" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="514.03" y="-336.95" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 246&#45;&gt;247 -->
+<g id="edge2" class="edge">
+<title>246&#45;&gt;247</title>
+<path fill="none" stroke="black" d="M357.63,-296.08C386.47,-304.61 432.42,-318.18 466.88,-328.36"/>
+<polygon fill="black" stroke="black" points="465.6,-331.64 476.18,-331.11 467.58,-324.92 465.6,-331.64"/>
+</g>
+<!-- 249 -->
+<!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 249, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>249</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="514.03" cy="-288" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="514.03" y="-282.95" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 246&#45;&gt;249 -->
+<g id="edge4" class="edge">
+<title>246&#45;&gt;249</title>
+<path fill="none" stroke="black" d="M360.86,-288C379.28,-288 403.73,-288 427.64,-288"/>
+<polygon fill="black" stroke="black" points="427.42,-291.5 437.42,-288 427.42,-284.5 427.42,-291.5"/>
+</g>
+<!-- 248 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 248, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>248</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-342" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-336.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 247&#45;&gt;248 -->
+<g id="edge3" class="edge">
+<title>247&#45;&gt;248</title>
+<path fill="none" stroke="black" d="M557.95,-342C621.27,-342 740.75,-342 820.12,-342"/>
+<polygon fill="black" stroke="black" points="820.01,-345.5 830.01,-342 820.01,-338.5 820.01,-345.5"/>
+</g>
+<!-- 250 -->
+<!-- name: &quot;floor blocks&quot;, typeName: &quot;int&quot;, id: 250, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>250</title>
+<ellipse fill="none" stroke="black" cx="687.54" cy="-288" rx="55.45" ry="18"/>
+<text text-anchor="middle" x="687.54" y="-282.95" font-family="Times,serif" font-size="14.00">floor blocks</text>
+</g>
+<!-- 249&#45;&gt;250 -->
+<g id="edge5" class="edge">
+<title>249&#45;&gt;250</title>
+<path fill="none" stroke="black" d="M589.26,-288C599.65,-288 610.27,-288 620.5,-288"/>
+<polygon fill="black" stroke="black" points="620.33,-291.5 630.33,-288 620.33,-284.5 620.33,-291.5"/>
+</g>
+<!-- 251 -->
+<!-- name: &quot;int&quot;, typeName: &quot;&quot;, id: 251, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>251</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-288" rx="27" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-282.95" font-family="Times,serif" font-size="14.00">int</text>
+</g>
+<!-- 250&#45;&gt;251 -->
+<g id="edge6" class="edge">
+<title>250&#45;&gt;251</title>
+<path fill="none" stroke="black" d="M743.27,-288C780.36,-288 828.41,-288 861.26,-288"/>
+<polygon fill="black" stroke="black" points="861.11,-291.5 871.11,-288 861.11,-284.5 861.11,-291.5"/>
+</g>
+<!-- 253 -->
+<!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 253, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>253</title>
+<ellipse fill="none" stroke="black" cx="514.03" cy="-234" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="514.03" y="-228.95" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 252&#45;&gt;253 -->
+<g id="edge8" class="edge">
+<title>252&#45;&gt;253</title>
+<path fill="none" stroke="black" d="M357.63,-188.08C386.47,-196.61 432.42,-210.18 466.88,-220.36"/>
+<polygon fill="black" stroke="black" points="465.6,-223.64 476.18,-223.11 467.58,-216.92 465.6,-223.64"/>
+</g>
+<!-- 255 -->
+<!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 255, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>255</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="514.03" cy="-180" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="514.03" y="-174.95" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 252&#45;&gt;255 -->
+<g id="edge10" class="edge">
+<title>252&#45;&gt;255</title>
+<path fill="none" stroke="black" d="M360.86,-180C379.28,-180 403.73,-180 427.64,-180"/>
+<polygon fill="black" stroke="black" points="427.42,-183.5 437.42,-180 427.42,-176.5 427.42,-183.5"/>
+</g>
+<!-- 254 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 254, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node10" class="node">
+<title>254</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-234" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-228.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 253&#45;&gt;254 -->
+<g id="edge9" class="edge">
+<title>253&#45;&gt;254</title>
+<path fill="none" stroke="black" d="M557.95,-234C621.27,-234 740.75,-234 820.12,-234"/>
+<polygon fill="black" stroke="black" points="820.01,-237.5 830.01,-234 820.01,-230.5 820.01,-237.5"/>
+</g>
+<!-- 256 -->
+<!-- name: &quot;ceiling blocks&quot;, typeName: &quot;int&quot;, id: 256, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node12" class="node">
+<title>256</title>
+<ellipse fill="none" stroke="black" cx="687.54" cy="-180" rx="62.61" ry="18"/>
+<text text-anchor="middle" x="687.54" y="-174.95" font-family="Times,serif" font-size="14.00">ceiling blocks</text>
+</g>
+<!-- 255&#45;&gt;256 -->
+<g id="edge11" class="edge">
+<title>255&#45;&gt;256</title>
+<path fill="none" stroke="black" d="M589.26,-180C597.17,-180 605.21,-180 613.1,-180"/>
+<polygon fill="black" stroke="black" points="613.03,-183.5 623.03,-180 613.03,-176.5 613.03,-183.5"/>
+</g>
+<!-- 257 -->
+<!-- name: &quot;int&quot;, typeName: &quot;&quot;, id: 257, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node13" class="node">
+<title>257</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-180" rx="27" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-174.95" font-family="Times,serif" font-size="14.00">int</text>
+</g>
+<!-- 256&#45;&gt;257 -->
+<g id="edge12" class="edge">
+<title>256&#45;&gt;257</title>
+<path fill="none" stroke="black" d="M750.53,-180C786.38,-180 830.33,-180 861.06,-180"/>
+<polygon fill="black" stroke="black" points="861.04,-183.5 871.04,-180 861.04,-176.5 861.04,-183.5"/>
+</g>
+<!-- 259 -->
+<!-- name: &quot;std::optional&lt;unsigned int&gt;&quot;, typeName: &quot;&quot;, id: 259, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node15" class="node">
+<title>259</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-126" rx="113.79" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-120.95" font-family="Times,serif" font-size="14.00">std::optional&lt;unsigned int&gt;</text>
+</g>
+<!-- 258&#45;&gt;259 -->
+<g id="edge14" class="edge">
+<title>258&#45;&gt;259</title>
+<path fill="none" stroke="black" d="M733.67,-126C746.09,-126 760.18,-126 774.77,-126"/>
+<polygon fill="black" stroke="black" points="774.5,-129.5 784.5,-126 774.5,-122.5 774.5,-129.5"/>
+</g>
+<!-- 261 -->
+<!-- name: &quot;std::optional&lt;unsigned int&gt;&quot;, typeName: &quot;&quot;, id: 261, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node17" class="node">
+<title>261</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-72" rx="113.79" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-66.95" font-family="Times,serif" font-size="14.00">std::optional&lt;unsigned int&gt;</text>
+</g>
+<!-- 260&#45;&gt;261 -->
+<g id="edge16" class="edge">
+<title>260&#45;&gt;261</title>
+<path fill="none" stroke="black" d="M403.45,-76.36C497.12,-75.53 660.85,-74.09 774.33,-73.1"/>
+<polygon fill="black" stroke="black" points="774.36,-76.6 784.33,-73.01 774.3,-69.6 774.36,-76.6"/>
+</g>
+<!-- 263 -->
+<!-- name: &quot;std::optional&lt;unsigned int&gt;&quot;, typeName: &quot;&quot;, id: 263, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node19" class="node">
+<title>263</title>
+<ellipse fill="none" stroke="black" cx="899.94" cy="-18" rx="113.79" ry="18"/>
+<text text-anchor="middle" x="899.94" y="-12.95" font-family="Times,serif" font-size="14.00">std::optional&lt;unsigned int&gt;</text>
+</g>
+<!-- 262&#45;&gt;263 -->
+<g id="edge18" class="edge">
+<title>262&#45;&gt;263</title>
+<path fill="none" stroke="black" d="M743.27,-20.96C753.31,-20.77 764.16,-20.56 775.3,-20.35"/>
+<polygon fill="black" stroke="black" points="775.06,-23.86 785,-20.17 774.93,-16.86 775.06,-23.86"/>
+</g>
+</g>
+</svg>

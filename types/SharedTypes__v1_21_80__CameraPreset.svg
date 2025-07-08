@@ -1,0 +1,586 @@
+<svg width="1243px" height="1178px"
+ viewBox="0.00 0.00 1242.83 1178.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 1174.0)">
+<title>SharedTypes::v1_21_80::CameraPreset</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1174 1238.83,-1174 1238.83,4 -4,4"/>
+<!-- 8 -->
+<!-- name: &quot;SharedTypes::v1_21_80::CameraPreset&quot;, typeName: &quot;&quot;, id: 8, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="157.81" cy="-585" rx="157.81" ry="18"/>
+<text text-anchor="middle" x="157.81" y="-579.95" font-family="Times,serif" font-size="14.00">SharedTypes::v1_21_80::CameraPreset</text>
+</g>
+<!-- 9 -->
+<!-- name: &quot;Name&quot;, typeName: &quot;&quot;, id: 9, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-1152" rx="33.44" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-1146.95" font-family="Times,serif" font-size="14.00">Name</text>
+</g>
+<!-- 8&#45;&gt;9 -->
+<g id="edge1" class="edge">
+<title>8&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M159.46,-603.44C163.22,-680.12 188.21,-976.59 351.61,-1125 368.63,-1140.45 393.19,-1147.36 414.51,-1150.33"/>
+<polygon fill="black" stroke="black" points="414.12,-1153.81 424.45,-1151.44 414.89,-1146.85 414.12,-1153.81"/>
+</g>
+<!-- 11 -->
+<!-- name: &quot;Inherit From&quot;, typeName: &quot;&quot;, id: 11, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-1098" rx="58.52" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-1092.95" font-family="Times,serif" font-size="14.00">Inherit From</text>
+</g>
+<!-- 8&#45;&gt;11 -->
+<g id="edge3" class="edge">
+<title>8&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M160.27,-603.32C167,-675.04 201.48,-939.33 351.61,-1071 362.76,-1080.78 376.95,-1087.11 391.32,-1091.19"/>
+<polygon fill="black" stroke="black" points="390.29,-1094.54 400.83,-1093.53 391.96,-1087.74 390.29,-1094.54"/>
+</g>
+<!-- 13 -->
+<!-- name: &quot;Pos X&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 13, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>13</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-1044" rx="33.44" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-1038.95" font-family="Times,serif" font-size="14.00">Pos X</text>
+</g>
+<!-- 8&#45;&gt;13 -->
+<g id="edge5" class="edge">
+<title>8&#45;&gt;13</title>
+<path fill="none" stroke="black" d="M161.23,-603.12C171.11,-669.53 214.55,-901.8 351.61,-1017 369.21,-1031.79 393.81,-1038.65 415,-1041.76"/>
+<polygon fill="black" stroke="black" points="414.51,-1045.23 424.86,-1042.95 415.35,-1038.28 414.51,-1045.23"/>
+</g>
+<!-- 18 -->
+<!-- name: &quot;Pos Y&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 18, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node8" class="node">
+<title>18</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-990" rx="32.93" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-984.95" font-family="Times,serif" font-size="14.00">Pos Y</text>
+</g>
+<!-- 8&#45;&gt;18 -->
+<g id="edge7" class="edge">
+<title>8&#45;&gt;18</title>
+<path fill="none" stroke="black" d="M162.53,-603.38C175.95,-664.76 227.76,-864.27 351.61,-963 369.59,-977.33 394.21,-984.16 415.32,-987.37"/>
+<polygon fill="black" stroke="black" points="414.76,-990.83 425.12,-988.62 415.65,-983.88 414.76,-990.83"/>
+</g>
+<!-- 20 -->
+<!-- name: &quot;Pos Z&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 20, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node10" class="node">
+<title>20</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-936" rx="32.41" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-930.95" font-family="Times,serif" font-size="14.00">Pos Z</text>
+</g>
+<!-- 8&#45;&gt;20 -->
+<g id="edge9" class="edge">
+<title>8&#45;&gt;20</title>
+<path fill="none" stroke="black" d="M164.2,-603.47C181.42,-659.09 240.61,-826.28 351.61,-909 370.18,-922.83 395.05,-929.62 416.15,-932.94"/>
+<polygon fill="black" stroke="black" points="415.55,-936.39 425.93,-934.24 416.48,-929.45 415.55,-936.39"/>
+</g>
+<!-- 22 -->
+<!-- name: &quot;Rot X&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 22, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node12" class="node">
+<title>22</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-882" rx="33.44" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-876.95" font-family="Times,serif" font-size="14.00">Rot X</text>
+</g>
+<!-- 8&#45;&gt;22 -->
+<g id="edge11" class="edge">
+<title>8&#45;&gt;22</title>
+<path fill="none" stroke="black" d="M166.32,-603.15C187.53,-652.09 252.89,-787.64 351.61,-855 370.25,-867.71 394.37,-874.44 415.01,-878.01"/>
+<polygon fill="black" stroke="black" points="414.47,-881.46 424.88,-879.49 415.51,-874.54 414.47,-881.46"/>
+</g>
+<!-- 24 -->
+<!-- name: &quot;Rot Y&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 24, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node14" class="node">
+<title>24</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-828" rx="32.93" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-822.95" font-family="Times,serif" font-size="14.00">Rot Y</text>
+</g>
+<!-- 8&#45;&gt;24 -->
+<g id="edge13" class="edge">
+<title>8&#45;&gt;24</title>
+<path fill="none" stroke="black" d="M169.71,-603.38C195.62,-645.36 265.19,-748.67 351.61,-801 370.91,-812.68 395.09,-819.33 415.59,-823.1"/>
+<polygon fill="black" stroke="black" points="414.93,-826.54 425.37,-824.72 416.07,-819.63 414.93,-826.54"/>
+</g>
+<!-- 26 -->
+<!-- name: &quot;Rotation Speed&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 26, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node16" class="node">
+<title>26</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-774" rx="67.73" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-768.95" font-family="Times,serif" font-size="14.00">Rotation Speed</text>
+</g>
+<!-- 8&#45;&gt;26 -->
+<g id="edge15" class="edge">
+<title>8&#45;&gt;26</title>
+<path fill="none" stroke="black" d="M174.92,-603.15C205.79,-636.76 276.88,-708.77 351.61,-747 363.63,-753.14 377.12,-757.95 390.38,-761.69"/>
+<polygon fill="black" stroke="black" points="389.4,-765.05 399.96,-764.2 391.18,-758.28 389.4,-765.05"/>
+</g>
+<!-- 28 -->
+<!-- name: &quot;Snap to Target&quot;, typeName: &quot;std::optional&lt;bool&gt;&quot;, id: 28, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node18" class="node">
+<title>28</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-720" rx="65.17" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-714.95" font-family="Times,serif" font-size="14.00">Snap to Target</text>
+</g>
+<!-- 8&#45;&gt;28 -->
+<g id="edge17" class="edge">
+<title>8&#45;&gt;28</title>
+<path fill="none" stroke="black" d="M185.76,-603.14C222.04,-626.82 289.23,-668.18 351.61,-693 365.32,-698.45 380.47,-703.07 394.94,-706.85"/>
+<polygon fill="black" stroke="black" points="393.83,-710.18 404.38,-709.22 395.53,-703.39 393.83,-710.18"/>
+</g>
+<!-- 33 -->
+<!-- name: &quot;Horizontal Rotation Limit&quot;, typeName: &quot;std::optional&lt;class Vec2&gt;&quot;, id: 33, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node20" class="node">
+<title>33</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-666" rx="108.16" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-660.95" font-family="Times,serif" font-size="14.00">Horizontal Rotation Limit</text>
+</g>
+<!-- 8&#45;&gt;33 -->
+<g id="edge19" class="edge">
+<title>8&#45;&gt;33</title>
+<path fill="none" stroke="black" d="M218.19,-602.07C256.26,-612.9 306.77,-627.07 351.61,-639 362.86,-641.99 374.78,-645.08 386.44,-648.05"/>
+<polygon fill="black" stroke="black" points="385.48,-651.42 396.04,-650.48 387.2,-644.63 385.48,-651.42"/>
+</g>
+<!-- 38 -->
+<!-- name: &quot;Vertical Rotation Limit&quot;, typeName: &quot;std::optional&lt;class Vec2&gt;&quot;, id: 38, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node22" class="node">
+<title>38</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-612" rx="97.41" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-606.95" font-family="Times,serif" font-size="14.00">Vertical Rotation Limit</text>
+</g>
+<!-- 8&#45;&gt;38 -->
+<g id="edge21" class="edge">
+<title>8&#45;&gt;38</title>
+<path fill="none" stroke="black" d="M283.42,-596.22C309.1,-598.53 335.81,-600.93 360.41,-603.15"/>
+<polygon fill="black" stroke="black" points="359.77,-606.6 370.04,-604.01 360.39,-599.63 359.77,-606.6"/>
+</g>
+<!-- 40 -->
+<!-- name: &quot;Continue Targeting&quot;, typeName: &quot;std::optional&lt;bool&gt;&quot;, id: 40, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node24" class="node">
+<title>40</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-558" rx="82.57" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-552.95" font-family="Times,serif" font-size="14.00">Continue Targeting</text>
+</g>
+<!-- 8&#45;&gt;40 -->
+<g id="edge23" class="edge">
+<title>8&#45;&gt;40</title>
+<path fill="none" stroke="black" d="M283.42,-573.78C313.13,-571.11 344.2,-568.31 371.8,-565.83"/>
+<polygon fill="black" stroke="black" points="371.85,-569.34 381.49,-564.96 371.22,-562.37 371.85,-569.34"/>
+</g>
+<!-- 42 -->
+<!-- name: &quot;Block Listening Radius&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 42, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node26" class="node">
+<title>42</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-504" rx="98.44" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-498.95" font-family="Times,serif" font-size="14.00">Block Listening Radius</text>
+</g>
+<!-- 8&#45;&gt;42 -->
+<g id="edge25" class="edge">
+<title>8&#45;&gt;42</title>
+<path fill="none" stroke="black" d="M218.19,-567.93C256.26,-557.1 306.77,-542.93 351.61,-531 363.47,-527.85 376.08,-524.59 388.34,-521.47"/>
+<polygon fill="black" stroke="black" points="389.17,-524.87 398,-519.02 387.45,-518.08 389.17,-524.87"/>
+</g>
+<!-- 44 -->
+<!-- name: &quot;View Offset&quot;, typeName: &quot;std::optional&lt;class Vec2&gt;&quot;, id: 44, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node28" class="node">
+<title>44</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-450" rx="56.47" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-444.95" font-family="Times,serif" font-size="14.00">View Offset</text>
+</g>
+<!-- 8&#45;&gt;44 -->
+<g id="edge27" class="edge">
+<title>8&#45;&gt;44</title>
+<path fill="none" stroke="black" d="M185.76,-566.86C222.04,-543.18 289.23,-501.82 351.61,-477 366.9,-470.92 383.96,-465.88 399.9,-461.88"/>
+<polygon fill="black" stroke="black" points="400.34,-465.37 409.24,-459.62 398.7,-458.56 400.34,-465.37"/>
+</g>
+<!-- 46 -->
+<!-- name: &quot;Entity Offset&quot;, typeName: &quot;std::optional&lt;class Vec3&gt;&quot;, id: 46, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;Changing the camera&#39;s pivot point from the center of the entity&quot; -->
+<g id="node30" class="node">
+<title>46</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-396" rx="59.03" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-390.95" font-family="Times,serif" font-size="14.00">Entity Offset</text>
+</g>
+<!-- 8&#45;&gt;46 -->
+<g id="edge29" class="edge">
+<title>8&#45;&gt;46</title>
+<path fill="none" stroke="black" d="M174.92,-566.85C205.79,-533.24 276.88,-461.23 351.61,-423 365.29,-416 380.9,-410.74 395.88,-406.82"/>
+<polygon fill="black" stroke="black" points="396.3,-410.32 405.18,-404.55 394.64,-403.52 396.3,-410.32"/>
+</g>
+<!-- 51 -->
+<!-- name: &quot;Radius&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 51, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node32" class="node">
+<title>51</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-342" rx="36.51" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-336.95" font-family="Times,serif" font-size="14.00">Radius</text>
+</g>
+<!-- 8&#45;&gt;51 -->
+<g id="edge31" class="edge">
+<title>8&#45;&gt;51</title>
+<path fill="none" stroke="black" d="M169.71,-566.62C195.62,-524.64 265.19,-421.33 351.61,-369 370,-357.87 392.81,-351.31 412.66,-347.45"/>
+<polygon fill="black" stroke="black" points="413.21,-350.91 422.45,-345.74 412,-344.01 413.21,-350.91"/>
+</g>
+<!-- 53 -->
+<!-- name: &quot;Yaw Limit Min&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 53, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node34" class="node">
+<title>53</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-288" rx="69.78" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-282.95" font-family="Times,serif" font-size="14.00">Yaw Limit Min</text>
+</g>
+<!-- 8&#45;&gt;53 -->
+<g id="edge33" class="edge">
+<title>8&#45;&gt;53</title>
+<path fill="none" stroke="black" d="M166.32,-566.85C187.53,-517.91 252.89,-382.36 351.61,-315 361.75,-308.09 373.5,-302.94 385.44,-299.12"/>
+<polygon fill="black" stroke="black" points="386.31,-302.51 394.95,-296.38 384.37,-295.78 386.31,-302.51"/>
+</g>
+<!-- 55 -->
+<!-- name: &quot;Yaw Limit Max&quot;, typeName: &quot;std::optional&lt;float&gt;&quot;, id: 55, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node36" class="node">
+<title>55</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-234" rx="71.31" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-228.95" font-family="Times,serif" font-size="14.00">Yaw Limit Max</text>
+</g>
+<!-- 8&#45;&gt;55 -->
+<g id="edge35" class="edge">
+<title>8&#45;&gt;55</title>
+<path fill="none" stroke="black" d="M164.2,-566.53C181.42,-510.91 240.61,-343.72 351.61,-261 361.06,-253.96 372.13,-248.75 383.52,-244.89"/>
+<polygon fill="black" stroke="black" points="384.47,-248.26 393.03,-242.02 382.45,-241.55 384.47,-248.26"/>
+</g>
+<!-- 57 -->
+<!-- name: &quot;Listener&quot;, typeName: &quot;std::optional&lt;enum SharedTypes::v1_21_80::CameraPreset::AudioListener&gt;&quot;, id: 57, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node38" class="node">
+<title>57</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-180" rx="41.12" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-174.95" font-family="Times,serif" font-size="14.00">Listener</text>
+</g>
+<!-- 8&#45;&gt;57 -->
+<g id="edge37" class="edge">
+<title>8&#45;&gt;57</title>
+<path fill="none" stroke="black" d="M162.53,-566.62C175.95,-505.24 227.76,-305.73 351.61,-207 367.34,-194.46 388.16,-187.67 407.26,-184.01"/>
+<polygon fill="black" stroke="black" points="407.77,-187.47 417.07,-182.4 406.64,-180.57 407.77,-187.47"/>
+</g>
+<!-- 67 -->
+<!-- name: &quot;Player Effects&quot;, typeName: &quot;std::optional&lt;bool&gt;&quot;, id: 67, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node40" class="node">
+<title>67</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-126" rx="63.12" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-120.95" font-family="Times,serif" font-size="14.00">Player Effects</text>
+</g>
+<!-- 8&#45;&gt;67 -->
+<g id="edge39" class="edge">
+<title>8&#45;&gt;67</title>
+<path fill="none" stroke="black" d="M161.23,-566.88C171.11,-500.47 214.55,-268.2 351.61,-153 362,-144.27 374.82,-138.31 387.94,-134.24"/>
+<polygon fill="black" stroke="black" points="388.79,-137.64 397.53,-131.65 386.96,-130.88 388.79,-137.64"/>
+</g>
+<!-- 69 -->
+<!-- name: &quot;Aim Assist&quot;, typeName: &quot;std::optional&lt;struct SharedTypes::v1_21_50::CameraPresetAimAssistDefinition&gt;&quot;, id: 69, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node42" class="node">
+<title>69</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-72" rx="52.38" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-66.95" font-family="Times,serif" font-size="14.00">Aim Assist</text>
+</g>
+<!-- 8&#45;&gt;69 -->
+<g id="edge41" class="edge">
+<title>8&#45;&gt;69</title>
+<path fill="none" stroke="black" d="M160.27,-566.68C167,-494.96 201.48,-230.67 351.61,-99 364.16,-88 380.54,-81.36 396.7,-77.38"/>
+<polygon fill="black" stroke="black" points="397.27,-80.84 406.33,-75.35 395.83,-73.99 397.27,-80.84"/>
+</g>
+<!-- 93 -->
+<!-- name: &quot;Control Scheme&quot;, typeName: &quot;std::optional&lt;enum ControlScheme::Scheme&gt;&quot;, id: 93, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node44" class="node">
+<title>93</title>
+<ellipse fill="none" stroke="black" cx="459.78" cy="-18" rx="71.31" ry="18"/>
+<text text-anchor="middle" x="459.78" y="-12.95" font-family="Times,serif" font-size="14.00">Control Scheme</text>
+</g>
+<!-- 8&#45;&gt;93 -->
+<g id="edge43" class="edge">
+<title>8&#45;&gt;93</title>
+<path fill="none" stroke="black" d="M159.46,-566.56C163.22,-489.88 188.21,-193.41 351.61,-45 360.17,-37.23 370.64,-31.62 381.64,-27.59"/>
+<polygon fill="black" stroke="black" points="382.4,-31.02 390.86,-24.64 380.27,-24.35 382.4,-31.02"/>
+</g>
+<!-- 10 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 10, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-1152" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-1146.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge2" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M493.69,-1152C574.88,-1152 784.74,-1152 875.5,-1152"/>
+<polygon fill="black" stroke="black" points="875.47,-1155.5 885.47,-1152 875.47,-1148.5 875.47,-1155.5"/>
+</g>
+<!-- 12 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 12, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-1098" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-1092.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge4" class="edge">
+<title>11&#45;&gt;12</title>
+<path fill="none" stroke="black" d="M518.73,-1098C612.03,-1098 793.37,-1098 875.78,-1098"/>
+<polygon fill="black" stroke="black" points="875.69,-1101.5 885.69,-1098 875.69,-1094.5 875.69,-1101.5"/>
+</g>
+<!-- 17 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 17, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>17</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-1044" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-1038.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 13&#45;&gt;17 -->
+<g id="edge6" class="edge">
+<title>13&#45;&gt;17</title>
+<path fill="none" stroke="black" d="M493.69,-1044C561.64,-1044 719.69,-1044 822.65,-1044"/>
+<polygon fill="black" stroke="black" points="822.47,-1047.5 832.47,-1044 822.47,-1040.5 822.47,-1047.5"/>
+</g>
+<!-- 19 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 19, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>19</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-990" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-984.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 18&#45;&gt;19 -->
+<g id="edge8" class="edge">
+<title>18&#45;&gt;19</title>
+<path fill="none" stroke="black" d="M492.96,-990C560.51,-990 719.38,-990 822.7,-990"/>
+<polygon fill="black" stroke="black" points="822.57,-993.5 832.57,-990 822.57,-986.5 822.57,-993.5"/>
+</g>
+<!-- 21 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 21, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>21</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-936" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-930.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 20&#45;&gt;21 -->
+<g id="edge10" class="edge">
+<title>20&#45;&gt;21</title>
+<path fill="none" stroke="black" d="M492.59,-936C559.89,-936 718.99,-936 822.51,-936"/>
+<polygon fill="black" stroke="black" points="822.39,-939.5 832.39,-936 822.39,-932.5 822.39,-939.5"/>
+</g>
+<!-- 23 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 23, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node13" class="node">
+<title>23</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-882" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-876.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 22&#45;&gt;23 -->
+<g id="edge12" class="edge">
+<title>22&#45;&gt;23</title>
+<path fill="none" stroke="black" d="M493.69,-882C561.64,-882 719.69,-882 822.65,-882"/>
+<polygon fill="black" stroke="black" points="822.47,-885.5 832.47,-882 822.47,-878.5 822.47,-885.5"/>
+</g>
+<!-- 25 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 25, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node15" class="node">
+<title>25</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-828" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-822.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 24&#45;&gt;25 -->
+<g id="edge14" class="edge">
+<title>24&#45;&gt;25</title>
+<path fill="none" stroke="black" d="M492.96,-828C560.51,-828 719.38,-828 822.7,-828"/>
+<polygon fill="black" stroke="black" points="822.57,-831.5 832.57,-828 822.57,-824.5 822.57,-831.5"/>
+</g>
+<!-- 27 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 27, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node17" class="node">
+<title>27</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-774" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-768.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 26&#45;&gt;27 -->
+<g id="edge16" class="edge">
+<title>26&#45;&gt;27</title>
+<path fill="none" stroke="black" d="M527.81,-774C605.58,-774 734.4,-774 822.68,-774"/>
+<polygon fill="black" stroke="black" points="822.54,-777.5 832.54,-774 822.54,-770.5 822.54,-777.5"/>
+</g>
+<!-- 32 -->
+<!-- name: &quot;std::optional&lt;bool&gt;&quot;, typeName: &quot;&quot;, id: 32, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node19" class="node">
+<title>32</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-720" rx="84.62" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-714.95" font-family="Times,serif" font-size="14.00">std::optional&lt;bool&gt;</text>
+</g>
+<!-- 28&#45;&gt;32 -->
+<g id="edge18" class="edge">
+<title>28&#45;&gt;32</title>
+<path fill="none" stroke="black" d="M525.37,-720C602.9,-720 733.61,-720 822.82,-720"/>
+<polygon fill="black" stroke="black" points="822.8,-723.5 832.8,-720 822.8,-716.5 822.8,-723.5"/>
+</g>
+<!-- 37 -->
+<!-- name: &quot;std::optional&lt;class Vec2&gt;&quot;, typeName: &quot;&quot;, id: 37, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node21" class="node">
+<title>37</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-666" rx="106.63" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-660.95" font-family="Times,serif" font-size="14.00">std::optional&lt;class Vec2&gt;</text>
+</g>
+<!-- 33&#45;&gt;37 -->
+<g id="edge20" class="edge">
+<title>33&#45;&gt;37</title>
+<path fill="none" stroke="black" d="M568.35,-666C638.2,-666 729.23,-666 800.96,-666"/>
+<polygon fill="black" stroke="black" points="800.78,-669.5 810.78,-666 800.78,-662.5 800.78,-669.5"/>
+</g>
+<!-- 39 -->
+<!-- name: &quot;std::optional&lt;class Vec2&gt;&quot;, typeName: &quot;&quot;, id: 39, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node23" class="node">
+<title>39</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-612" rx="106.63" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-606.95" font-family="Times,serif" font-size="14.00">std::optional&lt;class Vec2&gt;</text>
+</g>
+<!-- 38&#45;&gt;39 -->
+<g id="edge22" class="edge">
+<title>38&#45;&gt;39</title>
+<path fill="none" stroke="black" d="M557.54,-612C628.65,-612 725.61,-612 801.12,-612"/>
+<polygon fill="black" stroke="black" points="801.06,-615.5 811.06,-612 801.06,-608.5 801.06,-615.5"/>
+</g>
+<!-- 41 -->
+<!-- name: &quot;std::optional&lt;bool&gt;&quot;, typeName: &quot;&quot;, id: 41, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node25" class="node">
+<title>41</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-558" rx="84.62" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-552.95" font-family="Times,serif" font-size="14.00">std::optional&lt;bool&gt;</text>
+</g>
+<!-- 40&#45;&gt;41 -->
+<g id="edge24" class="edge">
+<title>40&#45;&gt;41</title>
+<path fill="none" stroke="black" d="M542.59,-558C621.28,-558 740.2,-558 823.12,-558"/>
+<polygon fill="black" stroke="black" points="823.06,-561.5 833.06,-558 823.06,-554.5 823.06,-561.5"/>
+</g>
+<!-- 43 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 43, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node27" class="node">
+<title>43</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-504" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-498.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 42&#45;&gt;43 -->
+<g id="edge26" class="edge">
+<title>42&#45;&gt;43</title>
+<path fill="none" stroke="black" d="M558.66,-504C636.74,-504 745.47,-504 822.91,-504"/>
+<polygon fill="black" stroke="black" points="822.58,-507.5 832.58,-504 822.58,-500.5 822.58,-507.5"/>
+</g>
+<!-- 45 -->
+<!-- name: &quot;std::optional&lt;class Vec2&gt;&quot;, typeName: &quot;&quot;, id: 45, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node29" class="node">
+<title>45</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-450" rx="106.63" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-444.95" font-family="Times,serif" font-size="14.00">std::optional&lt;class Vec2&gt;</text>
+</g>
+<!-- 44&#45;&gt;45 -->
+<g id="edge28" class="edge">
+<title>44&#45;&gt;45</title>
+<path fill="none" stroke="black" d="M516.43,-450C586.74,-450 709.59,-450 801.02,-450"/>
+<polygon fill="black" stroke="black" points="800.78,-453.5 810.78,-450 800.78,-446.5 800.78,-453.5"/>
+</g>
+<!-- 50 -->
+<!-- name: &quot;std::optional&lt;class Vec3&gt;&quot;, typeName: &quot;&quot;, id: 50, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node31" class="node">
+<title>50</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-396" rx="106.63" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-390.95" font-family="Times,serif" font-size="14.00">std::optional&lt;class Vec3&gt;</text>
+</g>
+<!-- 46&#45;&gt;50 -->
+<g id="edge30" class="edge">
+<title>46&#45;&gt;50</title>
+<path fill="none" stroke="black" d="M519.2,-396C589.9,-396 710.69,-396 800.92,-396"/>
+<polygon fill="black" stroke="black" points="800.81,-399.5 810.81,-396 800.81,-392.5 800.81,-399.5"/>
+</g>
+<!-- 52 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 52, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node33" class="node">
+<title>52</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-342" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-336.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 51&#45;&gt;52 -->
+<g id="edge32" class="edge">
+<title>51&#45;&gt;52</title>
+<path fill="none" stroke="black" d="M496.68,-342C566.17,-342 721.1,-342 822.57,-342"/>
+<polygon fill="black" stroke="black" points="822.55,-345.5 832.55,-342 822.55,-338.5 822.55,-345.5"/>
+</g>
+<!-- 54 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 54, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node35" class="node">
+<title>54</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-288" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-282.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 53&#45;&gt;54 -->
+<g id="edge34" class="edge">
+<title>53&#45;&gt;54</title>
+<path fill="none" stroke="black" d="M529.78,-288C607.76,-288 735.2,-288 822.74,-288"/>
+<polygon fill="black" stroke="black" points="822.5,-291.5 832.5,-288 822.5,-284.5 822.5,-291.5"/>
+</g>
+<!-- 56 -->
+<!-- name: &quot;std::optional&lt;float&gt;&quot;, typeName: &quot;&quot;, id: 56, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node37" class="node">
+<title>56</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-234" rx="85.13" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-228.95" font-family="Times,serif" font-size="14.00">std::optional&lt;float&gt;</text>
+</g>
+<!-- 55&#45;&gt;56 -->
+<g id="edge36" class="edge">
+<title>55&#45;&gt;56</title>
+<path fill="none" stroke="black" d="M531.53,-234C609.56,-234 735.55,-234 822.43,-234"/>
+<polygon fill="black" stroke="black" points="822.38,-237.5 832.38,-234 822.38,-230.5 822.38,-237.5"/>
+</g>
+<!-- 66 -->
+<!-- name: &quot;std::optional&lt;enum SharedTypes::v1_21_80::CameraPreset::AudioListener&gt;&quot;, typeName: &quot;&quot;, id: 66, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node39" class="node">
+<title>66</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-180" rx="297.02" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-174.95" font-family="Times,serif" font-size="14.00">std::optional&lt;enum SharedTypes::v1_21_80::CameraPreset::AudioListener&gt;</text>
+</g>
+<!-- 57&#45;&gt;66 -->
+<g id="edge38" class="edge">
+<title>57&#45;&gt;66</title>
+<path fill="none" stroke="black" d="M501.39,-180C528.7,-180 567.5,-180 610.55,-180"/>
+<polygon fill="black" stroke="black" points="610.38,-183.5 620.38,-180 610.38,-176.5 610.38,-183.5"/>
+</g>
+<!-- 68 -->
+<!-- name: &quot;std::optional&lt;bool&gt;&quot;, typeName: &quot;&quot;, id: 68, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node41" class="node">
+<title>68</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-126" rx="84.62" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-120.95" font-family="Times,serif" font-size="14.00">std::optional&lt;bool&gt;</text>
+</g>
+<!-- 67&#45;&gt;68 -->
+<g id="edge40" class="edge">
+<title>67&#45;&gt;68</title>
+<path fill="none" stroke="black" d="M522.97,-126C600.3,-126 733.1,-126 823.26,-126"/>
+<polygon fill="black" stroke="black" points="823.07,-129.5 833.07,-126 823.07,-122.5 823.07,-129.5"/>
+</g>
+<!-- 92 -->
+<!-- name: &quot;std::optional&lt;struct SharedTypes::v1_21_50::CameraPresetAimAssistDefinition&gt;&quot;, typeName: &quot;&quot;, id: 92, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node43" class="node">
+<title>92</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-72" rx="315.44" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-66.95" font-family="Times,serif" font-size="14.00">std::optional&lt;struct SharedTypes::v1_21_50::CameraPresetAimAssistDefinition&gt;</text>
+</g>
+<!-- 69&#45;&gt;92 -->
+<g id="edge42" class="edge">
+<title>69&#45;&gt;92</title>
+<path fill="none" stroke="black" d="M512.38,-72C534.34,-72 561.92,-72 592.31,-72"/>
+<polygon fill="black" stroke="black" points="592.11,-75.5 602.11,-72 592.11,-68.5 592.11,-75.5"/>
+</g>
+<!-- 97 -->
+<!-- name: &quot;std::optional&lt;enum ControlScheme::Scheme&gt;&quot;, typeName: &quot;&quot;, id: 97, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node45" class="node">
+<title>97</title>
+<ellipse fill="none" stroke="black" cx="919.38" cy="-18" rx="184.42" ry="18"/>
+<text text-anchor="middle" x="919.38" y="-12.95" font-family="Times,serif" font-size="14.00">std::optional&lt;enum ControlScheme::Scheme&gt;</text>
+</g>
+<!-- 93&#45;&gt;97 -->
+<g id="edge44" class="edge">
+<title>93&#45;&gt;97</title>
+<path fill="none" stroke="black" d="M531.53,-18C582.98,-18 655.28,-18 723.47,-18"/>
+<polygon fill="black" stroke="black" points="723.3,-21.5 733.3,-18 723.3,-14.5 723.3,-21.5"/>
+</g>
+</g>
+</svg>

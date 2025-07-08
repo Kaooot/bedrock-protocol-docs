@@ -1,0 +1,66 @@
+<svg width="577px" height="98px"
+ viewBox="0.00 0.00 577.48 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>BiomeWeightedTemperatureData</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-94 573.48,-94 573.48,4 -4,4"/>
+<!-- 329 -->
+<!-- name: &quot;BiomeWeightedTemperatureData&quot;, typeName: &quot;&quot;, id: 329, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>329</title>
+<ellipse fill="none" stroke="black" cx="136.82" cy="-45" rx="136.82" ry="18"/>
+<text text-anchor="middle" x="136.82" y="-39.95" font-family="Times,serif" font-size="14.00">BiomeWeightedTemperatureData</text>
+</g>
+<!-- 330 -->
+<!-- name: &quot;temperature&quot;, typeName: &quot;&quot;, id: 330, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>330</title>
+<ellipse fill="none" stroke="black" cx="365.09" cy="-72" rx="55.45" ry="18"/>
+<text text-anchor="middle" x="365.09" y="-66.95" font-family="Times,serif" font-size="14.00">temperature</text>
+</g>
+<!-- 329&#45;&gt;330 -->
+<g id="edge1" class="edge">
+<title>329&#45;&gt;330</title>
+<path fill="none" stroke="black" d="M240.04,-57.2C260.89,-59.68 282.24,-62.23 301.22,-64.5"/>
+<polygon fill="black" stroke="black" points="300.56,-67.94 310.9,-65.65 301.39,-60.99 300.56,-67.94"/>
+</g>
+<!-- 332 -->
+<!-- name: &quot;weight&quot;, typeName: &quot;&quot;, id: 332, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>332</title>
+<ellipse fill="none" stroke="black" cx="365.09" cy="-18" rx="36" ry="18"/>
+<text text-anchor="middle" x="365.09" y="-12.95" font-family="Times,serif" font-size="14.00">weight</text>
+</g>
+<!-- 329&#45;&gt;332 -->
+<g id="edge3" class="edge">
+<title>329&#45;&gt;332</title>
+<path fill="none" stroke="black" d="M240.04,-32.8C267.46,-29.53 295.75,-26.15 318.38,-23.45"/>
+<polygon fill="black" stroke="black" points="318.64,-26.95 328.16,-22.29 317.81,-20 318.64,-26.95"/>
+</g>
+<!-- 331 -->
+<!-- name: &quot;varint&quot;, typeName: &quot;&quot;, id: 331, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>331</title>
+<ellipse fill="none" stroke="black" cx="513.01" cy="-72" rx="32.41" ry="18"/>
+<text text-anchor="middle" x="513.01" y="-66.95" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 330&#45;&gt;331 -->
+<g id="edge2" class="edge">
+<title>330&#45;&gt;331</title>
+<path fill="none" stroke="black" d="M420.84,-72C436.82,-72 454.05,-72 469.18,-72"/>
+<polygon fill="black" stroke="black" points="468.77,-75.5 478.77,-72 468.77,-68.5 468.77,-75.5"/>
+</g>
+<!-- 333 -->
+<!-- name: &quot;unsigned int&quot;, typeName: &quot;&quot;, id: 333, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>333</title>
+<ellipse fill="none" stroke="black" cx="513.01" cy="-18" rx="56.47" ry="18"/>
+<text text-anchor="middle" x="513.01" y="-12.95" font-family="Times,serif" font-size="14.00">unsigned int</text>
+</g>
+<!-- 332&#45;&gt;333 -->
+<g id="edge4" class="edge">
+<title>332&#45;&gt;333</title>
+<path fill="none" stroke="black" d="M401.41,-18C414.52,-18 429.86,-18 444.87,-18"/>
+<polygon fill="black" stroke="black" points="444.72,-21.5 454.72,-18 444.72,-14.5 444.72,-21.5"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,144 @@
+<svg width="1121px" height="206px"
+ viewBox="0.00 0.00 1121.02 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 202.0)">
+<title>BiomeConditionalTransformationData</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-202 1117.02,-202 1117.02,4 -4,4"/>
+<!-- 306 -->
+<!-- name: &quot;BiomeConditionalTransformationData&quot;, typeName: &quot;&quot;, id: 306, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>306</title>
+<ellipse fill="none" stroke="black" cx="154.74" cy="-72" rx="154.74" ry="18"/>
+<text text-anchor="middle" x="154.74" y="-66.95" font-family="Times,serif" font-size="14.00">BiomeConditionalTransformationData</text>
+</g>
+<!-- 307 -->
+<!-- name: &quot;weighted biome&quot;, typeName: &quot;&quot;, id: 307, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>307</title>
+<ellipse fill="none" stroke="black" cx="416.27" cy="-126" rx="70.8" ry="18"/>
+<text text-anchor="middle" x="416.27" y="-120.95" font-family="Times,serif" font-size="14.00">weighted biome</text>
+</g>
+<!-- 306&#45;&gt;307 -->
+<g id="edge1" class="edge">
+<title>306&#45;&gt;307</title>
+<path fill="none" stroke="black" d="M232.55,-87.98C269.64,-95.7 313.7,-104.87 349.26,-112.27"/>
+<polygon fill="black" stroke="black" points="348.5,-115.68 359.01,-114.29 349.93,-108.83 348.5,-115.68"/>
+</g>
+<!-- 313 -->
+<!-- name: &quot;condition JSON&quot;, typeName: &quot;short&quot;, id: 313, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node8" class="node">
+<title>313</title>
+<ellipse fill="none" stroke="black" cx="416.27" cy="-72" rx="70.29" ry="18"/>
+<text text-anchor="middle" x="416.27" y="-66.95" font-family="Times,serif" font-size="14.00">condition JSON</text>
+</g>
+<!-- 306&#45;&gt;313 -->
+<g id="edge7" class="edge">
+<title>306&#45;&gt;313</title>
+<path fill="none" stroke="black" d="M309.71,-72C318.07,-72 326.29,-72 334.23,-72"/>
+<polygon fill="black" stroke="black" points="334.12,-75.5 344.12,-72 334.12,-68.5 334.12,-75.5"/>
+</g>
+<!-- 315 -->
+<!-- name: &quot;min passing neighbors&quot;, typeName: &quot;&quot;, id: 315, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node10" class="node">
+<title>315</title>
+<ellipse fill="none" stroke="black" cx="803.72" cy="-22" rx="94.86" ry="18"/>
+<text text-anchor="middle" x="803.72" y="-16.95" font-family="Times,serif" font-size="14.00">min passing neighbors</text>
+</g>
+<!-- 306&#45;&gt;315 -->
+<g id="edge9" class="edge">
+<title>306&#45;&gt;315</title>
+<path fill="none" stroke="black" d="M247.7,-57.19C278.69,-52.66 313.51,-48.07 345.47,-45 466.05,-33.41 605.1,-27.47 697.91,-24.56"/>
+<polygon fill="black" stroke="black" points="697.87,-28.06 707.76,-24.26 697.66,-21.06 697.87,-28.06"/>
+</g>
+<!-- 308 -->
+<!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 308, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>308</title>
+<ellipse fill="none" stroke="black" cx="597.97" cy="-180" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="597.97" y="-174.95" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 307&#45;&gt;308 -->
+<g id="edge2" class="edge">
+<title>307&#45;&gt;308</title>
+<path fill="none" stroke="black" d="M463.08,-139.77C490.13,-147.9 524.26,-158.15 551.29,-166.27"/>
+<polygon fill="black" stroke="black" points="549.99,-169.54 560.57,-169.06 552,-162.83 549.99,-169.54"/>
+</g>
+<!-- 310 -->
+<!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 310, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>310</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="597.97" cy="-126" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="597.97" y="-120.95" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 307&#45;&gt;310 -->
+<g id="edge4" class="edge">
+<title>307&#45;&gt;310</title>
+<path fill="none" stroke="black" d="M487.52,-126C495.35,-126 503.38,-126 511.38,-126"/>
+<polygon fill="black" stroke="black" points="511.1,-129.5 521.1,-126 511.1,-122.5 511.1,-129.5"/>
+</g>
+<!-- 309 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 309, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>309</title>
+<ellipse fill="none" stroke="black" cx="1023.8" cy="-180" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="1023.8" y="-174.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 308&#45;&gt;309 -->
+<g id="edge3" class="edge">
+<title>308&#45;&gt;309</title>
+<path fill="none" stroke="black" d="M641.94,-180C712.71,-180 854.8,-180 944,-180"/>
+<polygon fill="black" stroke="black" points="943.9,-183.5 953.9,-180 943.9,-176.5 943.9,-183.5"/>
+</g>
+<!-- 311 -->
+<!-- name: &quot;transforms into&quot;, typeName: &quot;BiomeWeightedData&quot;, id: 311, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>311</title>
+<ellipse fill="none" stroke="black" cx="803.72" cy="-126" rx="67.73" ry="18"/>
+<text text-anchor="middle" x="803.72" y="-120.95" font-family="Times,serif" font-size="14.00">transforms into</text>
+</g>
+<!-- 310&#45;&gt;311 -->
+<g id="edge5" class="edge">
+<title>310&#45;&gt;311</title>
+<path fill="none" stroke="black" d="M673.1,-126C689.74,-126 707.45,-126 724.26,-126"/>
+<polygon fill="black" stroke="black" points="724.22,-129.5 734.22,-126 724.22,-122.5 724.22,-129.5"/>
+</g>
+<!-- 312 -->
+<!-- name: &quot;BiomeWeightedData&quot;, typeName: &quot;&quot;, id: 312, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>312</title>
+<ellipse fill="none" stroke="black" cx="1023.8" cy="-126" rx="89.23" ry="18"/>
+<text text-anchor="middle" x="1023.8" y="-120.95" font-family="Times,serif" font-size="14.00">BiomeWeightedData</text>
+</g>
+<!-- 311&#45;&gt;312 -->
+<g id="edge6" class="edge">
+<title>311&#45;&gt;312</title>
+<path fill="none" stroke="black" d="M871.93,-126C888.05,-126 905.6,-126 922.85,-126"/>
+<polygon fill="black" stroke="black" points="922.61,-129.5 932.61,-126 922.61,-122.5 922.61,-129.5"/>
+</g>
+<!-- 314 -->
+<!-- name: &quot;short&quot;, typeName: &quot;&quot;, id: 314, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>314</title>
+<ellipse fill="none" stroke="black" cx="1023.8" cy="-72" rx="29.34" ry="18"/>
+<text text-anchor="middle" x="1023.8" y="-66.95" font-family="Times,serif" font-size="14.00">short</text>
+</g>
+<!-- 313&#45;&gt;314 -->
+<g id="edge8" class="edge">
+<title>313&#45;&gt;314</title>
+<path fill="none" stroke="black" d="M487.03,-72C614.61,-72 881.73,-72 982.85,-72"/>
+<polygon fill="black" stroke="black" points="982.55,-75.5 992.55,-72 982.55,-68.5 982.55,-75.5"/>
+</g>
+<!-- 316 -->
+<!-- name: &quot;unsigned int&quot;, typeName: &quot;&quot;, id: 316, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>316</title>
+<ellipse fill="none" stroke="black" cx="1023.8" cy="-18" rx="56.47" ry="18"/>
+<text text-anchor="middle" x="1023.8" y="-12.95" font-family="Times,serif" font-size="14.00">unsigned int</text>
+</g>
+<!-- 315&#45;&gt;316 -->
+<g id="edge10" class="edge">
+<title>315&#45;&gt;316</title>
+<path fill="none" stroke="black" d="M898.47,-20.28C917.78,-19.93 937.75,-19.56 955.89,-19.23"/>
+<polygon fill="black" stroke="black" points="955.76,-22.73 965.7,-19.05 955.64,-15.73 955.76,-22.73"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,92 @@
+<svg width="722px" height="98px"
+ viewBox="0.00 0.00 722.24 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>BiomeTagsData</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-94 718.24,-94 718.24,4 -4,4"/>
+<!-- 44 -->
+<!-- name: &quot;BiomeTagsData&quot;, typeName: &quot;&quot;, id: 44, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>44</title>
+<ellipse fill="none" stroke="black" cx="71.31" cy="-45" rx="71.31" ry="18"/>
+<text text-anchor="middle" x="71.31" y="-39.95" font-family="Times,serif" font-size="14.00">BiomeTagsData</text>
+</g>
+<!-- 45 -->
+<!-- name: &quot;tag&quot;, typeName: &quot;&quot;, id: 45, branchId: 0, recurseId: &#45;1, attributes: 8, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>45</title>
+<ellipse fill="none" stroke="black" cx="205.62" cy="-45" rx="27" ry="18"/>
+<text text-anchor="middle" x="205.62" y="-39.95" font-family="Times,serif" font-size="14.00">tag</text>
+</g>
+<!-- 44&#45;&gt;45 -->
+<g id="edge1" class="edge">
+<title>44&#45;&gt;45</title>
+<path fill="none" stroke="black" d="M143.12,-45C151.24,-45 159.28,-45 166.72,-45"/>
+<polygon fill="black" stroke="black" points="166.72,-48.5 176.72,-45 166.72,-41.5 166.72,-48.5"/>
+</g>
+<!-- 46 -->
+<!-- name: &quot;List Size&quot;, typeName: &quot;&quot;, id: 46, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>46</title>
+<ellipse fill="none" stroke="black" cx="498.09" cy="-72" rx="43.67" ry="18"/>
+<text text-anchor="middle" x="498.09" y="-66.95" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 45&#45;&gt;46 -->
+<g id="edge2" class="edge">
+<title>45&#45;&gt;46</title>
+<path fill="none" stroke="black" d="M232.66,-47.42C280.04,-51.82 381.26,-61.23 443.82,-67.05"/>
+<polygon fill="black" stroke="black" points="443.24,-70.51 453.52,-67.95 443.88,-63.54 443.24,-70.51"/>
+</g>
+<!-- 48 -->
+<!-- name: &quot;example element&quot;, typeName: &quot;&quot;, id: 48, branchId: 0, recurseId: &#45;1, attributes: 16, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>48</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="343.52" cy="-22" rx="74.89" ry="18"/>
+<text text-anchor="middle" x="343.52" y="-16.95" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 45&#45;&gt;48 -->
+<g id="edge4" class="edge">
+<title>45&#45;&gt;48</title>
+<path fill="none" stroke="black" d="M232.18,-40.67C243.17,-38.82 256.61,-36.54 270.28,-34.23"/>
+<polygon fill="black" stroke="black" points="270.48,-37.74 279.76,-32.62 269.31,-30.84 270.48,-37.74"/>
+</g>
+<!-- 47 -->
+<!-- name: &quot;unsigned varint&quot;, typeName: &quot;&quot;, id: 47, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>47</title>
+<ellipse fill="none" stroke="black" cx="646" cy="-72" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="646" y="-66.95" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 46&#45;&gt;47 -->
+<g id="edge3" class="edge">
+<title>46&#45;&gt;47</title>
+<path fill="none" stroke="black" d="M542.08,-72C549.71,-72 557.86,-72 566.12,-72"/>
+<polygon fill="black" stroke="black" points="565.9,-75.5 575.9,-72 565.9,-68.5 565.9,-75.5"/>
+</g>
+<!-- 49 -->
+<!-- name: &quot;tags&quot;, typeName: &quot;short&quot;, id: 49, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>49</title>
+<ellipse fill="none" stroke="black" cx="498.09" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="498.09" y="-12.95" font-family="Times,serif" font-size="14.00">tags</text>
+</g>
+<!-- 48&#45;&gt;49 -->
+<g id="edge5" class="edge">
+<title>48&#45;&gt;49</title>
+<path fill="none" stroke="black" d="M418.12,-20.07C432.44,-19.69 446.89,-19.32 459.44,-18.99"/>
+<polygon fill="black" stroke="black" points="459.41,-22.49 469.31,-18.73 459.23,-15.49 459.41,-22.49"/>
+</g>
+<!-- 50 -->
+<!-- name: &quot;short&quot;, typeName: &quot;&quot;, id: 50, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>50</title>
+<ellipse fill="none" stroke="black" cx="646" cy="-18" rx="29.34" ry="18"/>
+<text text-anchor="middle" x="646" y="-12.95" font-family="Times,serif" font-size="14.00">short</text>
+</g>
+<!-- 49&#45;&gt;50 -->
+<g id="edge6" class="edge">
+<title>49&#45;&gt;50</title>
+<path fill="none" stroke="black" d="M525.51,-18C547.63,-18 579.55,-18 604.83,-18"/>
+<polygon fill="black" stroke="black" points="604.76,-21.5 614.76,-18 604.76,-14.5 604.76,-21.5"/>
+</g>
+</g>
+</svg>

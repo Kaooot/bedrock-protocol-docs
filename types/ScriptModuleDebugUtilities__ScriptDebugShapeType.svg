@@ -1,0 +1,40 @@
+<svg width="707px" height="44px"
+ viewBox="0.00 0.00 706.88 44.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 40.0)">
+<title>ScriptModuleDebugUtilities::ScriptDebugShapeType</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-40 702.88,-40 702.88,4 -4,4"/>
+<!-- 12 -->
+<!-- name: &quot;ScriptModuleDebugUtilities::ScriptDebugShapeType&quot;, typeName: &quot;&quot;, id: 12, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="209.5" cy="-18" rx="209.5" ry="18"/>
+<text text-anchor="middle" x="209.5" y="-12.95" font-family="Times,serif" font-size="14.00">ScriptModuleDebugUtilities::ScriptDebugShapeType</text>
+</g>
+<!-- 13 -->
+<!-- name: &quot;DebugShapeType&quot;, typeName: &quot;&quot;, id: 13, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>13</title>
+<ellipse fill="none" stroke="black" cx="531.94" cy="-18" rx="76.94" ry="18"/>
+<text text-anchor="middle" x="531.94" y="-12.95" font-family="Times,serif" font-size="14.00">DebugShapeType</text>
+</g>
+<!-- 12&#45;&gt;13 -->
+<g id="edge1" class="edge">
+<title>12&#45;&gt;13</title>
+<path fill="none" stroke="black" d="M419.32,-18C427.47,-18 435.43,-18 443.11,-18"/>
+<polygon fill="black" stroke="black" points="443.03,-21.5 453.03,-18 443.03,-14.5 443.03,-21.5"/>
+</g>
+<!-- 14 -->
+<!-- name: &quot;byte&quot;, typeName: &quot;&quot;, id: 14, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>14</title>
+<ellipse fill="none" stroke="black" cx="671.88" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="671.88" y="-12.95" font-family="Times,serif" font-size="14.00">byte</text>
+</g>
+<!-- 13&#45;&gt;14 -->
+<g id="edge2" class="edge">
+<title>13&#45;&gt;14</title>
+<path fill="none" stroke="black" d="M609.18,-18C617.52,-18 625.72,-18 633.27,-18"/>
+<polygon fill="black" stroke="black" points="633.04,-21.5 643.04,-18 633.04,-14.5 633.04,-21.5"/>
+</g>
+</g>
+</svg>
