@@ -1,0 +1,170 @@
+<svg width="831px" height="314px"
+ viewBox="0.00 0.00 831.33 314.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 310.0)">
+<title>CameraInstruction</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-310 827.33,-310 827.33,4 -4,4"/>
+<!-- 2 -->
+<!-- name: &quot;CameraInstruction&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="80.01" cy="-153" rx="80.01" ry="18"/>
+<text text-anchor="middle" x="80.01" y="-147.95" font-family="Times,serif" font-size="14.00">CameraInstruction</text>
+</g>
+<!-- 3 -->
+<!-- name: &quot;Set&quot;, typeName: &quot;std::optional&lt;struct CameraInstruction::SetInstruction&gt;&quot;, id: 3, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="262.22" cy="-288" rx="27" ry="18"/>
+<text text-anchor="middle" x="262.22" y="-282.95" font-family="Times,serif" font-size="14.00">Set</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge1" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M96.17,-170.79C116.8,-194.08 155.76,-235 196.03,-261 205.4,-267.05 216.35,-272.21 226.58,-276.35"/>
+<polygon fill="black" stroke="black" points="225.27,-279.6 235.86,-279.9 227.77,-273.06 225.27,-279.6"/>
+</g>
+<!-- 93 -->
+<!-- name: &quot;Clear&quot;, typeName: &quot;std::optional&lt;bool&gt;&quot;, id: 93, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>93</title>
+<ellipse fill="none" stroke="black" cx="262.22" cy="-234" rx="30.88" ry="18"/>
+<text text-anchor="middle" x="262.22" y="-228.95" font-family="Times,serif" font-size="14.00">Clear</text>
+</g>
+<!-- 2&#45;&gt;93 -->
+<g id="edge3" class="edge">
+<title>2&#45;&gt;93</title>
+<path fill="none" stroke="black" d="M115.3,-169.6C138.06,-180.51 168.68,-194.93 196.03,-207 205.55,-211.21 215.94,-215.6 225.57,-219.58"/>
+<polygon fill="black" stroke="black" points="224.05,-222.74 234.63,-223.31 226.71,-216.27 224.05,-222.74"/>
+</g>
+<!-- 95 -->
+<!-- name: &quot;Fade&quot;, typeName: &quot;std::optional&lt;struct CameraInstruction::FadeInstruction&gt;&quot;, id: 95, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>95</title>
+<ellipse fill="none" stroke="black" cx="262.22" cy="-180" rx="28.83" ry="18"/>
+<text text-anchor="middle" x="262.22" y="-174.95" font-family="Times,serif" font-size="14.00">Fade</text>
+</g>
+<!-- 2&#45;&gt;95 -->
+<g id="edge5" class="edge">
+<title>2&#45;&gt;95</title>
+<path fill="none" stroke="black" d="M147.6,-162.98C172.93,-166.77 200.92,-170.97 222.78,-174.24"/>
+<polygon fill="black" stroke="black" points="222.02,-177.67 232.43,-175.69 223.06,-170.74 222.02,-177.67"/>
+</g>
+<!-- 131 -->
+<!-- name: &quot;Target&quot;, typeName: &quot;std::optional&lt;struct CameraInstruction::TargetInstruction&gt;&quot;, id: 131, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node8" class="node">
+<title>131</title>
+<ellipse fill="none" stroke="black" cx="262.22" cy="-126" rx="34.97" ry="18"/>
+<text text-anchor="middle" x="262.22" y="-120.95" font-family="Times,serif" font-size="14.00">Target</text>
+</g>
+<!-- 2&#45;&gt;131 -->
+<g id="edge7" class="edge">
+<title>2&#45;&gt;131</title>
+<path fill="none" stroke="black" d="M147.6,-143.02C170.78,-139.55 196.19,-135.74 217.1,-132.61"/>
+<polygon fill="black" stroke="black" points="217.33,-136.11 226.7,-131.17 216.3,-129.19 217.33,-136.11"/>
+</g>
+<!-- 143 -->
+<!-- name: &quot;RemoveTarget&quot;, typeName: &quot;std::optional&lt;bool&gt;&quot;, id: 143, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node10" class="node">
+<title>143</title>
+<ellipse fill="none" stroke="black" cx="262.22" cy="-72" rx="66.19" ry="18"/>
+<text text-anchor="middle" x="262.22" y="-66.95" font-family="Times,serif" font-size="14.00">RemoveTarget</text>
+</g>
+<!-- 2&#45;&gt;143 -->
+<g id="edge9" class="edge">
+<title>2&#45;&gt;143</title>
+<path fill="none" stroke="black" d="M115.3,-136.4C138.06,-125.49 168.68,-111.07 196.03,-99 201.63,-96.53 207.53,-93.99 213.4,-91.51"/>
+<polygon fill="black" stroke="black" points="214.59,-94.8 222.46,-87.71 211.89,-88.35 214.59,-94.8"/>
+</g>
+<!-- 145 -->
+<!-- name: &quot;FieldOfView&quot;, typeName: &quot;std::optional&lt;struct CameraInstruction::FovInstruction&gt;&quot;, id: 145, branchId: 0, recurseId: &#45;1, attributes: 256, notes: &quot;&quot; -->
+<g id="node12" class="node">
+<title>145</title>
+<ellipse fill="none" stroke="black" cx="262.22" cy="-18" rx="59.54" ry="18"/>
+<text text-anchor="middle" x="262.22" y="-12.95" font-family="Times,serif" font-size="14.00">FieldOfView</text>
+</g>
+<!-- 2&#45;&gt;145 -->
+<g id="edge11" class="edge">
+<title>2&#45;&gt;145</title>
+<path fill="none" stroke="black" d="M96.17,-135.21C116.8,-111.92 155.76,-71 196.03,-45 200.85,-41.88 206.1,-39 211.46,-36.37"/>
+<polygon fill="black" stroke="black" points="212.78,-39.61 220.42,-32.27 209.87,-33.25 212.78,-39.61"/>
+</g>
+<!-- 92 -->
+<!-- name: &quot;std::optional&lt;struct CameraInstruction::SetInstruction&gt;&quot;, typeName: &quot;&quot;, id: 92, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>92</title>
+<ellipse fill="none" stroke="black" cx="593.87" cy="-288" rx="217.18" ry="18"/>
+<text text-anchor="middle" x="593.87" y="-282.95" font-family="Times,serif" font-size="14.00">std::optional&lt;struct CameraInstruction::SetInstruction&gt;</text>
+</g>
+<!-- 3&#45;&gt;92 -->
+<g id="edge2" class="edge">
+<title>3&#45;&gt;92</title>
+<path fill="none" stroke="black" d="M289.64,-288C308.21,-288 335.06,-288 365.21,-288"/>
+<polygon fill="black" stroke="black" points="364.94,-291.5 374.94,-288 364.94,-284.5 364.94,-291.5"/>
+</g>
+<!-- 94 -->
+<!-- name: &quot;std::optional&lt;bool&gt;&quot;, typeName: &quot;&quot;, id: 94, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>94</title>
+<ellipse fill="none" stroke="black" cx="593.87" cy="-234" rx="84.62" ry="18"/>
+<text text-anchor="middle" x="593.87" y="-228.95" font-family="Times,serif" font-size="14.00">std::optional&lt;bool&gt;</text>
+</g>
+<!-- 93&#45;&gt;94 -->
+<g id="edge4" class="edge">
+<title>93&#45;&gt;94</title>
+<path fill="none" stroke="black" d="M293.35,-234C339.19,-234 428.45,-234 497.65,-234"/>
+<polygon fill="black" stroke="black" points="497.5,-237.5 507.5,-234 497.5,-230.5 497.5,-237.5"/>
+</g>
+<!-- 130 -->
+<!-- name: &quot;std::optional&lt;struct CameraInstruction::FadeInstruction&gt;&quot;, typeName: &quot;&quot;, id: 130, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>130</title>
+<ellipse fill="none" stroke="black" cx="593.87" cy="-180" rx="223.32" ry="18"/>
+<text text-anchor="middle" x="593.87" y="-174.95" font-family="Times,serif" font-size="14.00">std::optional&lt;struct CameraInstruction::FadeInstruction&gt;</text>
+</g>
+<!-- 95&#45;&gt;130 -->
+<g id="edge6" class="edge">
+<title>95&#45;&gt;130</title>
+<path fill="none" stroke="black" d="M291.33,-180C308.5,-180 332.27,-180 359,-180"/>
+<polygon fill="black" stroke="black" points="358.69,-183.5 368.69,-180 358.69,-176.5 358.69,-183.5"/>
+</g>
+<!-- 142 -->
+<!-- name: &quot;std::optional&lt;struct CameraInstruction::TargetInstruction&gt;&quot;, typeName: &quot;&quot;, id: 142, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>142</title>
+<ellipse fill="none" stroke="black" cx="593.87" cy="-126" rx="229.46" ry="18"/>
+<text text-anchor="middle" x="593.87" y="-120.95" font-family="Times,serif" font-size="14.00">std::optional&lt;struct CameraInstruction::TargetInstruction&gt;</text>
+</g>
+<!-- 131&#45;&gt;142 -->
+<g id="edge8" class="edge">
+<title>131&#45;&gt;142</title>
+<path fill="none" stroke="black" d="M297.57,-126C312.59,-126 331.62,-126 352.76,-126"/>
+<polygon fill="black" stroke="black" points="352.48,-129.5 362.48,-126 352.48,-122.5 352.48,-129.5"/>
+</g>
+<!-- 144 -->
+<!-- name: &quot;std::optional&lt;bool&gt;&quot;, typeName: &quot;&quot;, id: 144, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>144</title>
+<ellipse fill="none" stroke="black" cx="593.87" cy="-72" rx="84.62" ry="18"/>
+<text text-anchor="middle" x="593.87" y="-66.95" font-family="Times,serif" font-size="14.00">std::optional&lt;bool&gt;</text>
+</g>
+<!-- 143&#45;&gt;144 -->
+<g id="edge10" class="edge">
+<title>143&#45;&gt;144</title>
+<path fill="none" stroke="black" d="M328.74,-72C377.04,-72 443.47,-72 497.62,-72"/>
+<polygon fill="black" stroke="black" points="497.47,-75.5 507.47,-72 497.47,-68.5 497.47,-75.5"/>
+</g>
+<!-- 160 -->
+<!-- name: &quot;std::optional&lt;struct CameraInstruction::FovInstruction&gt;&quot;, typeName: &quot;&quot;, id: 160, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node13" class="node">
+<title>160</title>
+<ellipse fill="none" stroke="black" cx="593.87" cy="-18" rx="219.74" ry="18"/>
+<text text-anchor="middle" x="593.87" y="-12.95" font-family="Times,serif" font-size="14.00">std::optional&lt;struct CameraInstruction::FovInstruction&gt;</text>
+</g>
+<!-- 145&#45;&gt;160 -->
+<g id="edge12" class="edge">
+<title>145&#45;&gt;160</title>
+<path fill="none" stroke="black" d="M322.15,-18C334.48,-18 348.17,-18 362.67,-18"/>
+<polygon fill="black" stroke="black" points="362.39,-21.5 372.39,-18 362.39,-14.5 362.39,-21.5"/>
+</g>
+</g>
+</svg>
