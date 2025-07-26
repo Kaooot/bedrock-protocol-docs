@@ -1,0 +1,3 @@
+## PlayStatus
+
+<table><tr><th>Name</th><th>Index</th><tr><td>LoginSuccess</td><td>0</td></tr><tr><td>LoginFailed_ClientOld</td><td>1</td></tr><tr><td>LoginFailed_ServerOld</td><td>2</td></tr><tr><td>PlayerSpawn</td><td>3</td></tr><tr><td>LoginFailed_InvalidTenant</td><td>4</td></tr><tr><td>LoginFailed_EditionMismatchEduToVanilla</td><td>5</td></tr><tr><td>LoginFailed_EditionMismatchVanillaToEdu</td><td>6</td></tr><tr><td>LoginFailed_ServerFullSubClient</td><td>7</td></tr><tr><td>LoginFailed_EditorMismatchEditorToVanilla</td><td>8</td></tr><tr><td>LoginFailed_EditorMismatchVanillaToEditor</td><td>9</td></tr></table>

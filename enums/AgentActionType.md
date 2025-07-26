@@ -1,0 +1,3 @@
+## AgentActionType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Attack</td><td>1</td></tr><tr><td>Collect</td><td>2</td></tr><tr><td>Destroy</td><td>3</td></tr><tr><td>DetectRedstone</td><td>4</td></tr><tr><td>DetectObstacle</td><td>5</td></tr><tr><td>Drop</td><td>6</td></tr><tr><td>DropAll</td><td>7</td></tr><tr><td>Inspect</td><td>8</td></tr><tr><td>InspectData</td><td>9</td></tr><tr><td>InspectItemCount</td><td>10</td></tr><tr><td>InspectItemDetail</td><td>11</td></tr><tr><td>InspectItemSpace</td><td>12</td></tr><tr><td>Interact</td><td>13</td></tr><tr><td>Move</td><td>14</td></tr><tr><td>PlaceBlock</td><td>15</td></tr><tr><td>Till</td><td>16</td></tr><tr><td>TransferItemTo</td><td>17</td></tr><tr><td>Turn</td><td>18</td></tr></table>

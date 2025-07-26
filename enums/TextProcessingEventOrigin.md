@@ -1,0 +1,3 @@
+## TextProcessingEventOrigin
+
+<table><tr><th>Name</th><th>Index</th><tr><td>unknown</td><td>-1</td></tr><tr><td>ServerChatPublic</td><td>0</td></tr><tr><td>ServerChatWhisper</td><td>1</td></tr><tr><td>SignText</td><td>2</td></tr><tr><td>AnvilText</td><td>3</td></tr><tr><td>BookAndQuillText</td><td>4</td></tr><tr><td>CommandBlockText</td><td>5</td></tr><tr><td>BlockActorDataText</td><td>6</td></tr><tr><td>JoinEventText</td><td>7</td></tr><tr><td>LeaveEventText</td><td>8</td></tr><tr><td>SlashCommandChat</td><td>9</td></tr><tr><td>CartographyText</td><td>10</td></tr><tr><td>KickCommand</td><td>11</td></tr><tr><td>TitleCommand</td><td>12</td></tr><tr><td>SummonCommand</td><td>13</td></tr><tr><td>ServerForm</td><td>14</td></tr><tr><td>COUNT</td><td>15</td></tr></table>

@@ -1,0 +1,3 @@
+## Tag::Type
+
+<table><tr><th>Name</th><th>Index</th><tr><td>End</td><td>0</td></tr><tr><td>Byte</td><td>1</td></tr><tr><td>Short</td><td>2</td></tr><tr><td>Int</td><td>3</td></tr><tr><td>Int64</td><td>4</td></tr><tr><td>Float</td><td>5</td></tr><tr><td>Double</td><td>6</td></tr><tr><td>ByteArray</td><td>7</td></tr><tr><td>String</td><td>8</td></tr><tr><td>List</td><td>9</td></tr><tr><td>Compound</td><td>10</td></tr><tr><td>IntArray</td><td>11</td></tr><tr><td>NumTagTypes</td><td>12</td></tr></table>

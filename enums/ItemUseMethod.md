@@ -1,0 +1,3 @@
+## ItemUseMethod
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Unknown</td><td>-1</td></tr><tr><td>EquipArmor</td><td>0</td></tr><tr><td>Eat</td><td>1</td></tr><tr><td>Attack</td><td>2</td></tr><tr><td>Consume</td><td>3</td></tr><tr><td>Throw</td><td>4</td></tr><tr><td>Shoot</td><td>5</td></tr><tr><td>Place</td><td>6</td></tr><tr><td>FillBottle</td><td>7</td></tr><tr><td>FillBucket</td><td>8</td></tr><tr><td>PourBucket</td><td>9</td></tr><tr><td>UseTool</td><td>10</td></tr><tr><td>Interact</td><td>11</td></tr><tr><td>Retrieved</td><td>12</td></tr><tr><td>Dyed</td><td>13</td></tr><tr><td>Traded</td><td>14</td></tr><tr><td>BrushingCompleted</td><td>15</td></tr><tr><td>OpenedVault</td><td>16</td></tr><tr><td>_Count</td><td>17</td></tr></table>

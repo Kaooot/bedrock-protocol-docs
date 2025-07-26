@@ -1,0 +1,3 @@
+## ContainerID
+
+<table><tr><th>Name</th><th>Index</th><tr><td>CONTAINER_ID_NONE</td><td>-1</td></tr><tr><td>CONTAINER_ID_INVENTORY</td><td>0</td></tr><tr><td>CONTAINER_ID_FIRST</td><td>1</td></tr><tr><td>CONTAINER_ID_LAST</td><td>100</td></tr><tr><td>CONTAINER_ID_OFFHAND</td><td>119</td></tr><tr><td>CONTAINER_ID_ARMOR</td><td>120</td></tr><tr><td>CONTAINER_ID_SELECTION_SLOTS</td><td>122</td></tr><tr><td>CONTAINER_ID_PLAYER_ONLY_UI</td><td>124</td></tr><tr><td>CONTAINER_ID_REGISTRY</td><td>125</td></tr></table>

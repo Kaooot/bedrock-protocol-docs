@@ -1,0 +1,3 @@
+## PackType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Invalid</td><td>0</td></tr><tr><td>Addon</td><td>1</td></tr><tr><td>Cached</td><td>2</td></tr><tr><td>CopyProtected</td><td>3</td></tr><tr><td>Behavior</td><td>4</td></tr><tr><td>PersonaPiece</td><td>5</td></tr><tr><td>Resources</td><td>6</td></tr><tr><td>Skins</td><td>7</td></tr><tr><td>WorldTemplate</td><td>8</td></tr><tr><td>Count</td><td>9</td></tr></table>

@@ -1,0 +1,4 @@
+## AnimatePacket::Action
+
+<table><tr><th>Name</th><th>Index</th><th>Notes</th><tr><td>NoAction</td><td>0</td><td>Unused </td></tr><tr><td>Swing</td><td>1</td><td>Server bound notification to swing the player's arm. Server is expected to rebroadcast to all that should see the arm move
+See also PlayerAuthInputPacket::InputData::MissedSwing for a very similar action </td></tr><tr><td>WakeUp</td><td>3</td><td>Client bound notification to stop sleeping in a bed </td></tr><tr><td>CriticalHit</td><td>4</td><td>Client-bound notification to play critical hit particles </td></tr><tr><td>MagicCriticalHit</td><td>5</td><td>Unused </td></tr></table>

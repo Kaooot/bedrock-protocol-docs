@@ -1,0 +1,3 @@
+## BossEventUpdateType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Add</td><td>0</td></tr><tr><td>PlayerAdded</td><td>1</td></tr><tr><td>Remove</td><td>2</td></tr><tr><td>PlayerRemoved</td><td>3</td></tr><tr><td>Update_Percent</td><td>4</td></tr><tr><td>Update_Name</td><td>5</td></tr><tr><td>Update_Properties</td><td>6</td></tr><tr><td>Update_Style</td><td>7</td></tr><tr><td>Query</td><td>8</td></tr></table>

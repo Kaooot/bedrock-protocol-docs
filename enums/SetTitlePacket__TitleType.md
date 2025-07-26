@@ -1,0 +1,3 @@
+## SetTitlePacket::TitleType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Clear</td><td>0</td></tr><tr><td>Reset</td><td>1</td></tr><tr><td>Title</td><td>2</td></tr><tr><td>Subtitle</td><td>3</td></tr><tr><td>Actionbar</td><td>4</td></tr><tr><td>Times</td><td>5</td></tr><tr><td>TitleTextObject</td><td>6</td></tr><tr><td>SubtitleTextObject</td><td>7</td></tr><tr><td>ActionbarTextObject</td><td>8		</td></tr></table>

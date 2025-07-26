@@ -1,0 +1,3 @@
+## LabTableReactionType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>None</td><td>0</td></tr><tr><td>IceBomb</td><td>1</td></tr><tr><td>Bleach</td><td>2</td></tr><tr><td>ElephantToothpaste</td><td>3</td></tr><tr><td>Fertilizer</td><td>4</td></tr><tr><td>HeatBlock</td><td>5</td></tr><tr><td>MagnesiumSalts</td><td>6</td></tr><tr><td>MiscFire</td><td>7</td></tr><tr><td>MiscExplosion</td><td>8</td></tr><tr><td>MiscLava</td><td>9</td></tr><tr><td>MiscMystical</td><td>10</td></tr><tr><td>MiscSmoke</td><td>11</td></tr><tr><td>MiscLargeSmoke</td><td>12</td></tr></table>

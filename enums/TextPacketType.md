@@ -1,0 +1,3 @@
+## TextPacketType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Raw</td><td>0</td></tr><tr><td>Chat</td><td>1</td></tr><tr><td>Translate</td><td>2</td></tr><tr><td>Popup</td><td>3</td></tr><tr><td>JukeboxPopup</td><td>4</td></tr><tr><td>Tip</td><td>5</td></tr><tr><td>SystemMessage</td><td>6</td></tr><tr><td>Whisper</td><td>7</td></tr><tr><td>Announcement</td><td>8</td></tr><tr><td>TextObjectWhisper</td><td>9</td></tr><tr><td>TextObject</td><td>10</td></tr><tr><td>TextObjectAnnouncement</td><td>11</td></tr></table>

@@ -1,0 +1,3 @@
+## ClientPlayMode
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Normal</td><td>0</td></tr><tr><td>Teaser</td><td>1</td></tr><tr><td>Screen</td><td>2</td></tr><tr><td>Viewer</td><td>3</td></tr><tr><td>Reality</td><td>4</td></tr><tr><td>Placement</td><td>5</td></tr><tr><td>LivingRoom</td><td>6</td></tr><tr><td>ExitLevel</td><td>7</td></tr><tr><td>ExitLevelLivingRoom</td><td>8</td></tr><tr><td>NumModes</td><td>9</td></tr></table>

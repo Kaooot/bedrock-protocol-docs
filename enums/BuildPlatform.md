@@ -1,0 +1,3 @@
+## BuildPlatform
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Google</td><td>1</td></tr><tr><td>iOS</td><td>2</td></tr><tr><td>OSX</td><td>3</td></tr><tr><td>Amazon</td><td>4</td></tr><tr><td>GearVR_Deprecated</td><td>5</td></tr><tr><td>UWP</td><td>7</td></tr><tr><td>Win32</td><td>8</td></tr><tr><td>Dedicated</td><td>9</td></tr><tr><td>tvOS_Deprecated</td><td>10</td></tr><tr><td>Sony</td><td>11</td></tr><tr><td>Nx</td><td>12</td></tr><tr><td>Xbox</td><td>13</td></tr><tr><td>WindowsPhone_Deprecated</td><td>14</td></tr><tr><td>Linux</td><td>15</td></tr><tr><td>Unknown</td><td>-1</td></tr></table>

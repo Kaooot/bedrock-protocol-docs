@@ -1,0 +1,3 @@
+## CommandOriginType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Player</td><td>0</td></tr><tr><td>CommandBlock</td><td>1</td></tr><tr><td>MinecartCommandBlock</td><td>2</td></tr><tr><td>DevConsole</td><td>3</td></tr><tr><td>Test</td><td>4</td></tr><tr><td>AutomationPlayer</td><td>5</td></tr><tr><td>ClientAutomation</td><td>6</td></tr><tr><td>DedicatedServer</td><td>7</td></tr><tr><td>Entity</td><td>8</td></tr><tr><td>Virtual</td><td>9</td></tr><tr><td>GameArgument</td><td>10</td></tr><tr><td>EntityServer</td><td>11</td></tr><tr><td>Precompiled</td><td>12</td></tr><tr><td>GameDirectorEntityServer</td><td>13</td></tr><tr><td>Scripting</td><td>14</td></tr><tr><td>ExecuteContext</td><td>15</td></tr></table>

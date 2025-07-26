@@ -1,0 +1,3 @@
+## HudElement
+
+<table><tr><th>Name</th><th>Index</th><tr><td>PaperDoll</td><td>0</td></tr><tr><td>Armor</td><td>1</td></tr><tr><td>ToolTips</td><td>2</td></tr><tr><td>TouchControls</td><td>3</td></tr><tr><td>Crosshair</td><td>4</td></tr><tr><td>HotBar</td><td>5</td></tr><tr><td>Health</td><td>6</td></tr><tr><td>ProgressBar</td><td>7</td></tr><tr><td>Hunger</td><td>8</td></tr><tr><td>AirBubbles</td><td>9</td></tr><tr><td>HorseHealth</td><td>10</td></tr><tr><td>StatusEffects</td><td>11</td></tr><tr><td>ItemText</td><td>12</td></tr><tr><td>Count</td><td>13</td></tr></table>

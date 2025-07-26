@@ -1,0 +1,3 @@
+## CraftingDataEntryType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>ShapelessRecipe</td><td>0</td></tr><tr><td>ShapedRecipe</td><td>1</td></tr><tr><td>FurnaceRecipe</td><td>2</td></tr><tr><td>FurnaceAuxRecipe</td><td>3</td></tr><tr><td>MultiRecipe</td><td>4</td></tr><tr><td>UserDataShapelessRecipe</td><td>5</td></tr><tr><td>ShapelessChemistryRecipe</td><td>6</td></tr><tr><td>ShapedChemistryRecipe</td><td>7</td></tr><tr><td>SmithingTransformRecipe</td><td>8</td></tr><tr><td>SmithingTrimRecipe</td><td>9</td></tr><tr><td>COUNT</td><td>10</td></tr></table>

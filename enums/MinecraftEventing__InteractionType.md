@@ -1,0 +1,3 @@
+## MinecraftEventing::InteractionType
+
+<table><tr><th>Name</th><th>Index</th><tr><td>Breeding</td><td>1</td></tr><tr><td>Taming</td><td>2</td></tr><tr><td>Curing</td><td>3</td></tr><tr><td>Crafted</td><td>4</td></tr><tr><td>Shearing</td><td>5</td></tr><tr><td>Milking</td><td>6</td></tr><tr><td>Trading</td><td>7</td></tr><tr><td>Feeding</td><td>8</td></tr><tr><td>Igniting</td><td>9</td></tr><tr><td>Coloring</td><td>10</td></tr><tr><td>Naming</td><td>11</td></tr><tr><td>Leashing</td><td>12</td></tr><tr><td>Unleashing</td><td>13</td></tr><tr><td>PetSleep</td><td>14</td></tr><tr><td>Trusting</td><td>15</td></tr><tr><td>Commanding</td><td>16 </td></tr></table>
