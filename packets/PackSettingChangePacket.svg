@@ -1,0 +1,170 @@
+<svg width="616px" height="314px"
+ viewBox="0.00 0.00 616.37 314.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 310.0)">
+<title>PackSettingChangePacket</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-310 612.37,-310 612.37,4 -4,4"/>
+<!-- 0 -->
+<!-- name: &quot;PackSettingChangePacket&quot;, typeName: &quot;&quot;, id: 0, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node1" class="node">
+<title>0</title>
+<ellipse fill="none" stroke="black" cx="107.65" cy="-153" rx="107.65" ry="18"/>
+<text text-anchor="middle" x="107.65" y="-147.95" font-family="Times,serif" font-size="14.00">PackSettingChangePacket</text>
+</g>
+<!-- 1 -->
+<!-- name: &quot;Pack Id&quot;, typeName: &quot;&quot;, id: 1, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node2" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="356.9" cy="-288" rx="39.07" ry="18"/>
+<text text-anchor="middle" x="356.9" y="-282.95" font-family="Times,serif" font-size="14.00">Pack Id</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M127.32,-171.08C153.11,-195.08 202.08,-237.2 251.3,-261 269.06,-269.59 289.88,-275.67 308.25,-279.87"/>
+<polygon fill="black" stroke="black" points="307.33,-283.25 317.85,-281.92 308.8,-276.41 307.33,-283.25"/>
+</g>
+<!-- 3 -->
+<!-- name: &quot;Pack Setting Data Type&quot;, typeName: &quot;&quot;, id: 3, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node4" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="356.9" cy="-234" rx="98.44" ry="18"/>
+<text text-anchor="middle" x="356.9" y="-228.95" font-family="Times,serif" font-size="14.00">Pack Setting Data Type</text>
+</g>
+<!-- 0&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>0&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M149.74,-169.92C178.02,-181.23 216.59,-195.99 251.3,-207 261.89,-210.36 273.19,-213.61 284.29,-216.62"/>
+<polygon fill="black" stroke="black" points="283.26,-219.97 293.83,-219.16 285.06,-213.21 283.26,-219.97"/>
+</g>
+<!-- 5 -->
+<!-- name: &quot;Pack Setting Name&quot;, typeName: &quot;&quot;, id: 5, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node6" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="356.9" cy="-180" rx="82.57" ry="18"/>
+<text text-anchor="middle" x="356.9" y="-174.95" font-family="Times,serif" font-size="14.00">Pack Setting Name</text>
+</g>
+<!-- 0&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>0&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M198.96,-162.86C222.56,-165.44 247.9,-168.21 271.19,-170.75"/>
+<polygon fill="black" stroke="black" points="270.61,-174.21 280.93,-171.81 271.37,-167.25 270.61,-174.21"/>
+</g>
+<!-- 7 -->
+<!-- name: &quot;Pack Setting Value Bool&quot;, typeName: &quot;&quot;, id: 7, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node8" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="356.9" cy="-126" rx="101" ry="18"/>
+<text text-anchor="middle" x="356.9" y="-120.95" font-family="Times,serif" font-size="14.00">Pack Setting Value Bool</text>
+</g>
+<!-- 0&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>0&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M198.96,-143.14C218.34,-141.02 238.89,-138.78 258.52,-136.63"/>
+<polygon fill="black" stroke="black" points="258.89,-140.12 268.45,-135.55 258.13,-133.16 258.89,-140.12"/>
+</g>
+<!-- 9 -->
+<!-- name: &quot;Pack Setting Value Float&quot;, typeName: &quot;&quot;, id: 9, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node10" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="356.9" cy="-72" rx="102.02" ry="18"/>
+<text text-anchor="middle" x="356.9" y="-66.95" font-family="Times,serif" font-size="14.00">Pack Setting Value Float</text>
+</g>
+<!-- 0&#45;&gt;9 -->
+<g id="edge9" class="edge">
+<title>0&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M149.74,-136.08C178.02,-124.77 216.59,-110.01 251.3,-99 261.69,-95.7 272.76,-92.51 283.65,-89.55"/>
+<polygon fill="black" stroke="black" points="284.24,-93.01 293,-87.05 282.44,-86.25 284.24,-93.01"/>
+</g>
+<!-- 11 -->
+<!-- name: &quot;Pack Setting Value String&quot;, typeName: &quot;&quot;, id: 11, branchId: 0, recurseId: &#45;1, attributes: 0, notes: &quot;&quot; -->
+<g id="node12" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="356.9" cy="-18" rx="105.6" ry="18"/>
+<text text-anchor="middle" x="356.9" y="-12.95" font-family="Times,serif" font-size="14.00">Pack Setting Value String</text>
+</g>
+<!-- 0&#45;&gt;11 -->
+<g id="edge11" class="edge">
+<title>0&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M127.32,-134.92C153.11,-110.92 202.08,-68.8 251.3,-45 259.02,-41.27 267.31,-38.01 275.74,-35.17"/>
+<polygon fill="black" stroke="black" points="276.51,-38.6 284.99,-32.26 274.4,-31.92 276.51,-38.6"/>
+</g>
+<!-- 2 -->
+<!-- name: &quot;mce::UUID&quot;, typeName: &quot;&quot;, id: 2, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="553.44" cy="-288" rx="54.93" ry="18"/>
+<text text-anchor="middle" x="553.44" y="-282.95" font-family="Times,serif" font-size="14.00">mce::UUID</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M396.34,-288C422.16,-288 456.85,-288 486.96,-288"/>
+<polygon fill="black" stroke="black" points="486.74,-291.5 496.74,-288 486.74,-284.5 486.74,-291.5"/>
+</g>
+<!-- 4 -->
+<!-- name: &quot;byte&quot;, typeName: &quot;&quot;, id: 4, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node5" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="553.44" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="553.44" y="-228.95" font-family="Times,serif" font-size="14.00">byte</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge4" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M455.74,-234C476.81,-234 497.83,-234 514.88,-234"/>
+<polygon fill="black" stroke="black" points="514.47,-237.5 524.47,-234 514.47,-230.5 514.47,-237.5"/>
+</g>
+<!-- 6 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 6, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node7" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="553.44" cy="-180" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="553.44" y="-174.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M439.84,-180C463.97,-180 489.39,-180 509.97,-180"/>
+<polygon fill="black" stroke="black" points="509.96,-183.5 519.96,-180 509.96,-176.5 509.96,-183.5"/>
+</g>
+<!-- 8 -->
+<!-- name: &quot;bool&quot;, typeName: &quot;&quot;, id: 8, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node9" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="553.44" cy="-126" rx="27.3" ry="18"/>
+<text text-anchor="middle" x="553.44" y="-120.95" font-family="Times,serif" font-size="14.00">bool</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge8" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M458.31,-126C478.34,-126 498.2,-126 514.48,-126"/>
+<polygon fill="black" stroke="black" points="514.13,-129.5 524.13,-126 514.13,-122.5 514.13,-129.5"/>
+</g>
+<!-- 10 -->
+<!-- name: &quot;float&quot;, typeName: &quot;&quot;, id: 10, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node11" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="553.44" cy="-72" rx="27.81" ry="18"/>
+<text text-anchor="middle" x="553.44" y="-66.95" font-family="Times,serif" font-size="14.00">float</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge10" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M459.16,-72C478.58,-72 497.79,-72 513.69,-72"/>
+<polygon fill="black" stroke="black" points="513.63,-75.5 523.63,-72 513.63,-68.5 513.63,-75.5"/>
+</g>
+<!-- 12 -->
+<!-- name: &quot;string&quot;, typeName: &quot;&quot;, id: 12, branchId: 0, recurseId: &#45;1, attributes: 512, notes: &quot;&quot; -->
+<g id="node13" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="553.44" cy="-18" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="553.44" y="-12.95" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge12" class="edge">
+<title>11&#45;&gt;12</title>
+<path fill="none" stroke="black" d="M462.86,-18C479.54,-18 495.92,-18 510.02,-18"/>
+<polygon fill="black" stroke="black" points="509.77,-21.5 519.77,-18 509.77,-14.5 509.77,-21.5"/>
+</g>
+</g>
+</svg>
