@@ -1,0 +1,132 @@
+<svg width="831px" height="206px"
+ viewBox="0.00 0.00 831.30 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 202.0)">
+<title>UpdateSoftEnumPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-202 827.3,-202 827.3,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="103.83" cy="-112" rx="103.65" ry="18"/>
+<text text-anchor="middle" x="103.83" y="-107.8" font-family="Times,serif" font-size="14.00">UpdateSoftEnumPacket</text>
+</g>
+<!-- 1 -->
+<g id="11" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="304.83" cy="-173" rx="59.65" ry="18"/>
+<text text-anchor="middle" x="304.83" y="-168.8" font-family="Times,serif" font-size="14.00">Enum Name</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M155.82,-127.63C185.51,-136.73 222.84,-148.17 252.58,-157.29"/>
+<polygon fill="black" stroke="black" points="251.76,-160.7 262.35,-160.28 253.81,-154.01 251.76,-160.7"/>
+</g>
+<!-- 3 -->
+<g id="11" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="304.83" cy="-112" rx="37.7" ry="18"/>
+<text text-anchor="middle" x="304.83" y="-107.8" font-family="Times,serif" font-size="14.00">Values</text>
+</g>
+<!-- &#45;&gt;3 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M207.83,-112C224.77,-112 241.58,-112 256.28,-112"/>
+<polygon fill="black" stroke="black" points="256.59,-115.5 266.59,-112 256.59,-108.5 256.59,-115.5"/>
+</g>
+<!-- 8 -->
+<g id="11" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="304.83" cy="-45" rx="61.36" ry="18"/>
+<text text-anchor="middle" x="304.83" y="-40.8" font-family="Times,serif" font-size="14.00">Update Type</text>
+</g>
+<!-- &#45;&gt;8 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M152.24,-96.04C182.95,-85.7 222.87,-72.26 254.04,-61.76"/>
+<polygon fill="black" stroke="black" points="255.46,-64.98 263.83,-58.47 253.23,-58.34 255.46,-64.98"/>
+</g>
+<!-- 2 -->
+<g id="11" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="752.45" cy="-180" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="752.45" y="-175.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge4" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M364.55,-173.92C455.7,-175.35 629.07,-178.08 709.07,-179.33"/>
+<polygon fill="black" stroke="black" points="709.21,-182.84 719.26,-179.49 709.32,-175.84 709.21,-182.84"/>
+</g>
+<!-- 4 -->
+<g id="11" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="523.81" cy="-126" rx="45.2" ry="18"/>
+<text text-anchor="middle" x="523.81" y="-121.8" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge5" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M342.64,-114.37C377.27,-116.61 429.53,-119.98 468.87,-122.52"/>
+<polygon fill="black" stroke="black" points="468.88,-126.03 479.08,-123.18 469.33,-119.04 468.88,-126.03"/>
+</g>
+<!-- 6 -->
+<g id="11" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="523.81" cy="-72" rx="76.96" ry="18"/>
+<text text-anchor="middle" x="523.81" y="-67.8" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 3&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>3&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M340.69,-105.57C370.93,-100 415.63,-91.76 453.17,-84.84"/>
+<polygon fill="black" stroke="black" points="453.85,-88.27 463.05,-83.02 452.58,-81.39 453.85,-88.27"/>
+</g>
+<!-- 5 -->
+<g id="11" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="752.45" cy="-126" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="752.45" y="-121.8" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge7" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M569.05,-126C598.12,-126 637.02,-126 671.42,-126"/>
+<polygon fill="black" stroke="black" points="671.46,-129.5 681.46,-126 671.46,-122.5 671.46,-129.5"/>
+</g>
+<!-- 7 -->
+<g id="11" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="752.45" cy="-72" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="752.45" y="-67.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge8" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M600.59,-72C636.74,-72 678.63,-72 709.08,-72"/>
+<polygon fill="black" stroke="black" points="709.35,-75.5 719.35,-72 709.35,-68.5 709.35,-75.5"/>
+</g>
+<!-- 9 -->
+<g id="11" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="523.81" cy="-18" rx="121.6" ry="18"/>
+<text text-anchor="middle" x="523.81" y="-13.8" font-family="Times,serif" font-size="14.00">enum SoftEnumUpdateType</text>
+</g>
+<!-- 8&#45;&gt;9 -->
+<g id="edge9" class="edge">
+<title>8&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M361.43,-38.08C379.26,-35.86 399.61,-33.33 419.72,-30.83"/>
+<polygon fill="black" stroke="black" points="420.38,-34.27 429.88,-29.56 419.52,-27.33 420.38,-34.27"/>
+</g>
+<!-- 10 -->
+<g id="11" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="752.45" cy="-18" rx="30.78" ry="18"/>
+<text text-anchor="middle" x="752.45" y="-13.8" font-family="Times,serif" font-size="14.00">uint8</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge10" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M645.76,-18C669.33,-18 692.45,-18 711.03,-18"/>
+<polygon fill="black" stroke="black" points="711.13,-21.5 721.13,-18 711.13,-14.5 711.13,-21.5"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,96 @@
+<svg width="1030px" height="98px"
+ viewBox="0.00 0.00 1030.47 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>AgentAnimationPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-94 1026.47,-94 1026.47,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="101.68" cy="-45" rx="101.87" ry="18"/>
+<text text-anchor="middle" x="101.68" y="-40.8" font-family="Times,serif" font-size="14.00">AgentAnimationPacket</text>
+</g>
+<!-- 1 -->
+<g id="8" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="317.72" cy="-72" rx="78.21" ry="18"/>
+<text text-anchor="middle" x="317.72" y="-67.8" font-family="Times,serif" font-size="14.00">Agent Animation</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M185.13,-55.4C202.65,-57.61 221.1,-59.94 238.47,-62.13"/>
+<polygon fill="black" stroke="black" points="238.19,-65.62 248.55,-63.4 239.06,-58.68 238.19,-65.62"/>
+</g>
+<!-- 4 -->
+<g id="8" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="317.72" cy="-18" rx="54.52" ry="18"/>
+<text text-anchor="middle" x="317.72" y="-13.8" font-family="Times,serif" font-size="14.00">Runtime Id</text>
+</g>
+<!-- &#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M185.13,-34.6C208.72,-31.62 233.98,-28.44 256.01,-25.66"/>
+<polygon fill="black" stroke="black" points="256.73,-29.1 266.21,-24.37 255.85,-22.15 256.73,-29.1"/>
+</g>
+<!-- 2 -->
+<g id="8" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="723.24" cy="-72" rx="102.45" ry="18"/>
+<text text-anchor="middle" x="723.24" y="-67.8" font-family="Times,serif" font-size="14.00">enum Agent Animation</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge3" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M396.52,-72C457.3,-72 542.58,-72 610.63,-72"/>
+<polygon fill="black" stroke="black" points="610.97,-75.5 620.97,-72 610.97,-68.5 610.97,-75.5"/>
+</g>
+<!-- 3 -->
+<g id="8" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="941.97" cy="-72" rx="30.78" ry="18"/>
+<text text-anchor="middle" x="941.97" y="-67.8" font-family="Times,serif" font-size="14.00">uint8</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge4" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M825.63,-72C852.21,-72 879.35,-72 900.62,-72"/>
+<polygon fill="black" stroke="black" points="900.86,-75.5 910.86,-72 900.86,-68.5 900.86,-75.5"/>
+</g>
+<!-- 5 -->
+<g id="8" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="508.55" cy="-18" rx="76.44" ry="18"/>
+<text text-anchor="middle" x="508.55" y="-13.8" font-family="Times,serif" font-size="14.00">ActorRuntimeID</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M372.58,-18C387.83,-18 404.83,-18 421.49,-18"/>
+<polygon fill="black" stroke="black" points="421.79,-21.5 431.79,-18 421.79,-14.5 421.79,-21.5"/>
+</g>
+<!-- 6 -->
+<g id="8" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="723.24" cy="-18" rx="81.1" ry="18"/>
+<text text-anchor="middle" x="723.24" y="-13.8" font-family="Times,serif" font-size="14.00">Actor Runtime ID</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M585.14,-18C600.22,-18 616.21,-18 631.73,-18"/>
+<polygon fill="black" stroke="black" points="631.86,-21.5 641.86,-18 631.86,-14.5 631.86,-21.5"/>
+</g>
+<!-- 7 -->
+<g id="8" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="941.97" cy="-18" rx="80.5" ry="18"/>
+<text text-anchor="middle" x="941.97" y="-13.8" font-family="Times,serif" font-size="14.00">unsigned varint64</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M804.64,-18C819.86,-18 835.86,-18 851.35,-18"/>
+<polygon fill="black" stroke="black" points="851.43,-21.5 861.43,-18 851.43,-14.5 851.43,-21.5"/>
+</g>
+</g>
+</svg>

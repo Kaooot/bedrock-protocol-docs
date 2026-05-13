@@ -1,0 +1,132 @@
+<svg width="1687px" height="152px"
+ viewBox="0.00 0.00 1687.18 152.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 148.0)">
+<title>PlayerArmorDamagePacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-148 1683.18,-148 1683.18,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="119.36" cy="-99" rx="119.22" ry="18"/>
+<text text-anchor="middle" x="119.36" y="-94.8" font-family="Times,serif" font-size="14.00">PlayerArmorDamagePacket</text>
+</g>
+<!-- 1 -->
+<g id="11" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="402.14" cy="-99" rx="127.35" ry="18"/>
+<text text-anchor="middle" x="402.14" y="-94.8" font-family="Times,serif" font-size="14.00">Armor Slot and Damage Pairs</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M239.03,-99C247.33,-99 255.73,-99 264.12,-99"/>
+<polygon fill="black" stroke="black" points="264.34,-102.5 274.34,-99 264.34,-95.5 264.34,-102.5"/>
+</g>
+<!-- 2 -->
+<g id="11" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="871.73" cy="-126" rx="45.2" ry="18"/>
+<text text-anchor="middle" x="871.73" y="-121.8" font-family="Times,serif" font-size="14.00">List Size</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M520.53,-105.78C615.42,-111.26 744.65,-118.72 816.63,-122.88"/>
+<polygon fill="black" stroke="black" points="816.64,-126.38 826.83,-123.47 817.05,-119.39 816.64,-126.38"/>
+</g>
+<!-- 4 -->
+<g id="11" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" stroke-dasharray="1,5" cx="642.3" cy="-76" rx="76.96" ry="18"/>
+<text text-anchor="middle" x="642.3" y="-71.8" font-family="Times,serif" font-size="14.00">example element</text>
+</g>
+<!-- 1&#45;&gt;4 -->
+<g id="edge3" class="edge">
+<title>1&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M507.95,-88.88C525.62,-87.17 543.72,-85.42 560.65,-83.79"/>
+<polygon fill="black" stroke="black" points="561.42,-87.23 571.03,-82.79 560.74,-80.26 561.42,-87.23"/>
+</g>
+<!-- 3 -->
+<g id="11" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="1608.33" cy="-126" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="1608.33" y="-121.8" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge4" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M917.02,-126C1037.48,-126 1372.32,-126 1527.04,-126"/>
+<polygon fill="black" stroke="black" points="1527.42,-129.5 1537.42,-126 1527.42,-122.5 1527.42,-129.5"/>
+</g>
+<!-- 5 -->
+<g id="11" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="871.73" cy="-72" rx="116.89" ry="18"/>
+<text text-anchor="middle" x="871.73" y="-67.8" font-family="Times,serif" font-size="14.00">ArmorSlotAndDamagePair</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M719.03,-74.67C727.57,-74.52 736.44,-74.36 745.4,-74.2"/>
+<polygon fill="black" stroke="black" points="745.62,-77.7 755.55,-74.03 745.49,-70.7 745.62,-77.7"/>
+</g>
+<!-- 6 -->
+<g id="11" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="1079.18" cy="-72" rx="54.51" ry="18"/>
+<text text-anchor="middle" x="1079.18" y="-67.8" font-family="Times,serif" font-size="14.00">Armor Slot</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M988.66,-72C997.37,-72 1005.94,-72 1014.13,-72"/>
+<polygon fill="black" stroke="black" points="1014.28,-75.5 1024.28,-72 1014.28,-68.5 1014.28,-75.5"/>
+</g>
+<!-- 9 -->
+<g id="11" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="1335.71" cy="-18" rx="43.42" ry="18"/>
+<text text-anchor="middle" x="1335.71" y="-13.8" font-family="Times,serif" font-size="14.00">Damage</text>
+</g>
+<!-- 5&#45;&gt;9 -->
+<g id="edge7" class="edge">
+<title>5&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M944.67,-57.84C969.82,-53.25 998.3,-48.45 1024.42,-45 1114.75,-33.06 1220.6,-25.14 1282.4,-21.12"/>
+<polygon fill="black" stroke="black" points="1282.92,-24.59 1292.67,-20.46 1282.47,-17.61 1282.92,-24.59"/>
+</g>
+<!-- 7 -->
+<g id="11" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="1335.71" cy="-72" rx="165.55" ry="18"/>
+<text text-anchor="middle" x="1335.71" y="-67.8" font-family="Times,serif" font-size="14.00">enum SharedTypes::Legacy::ArmorSlot</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge8" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M1134.16,-72C1142.11,-72 1150.64,-72 1159.54,-72"/>
+<polygon fill="black" stroke="black" points="1159.73,-75.5 1169.73,-72 1159.73,-68.5 1159.73,-75.5"/>
+</g>
+<!-- 8 -->
+<g id="11" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="1608.33" cy="-72" rx="33.62" ry="18"/>
+<text text-anchor="middle" x="1608.33" y="-67.8" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge9" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M1501.54,-72C1524.79,-72 1546.81,-72 1564.69,-72"/>
+<polygon fill="black" stroke="black" points="1564.71,-75.5 1574.71,-72 1564.71,-68.5 1564.71,-75.5"/>
+</g>
+<!-- 10 -->
+<g id="11" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="1608.33" cy="-18" rx="30.78" ry="18"/>
+<text text-anchor="middle" x="1608.33" y="-13.8" font-family="Times,serif" font-size="14.00">int16</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge10" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M1379,-18C1430.35,-18 1516.34,-18 1566.86,-18"/>
+<polygon fill="black" stroke="black" points="1567.08,-21.5 1577.08,-18 1567.08,-14.5 1567.08,-21.5"/>
+</g>
+</g>
+</svg>
