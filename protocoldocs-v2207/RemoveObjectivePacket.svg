@@ -1,0 +1,36 @@
+<svg width="507px" height="44px"
+ viewBox="0.00 0.00 507.16 44.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 40.0)">
+<title>RemoveObjectivePacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-40 503.16,-40 503.16,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="106.5" cy="-18" rx="106.5" ry="18"/>
+<text text-anchor="middle" x="106.5" y="-13.8" font-family="Times,serif" font-size="14.00">RemoveObjectivePacket</text>
+</g>
+<!-- 1 -->
+<g id="3" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="323.05" cy="-18" rx="74.09" ry="18"/>
+<text text-anchor="middle" x="323.05" y="-13.8" font-family="Times,serif" font-size="14.00">Objective Name</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M213.2,-18C221.77,-18 230.36,-18 238.74,-18"/>
+<polygon fill="black" stroke="black" points="238.85,-21.5 248.84,-18 238.84,-14.5 238.85,-21.5"/>
+</g>
+<!-- 2 -->
+<g id="3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="466.12" cy="-18" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="466.12" y="-13.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M397.48,-18C406.14,-18 414.74,-18 422.76,-18"/>
+<polygon fill="black" stroke="black" points="422.92,-21.5 432.92,-18 422.92,-14.5 422.92,-21.5"/>
+</g>
+</g>
+</svg>

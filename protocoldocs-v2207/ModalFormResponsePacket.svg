@@ -1,0 +1,96 @@
+<svg width="1037px" height="152px"
+ viewBox="0.00 0.00 1037.28 152.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 148.0)">
+<title>ModalFormResponsePacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-148 1033.28,-148 1033.28,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="119.92" cy="-72" rx="119.84" ry="18"/>
+<text text-anchor="middle" x="119.92" y="-67.8" font-family="Times,serif" font-size="14.00">ModalFormResponsePacket</text>
+</g>
+<!-- 1 -->
+<g id="8" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="608.31" cy="-122" rx="44.62" ry="18"/>
+<text text-anchor="middle" x="608.31" y="-117.8" font-family="Times,serif" font-size="14.00">Form ID</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M193.59,-86.26C219.47,-90.92 248.88,-95.72 275.84,-99 373.41,-110.86 487.94,-117.12 553.63,-119.98"/>
+<polygon fill="black" stroke="black" points="553.6,-123.48 563.74,-120.41 553.9,-116.49 553.6,-123.48"/>
+</g>
+<!-- 3 -->
+<g id="8" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="367.87" cy="-72" rx="73.56" ry="18"/>
+<text text-anchor="middle" x="367.87" y="-67.8" font-family="Times,serif" font-size="14.00">JSON Response</text>
+</g>
+<!-- &#45;&gt;3 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M239.93,-72C254.83,-72 269.81,-72 283.99,-72"/>
+<polygon fill="black" stroke="black" points="284.16,-75.5 294.16,-72 284.16,-68.5 284.16,-75.5"/>
+</g>
+<!-- 5 -->
+<g id="8" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="367.87" cy="-18" rx="92.05" ry="18"/>
+<text text-anchor="middle" x="367.87" y="-13.8" font-family="Times,serif" font-size="14.00">Form Cancel Reason</text>
+</g>
+<!-- &#45;&gt;5 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M188.45,-57.17C221.85,-49.84 262.14,-40.99 295.98,-33.57"/>
+<polygon fill="black" stroke="black" points="296.78,-36.97 305.8,-31.41 295.28,-30.14 296.78,-36.97"/>
+</g>
+<!-- 2 -->
+<g id="8" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="893" cy="-126" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="893" y="-121.8" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge4" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M652.86,-122.62C695.11,-123.21 760.23,-124.14 811.86,-124.87"/>
+<polygon fill="black" stroke="black" points="811.94,-128.37 821.99,-125.01 812.04,-121.37 811.94,-128.37"/>
+</g>
+<!-- 4 -->
+<g id="8" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="893" cy="-72" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="893" y="-67.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge5" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M441.61,-72C552.6,-72 760.72,-72 849.8,-72"/>
+<polygon fill="black" stroke="black" points="849.81,-75.5 859.81,-72 849.81,-68.5 849.81,-75.5"/>
+</g>
+<!-- 6 -->
+<g id="8" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="608.31" cy="-18" rx="112.32" ry="18"/>
+<text text-anchor="middle" x="608.31" y="-13.8" font-family="Times,serif" font-size="14.00">ModalFormCancelReason</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M460.04,-18C468.45,-18 477.05,-18 485.68,-18"/>
+<polygon fill="black" stroke="black" points="485.8,-21.5 495.8,-18 485.8,-14.5 485.8,-21.5"/>
+</g>
+<!-- 7 -->
+<g id="8" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="893" cy="-18" rx="136.06" ry="18"/>
+<text text-anchor="middle" x="893" y="-13.8" font-family="Times,serif" font-size="14.00">enum ModalFormCancelReason</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M721.04,-18C729.27,-18 737.63,-18 746.03,-18"/>
+<polygon fill="black" stroke="black" points="746.26,-21.5 756.26,-18 746.26,-14.5 746.26,-21.5"/>
+</g>
+</g>
+</svg>

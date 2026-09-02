@@ -1,0 +1,30 @@
+# MinecraftEventing::POIBlockInteractionType
+
+| Name | ID |
+| --- | --- |
+| None | 0 |
+| Extend | 1 |
+| Clone | 2 |
+| Lock | 3 |
+| Create | 4 |
+| CreateLocator | 5 |
+| Rename | 6 |
+| ItemPlaced | 7 |
+| ItemRemoved | 8 |
+| Cooking | 9 |
+| Dousing | 10 |
+| Lighting | 11 |
+| Haystack | 12 |
+| Filled | 13 |
+| Emptied | 14 |
+| AddDye | 15 |
+| DyeItem | 16 |
+| ClearItem | 17 |
+| EnchantArrow | 18 |
+| CompostItemPlaced | 19 |
+| RecoveredBonemeal | 20 |
+| BookPlaced | 21 |
+| BookOpened | 22 |
+| Disenchant | 23 |
+| Repair | 24 |
+| DisenchantAndRepair | 25 |

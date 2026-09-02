@@ -1,0 +1,120 @@
+<svg width="1799px" height="152px"
+ viewBox="0.00 0.00 1799.02 152.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 148.0)">
+<title>PositionTrackingDBServerBroadcastPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-148 1795.02,-148 1795.02,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="180.52" cy="-72" rx="180.53" ry="18"/>
+<text text-anchor="middle" x="180.52" y="-67.8" font-family="Times,serif" font-size="14.00">PositionTrackingDBServerBroadcastPacket</text>
+</g>
+<!-- 1 -->
+<g id="10" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="434.35" cy="-126" rx="37.14" ry="18"/>
+<text text-anchor="middle" x="434.35" y="-121.8" font-family="Times,serif" font-size="14.00">Action</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M257.76,-88.35C301.16,-97.66 353.94,-108.97 390.24,-116.76"/>
+<polygon fill="black" stroke="black" points="389.5,-120.18 400.02,-118.85 390.97,-113.33 389.5,-120.18"/>
+</g>
+<!-- 4 -->
+<g id="10" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="434.35" cy="-72" rx="27" ry="18"/>
+<text text-anchor="middle" x="434.35" y="-67.8" font-family="Times,serif" font-size="14.00">Id</text>
+</g>
+<!-- &#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M361.19,-72C374.28,-72 386.42,-72 396.87,-72"/>
+<polygon fill="black" stroke="black" points="397.11,-75.5 407.11,-72 397.11,-68.5 397.11,-75.5"/>
+</g>
+<!-- 8 -->
+<g id="10" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="1125.48" cy="-18" rx="95" ry="18"/>
+<text text-anchor="middle" x="1125.48" y="-13.8" font-family="Times,serif" font-size="14.00">Position tracking data</text>
+</g>
+<!-- &#45;&gt;8 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M284.37,-57.25C319.98,-52.64 360.2,-47.99 397.03,-45 618.24,-27.07 878.26,-21.04 1019.76,-19.01"/>
+<polygon fill="black" stroke="black" points="1020.21,-22.51 1030.16,-18.87 1020.11,-15.51 1020.21,-22.51"/>
+</g>
+<!-- 2 -->
+<g id="10" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="750.95" cy="-126" rx="243.05" ry="18"/>
+<text text-anchor="middle" x="750.95" y="-121.8" font-family="Times,serif" font-size="14.00">PositionTrackingDBServerBroadcastPacketPayload::Action</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge4" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M471.75,-126C479.43,-126 488.08,-126 497.46,-126"/>
+<polygon fill="black" stroke="black" points="497.48,-129.5 507.48,-126 497.48,-122.5 497.48,-129.5"/>
+</g>
+<!-- 3 -->
+<g id="10" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="1523.88" cy="-126" rx="267.29" ry="18"/>
+<text text-anchor="middle" x="1523.88" y="-121.8" font-family="Times,serif" font-size="14.00">enum PositionTrackingDBServerBroadcastPacketPayload::Action</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge5" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M994.29,-126C1074.36,-126 1164.04,-126 1246.46,-126"/>
+<polygon fill="black" stroke="black" points="1246.48,-129.5 1256.48,-126 1246.48,-122.5 1246.48,-129.5"/>
+</g>
+<!-- 5 -->
+<g id="10" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="750.95" cy="-72" rx="85.69" ry="18"/>
+<text text-anchor="middle" x="750.95" y="-67.8" font-family="Times,serif" font-size="14.00">PositionTrackingId</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge6" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M461.36,-72C503.37,-72 588.19,-72 655.06,-72"/>
+<polygon fill="black" stroke="black" points="655.21,-75.5 665.21,-72 655.21,-68.5 655.21,-75.5"/>
+</g>
+<!-- 6 -->
+<g id="10" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="1125.48" cy="-72" rx="34.19" ry="18"/>
+<text text-anchor="middle" x="1125.48" y="-67.8" font-family="Times,serif" font-size="14.00">Value</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge7" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M836.95,-72C912.91,-72 1021.17,-72 1080.83,-72"/>
+<polygon fill="black" stroke="black" points="1081.03,-75.5 1091.03,-72 1081.03,-68.5 1081.03,-75.5"/>
+</g>
+<!-- 7 -->
+<g id="10" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="1523.88" cy="-72" rx="33.62" ry="18"/>
+<text text-anchor="middle" x="1523.88" y="-67.8" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge8" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M1159.59,-72C1231.18,-72 1400.31,-72 1479.96,-72"/>
+<polygon fill="black" stroke="black" points="1480.14,-75.5 1490.14,-72 1480.14,-68.5 1480.14,-75.5"/>
+</g>
+<!-- 9 -->
+<g id="10" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="1523.88" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="1523.88" y="-13.8" font-family="Times,serif" font-size="14.00">9</text>
+</g>
+<!-- 8&#45;&gt;9 -->
+<g id="edge9" class="edge">
+<title>8&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M1220.92,-18C1306.04,-18 1426.7,-18 1486.45,-18"/>
+<polygon fill="black" stroke="black" points="1486.53,-21.5 1496.53,-18 1486.53,-14.5 1486.53,-21.5"/>
+</g>
+</g>
+</svg>

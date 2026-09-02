@@ -1,0 +1,72 @@
+<svg width="875px" height="98px"
+ viewBox="0.00 0.00 875.31 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>ClientboundMatchmakingStatePacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-94 871.31,-94 871.31,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="157.47" cy="-45" rx="157.44" ry="18"/>
+<text text-anchor="middle" x="157.47" y="-40.8" font-family="Times,serif" font-size="14.00">ClientboundMatchmakingStatePacket</text>
+</g>
+<!-- 1 -->
+<g id="6" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="381.29" cy="-70" rx="30.19" ry="18"/>
+<text text-anchor="middle" x="381.29" y="-65.8" font-family="Times,serif" font-size="14.00">State</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M270.36,-57.61C295.73,-60.47 321.03,-63.32 340.96,-65.57"/>
+<polygon fill="black" stroke="black" points="340.82,-69.07 351.15,-66.72 341.6,-62.12 340.82,-69.07"/>
+</g>
+<!-- 4 -->
+<g id="6" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="531.62" cy="-18" rx="81.06" ry="18"/>
+<text text-anchor="middle" x="531.62" y="-13.8" font-family="Times,serif" font-size="14.00">Destination Name</text>
+</g>
+<!-- &#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M290.73,-35.4C341.71,-31.71 398.59,-27.58 444.17,-24.27"/>
+<polygon fill="black" stroke="black" points="444.59,-27.75 454.31,-23.54 444.08,-20.77 444.59,-27.75"/>
+</g>
+<!-- 2 -->
+<g id="6" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="531.62" cy="-72" rx="83.97" ry="18"/>
+<text text-anchor="middle" x="531.62" y="-67.8" font-family="Times,serif" font-size="14.00">MatchmakingState</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge3" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M411.95,-70.4C419.65,-70.5 428.36,-70.62 437.49,-70.74"/>
+<polygon fill="black" stroke="black" points="437.48,-74.24 447.52,-70.88 437.57,-67.24 437.48,-74.24"/>
+</g>
+<!-- 3 -->
+<g id="6" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="759.46" cy="-72" rx="107.71" ry="18"/>
+<text text-anchor="middle" x="759.46" y="-67.8" font-family="Times,serif" font-size="14.00">enum MatchmakingState</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge4" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M615.75,-72C624.07,-72 632.62,-72 641.2,-72"/>
+<polygon fill="black" stroke="black" points="641.28,-75.5 651.28,-72 641.28,-68.5 641.28,-75.5"/>
+</g>
+<!-- 5 -->
+<g id="6" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="759.46" cy="-18" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="759.46" y="-13.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M612.88,-18C647.77,-18 687.21,-18 716.23,-18"/>
+<polygon fill="black" stroke="black" points="716.42,-21.5 726.42,-18 716.42,-14.5 716.42,-21.5"/>
+</g>
+</g>
+</svg>

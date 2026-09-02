@@ -1,0 +1,132 @@
+<svg width="1018px" height="206px"
+ viewBox="0.00 0.00 1018.47 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 202.0)">
+<title>PacketViolationWarningPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-202 1014.47,-202 1014.47,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="132.78" cy="-99" rx="132.56" ry="18"/>
+<text text-anchor="middle" x="132.78" y="-94.8" font-family="Times,serif" font-size="14.00">PacketViolationWarningPacket</text>
+</g>
+<!-- 1 -->
+<g id="11" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="385.28" cy="-180" rx="69.54" ry="18"/>
+<text text-anchor="middle" x="385.28" y="-175.8" font-family="Times,serif" font-size="14.00">Violation Type</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M185.08,-115.59C227.7,-129.37 288.13,-148.91 331.24,-162.85"/>
+<polygon fill="black" stroke="black" points="330.39,-166.25 340.98,-166 332.54,-159.59 330.39,-166.25"/>
+</g>
+<!-- 4 -->
+<g id="11" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="385.28" cy="-126" rx="82.22" ry="18"/>
+<text text-anchor="middle" x="385.28" y="-121.8" font-family="Times,serif" font-size="14.00">Violation Severity</text>
+</g>
+<!-- &#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M237.11,-110.14C258.54,-112.45 280.85,-114.85 301.43,-117.07"/>
+<polygon fill="black" stroke="black" points="301.06,-120.55 311.38,-118.14 301.81,-113.59 301.06,-120.55"/>
+</g>
+<!-- 7 -->
+<g id="11" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="385.28" cy="-72" rx="83.93" ry="18"/>
+<text text-anchor="middle" x="385.28" y="-67.8" font-family="Times,serif" font-size="14.00">Violation PacketId</text>
+</g>
+<!-- &#45;&gt;7 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M237.11,-87.86C257.98,-85.61 279.69,-83.27 299.81,-81.1"/>
+<polygon fill="black" stroke="black" points="300.3,-84.57 309.87,-80.02 299.55,-77.61 300.3,-84.57"/>
+</g>
+<!-- 9 -->
+<g id="11" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="610.42" cy="-22" rx="80.52" ry="18"/>
+<text text-anchor="middle" x="610.42" y="-17.8" font-family="Times,serif" font-size="14.00">Violation Context</text>
+</g>
+<!-- &#45;&gt;9 -->
+<g id="edge4" class="edge">
+<title>&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M176.84,-82.02C210.3,-69.59 258.17,-53.48 301.56,-45 374.19,-30.81 458.02,-25.23 519.85,-23.11"/>
+<polygon fill="black" stroke="black" points="520.08,-26.61 529.97,-22.79 519.86,-19.61 520.08,-26.61"/>
+</g>
+<!-- 2 -->
+<g id="11" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="610.42" cy="-180" rx="93.2" ry="18"/>
+<text text-anchor="middle" x="610.42" y="-175.8" font-family="Times,serif" font-size="14.00">PacketViolationType</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge5" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M455.05,-180C471.43,-180 489.26,-180 506.79,-180"/>
+<polygon fill="black" stroke="black" points="507.06,-183.5 517.06,-180 507.06,-176.5 507.06,-183.5"/>
+</g>
+<!-- 3 -->
+<g id="11" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="881.17" cy="-180" rx="116.94" ry="18"/>
+<text text-anchor="middle" x="881.17" y="-175.8" font-family="Times,serif" font-size="14.00">enum PacketViolationType</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge6" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M703.53,-180C719.64,-180 736.65,-180 753.49,-180"/>
+<polygon fill="black" stroke="black" points="753.95,-183.5 763.95,-180 753.95,-176.5 753.95,-183.5"/>
+</g>
+<!-- 5 -->
+<g id="11" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="610.42" cy="-126" rx="105.37" ry="18"/>
+<text text-anchor="middle" x="610.42" y="-121.8" font-family="Times,serif" font-size="14.00">PacketViolationSeverity</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge7" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M467.47,-126C476.25,-126 485.31,-126 494.39,-126"/>
+<polygon fill="black" stroke="black" points="494.65,-129.5 504.65,-126 494.65,-122.5 494.65,-129.5"/>
+</g>
+<!-- 6 -->
+<g id="11" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="881.17" cy="-126" rx="129.11" ry="18"/>
+<text text-anchor="middle" x="881.17" y="-121.8" font-family="Times,serif" font-size="14.00">enum PacketViolationSeverity</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge8" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M716.1,-126C724.47,-126 733,-126 741.55,-126"/>
+<polygon fill="black" stroke="black" points="741.59,-129.5 751.59,-126 741.59,-122.5 741.59,-129.5"/>
+</g>
+<!-- 8 -->
+<g id="11" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="881.17" cy="-72" rx="33.62" ry="18"/>
+<text text-anchor="middle" x="881.17" y="-67.8" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge9" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M469.22,-72C575.43,-72 755.51,-72 837.38,-72"/>
+<polygon fill="black" stroke="black" points="837.56,-75.5 847.56,-72 837.56,-68.5 837.56,-75.5"/>
+</g>
+<!-- 10 -->
+<g id="11" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="881.17" cy="-18" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="881.17" y="-13.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge10" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M690.97,-20.82C739.13,-20.1 798.64,-19.21 837.91,-18.63"/>
+<polygon fill="black" stroke="black" points="837.99,-22.13 847.93,-18.48 837.88,-15.13 837.99,-22.13"/>
+</g>
+</g>
+</svg>

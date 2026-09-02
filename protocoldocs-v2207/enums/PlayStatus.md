@@ -1,0 +1,14 @@
+# PlayStatus
+
+| Name | ID |
+| --- | --- |
+| LoginSuccess | 0 |
+| LoginFailed_ClientOld | 1 |
+| LoginFailed_ServerOld | 2 |
+| PlayerSpawn | 3 |
+| LoginFailed_InvalidTenant | 4 |
+| LoginFailed_EditionMismatchEduToVanilla | 5 |
+| LoginFailed_EditionMismatchVanillaToEdu | 6 |
+| LoginFailed_ServerFullSubClient | 7 |
+| LoginFailed_EditorMismatchEditorToVanilla | 8 |
+| LoginFailed_EditorMismatchVanillaToEditor | 9 |

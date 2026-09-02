@@ -1,0 +1,192 @@
+<svg width="1246px" height="260px"
+ viewBox="0.00 0.00 1246.01 260.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 256.0)">
+<title>AnimatePacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-256 1242.01,-256 1242.01,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="70.03" cy="-126" rx="70.06" ry="18"/>
+<text text-anchor="middle" x="70.03" y="-121.8" font-family="Times,serif" font-size="14.00">AnimatePacket</text>
+</g>
+<!-- 1 -->
+<g id="16" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="284.97" cy="-232" rx="37.14" ry="18"/>
+<text text-anchor="middle" x="284.97" y="-227.8" font-family="Times,serif" font-size="14.00">Action</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M90.13,-143.43C110.16,-160.85 143.24,-187.25 176.06,-203 195.96,-212.55 219.49,-219.34 239.48,-223.94"/>
+<polygon fill="black" stroke="black" points="238.77,-227.36 249.29,-226.08 240.26,-220.53 238.77,-227.36"/>
+</g>
+<!-- 4 -->
+<g id="16" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="284.97" cy="-176" rx="108.83" ry="18"/>
+<text text-anchor="middle" x="284.97" y="-171.8" font-family="Times,serif" font-size="14.00">Target Actor Runtime ID</text>
+</g>
+<!-- &#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M122.31,-138.04C149.06,-144.32 182.25,-152.11 211.58,-159"/>
+<polygon fill="black" stroke="black" points="210.83,-162.42 221.36,-161.3 212.43,-155.61 210.83,-162.42"/>
+</g>
+<!-- 8 -->
+<g id="16" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="810.08" cy="-126" rx="29.03" ry="18"/>
+<text text-anchor="middle" x="810.08" y="-121.8" font-family="Times,serif" font-size="14.00">Data</text>
+</g>
+<!-- &#45;&gt;8 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M140.13,-126C292.32,-126 652.27,-126 770.62,-126"/>
+<polygon fill="black" stroke="black" points="770.67,-129.5 780.67,-126 770.67,-122.5 770.67,-129.5"/>
+</g>
+<!-- 10 -->
+<g id="16" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="284.97" cy="-78" rx="64.89" ry="18"/>
+<text text-anchor="middle" x="284.97" y="-73.8" font-family="Times,serif" font-size="14.00">Swing Source</text>
+</g>
+<!-- &#45;&gt;10 -->
+<g id="edge4" class="edge">
+<title>&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M123.12,-114.26C153.56,-107.4 192.11,-98.71 223.84,-91.55"/>
+<polygon fill="black" stroke="black" points="224.9,-94.9 233.89,-89.29 223.36,-88.08 224.9,-94.9"/>
+</g>
+<!-- 13 -->
+<g id="16" class="node">
+<title>13</title>
+<ellipse fill="none" stroke="black" cx="284.97" cy="-24" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="284.97" y="-19.8" font-family="Times,serif" font-size="14.00">Hand</text>
+</g>
+<!-- &#45;&gt;13 -->
+<g id="edge5" class="edge">
+<title>&#45;&gt;13</title>
+<path fill="none" stroke="black" d="M90.53,-108.61C110.62,-91.57 143.51,-66.03 176.06,-51 197.36,-41.16 222.74,-34.58 243.54,-30.38"/>
+<polygon fill="black" stroke="black" points="244.48,-33.77 253.64,-28.45 243.17,-26.89 244.48,-33.77"/>
+</g>
+<!-- 2 -->
+<g id="16" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="559.72" cy="-233" rx="129.67" ry="18"/>
+<text text-anchor="middle" x="559.72" y="-228.8" font-family="Times,serif" font-size="14.00">AnimatePacketPayload Action</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge6" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M322.47,-232.13C347.95,-232.23 383.72,-232.36 419.73,-232.49"/>
+<polygon fill="black" stroke="black" points="419.87,-235.99 429.89,-232.53 419.9,-228.99 419.87,-235.99"/>
+</g>
+<!-- 3 -->
+<g id="16" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="1084.3" cy="-234" rx="153.91" ry="18"/>
+<text text-anchor="middle" x="1084.3" y="-229.8" font-family="Times,serif" font-size="14.00">enum AnimatePacketPayload Action</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge7" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M689.56,-233.25C759.13,-233.38 845.72,-233.55 919.97,-233.69"/>
+<polygon fill="black" stroke="black" points="920.36,-237.19 930.37,-233.71 920.37,-230.19 920.36,-237.19"/>
+</g>
+<!-- 5 -->
+<g id="16" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="559.72" cy="-178" rx="76.44" ry="18"/>
+<text text-anchor="middle" x="559.72" y="-173.8" font-family="Times,serif" font-size="14.00">ActorRuntimeID</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge8" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M394.16,-176.79C420.31,-176.99 447.9,-177.19 472.86,-177.37"/>
+<polygon fill="black" stroke="black" points="472.99,-180.87 483.01,-177.44 473.04,-173.87 472.99,-180.87"/>
+</g>
+<!-- 6 -->
+<g id="16" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="810.08" cy="-180" rx="81.1" ry="18"/>
+<text text-anchor="middle" x="810.08" y="-175.8" font-family="Times,serif" font-size="14.00">Actor Runtime ID</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge9" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M636.25,-178.61C662.19,-178.82 691.5,-179.05 718.51,-179.27"/>
+<polygon fill="black" stroke="black" points="718.71,-182.77 728.74,-179.35 718.76,-175.77 718.71,-182.77"/>
+</g>
+<!-- 7 -->
+<g id="16" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="1084.3" cy="-180" rx="80.5" ry="18"/>
+<text text-anchor="middle" x="1084.3" y="-175.8" font-family="Times,serif" font-size="14.00">unsigned varint64</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge10" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M891.65,-180C923.62,-180 960.52,-180 993.35,-180"/>
+<polygon fill="black" stroke="black" points="993.4,-183.5 1003.4,-180 993.4,-176.5 993.4,-183.5"/>
+</g>
+<!-- 9 -->
+<g id="16" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="1084.3" cy="-126" rx="28.97" ry="18"/>
+<text text-anchor="middle" x="1084.3" y="-121.8" font-family="Times,serif" font-size="14.00">float</text>
+</g>
+<!-- 8&#45;&gt;9 -->
+<g id="edge11" class="edge">
+<title>8&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M839.44,-126C888.69,-126 990.05,-126 1045.32,-126"/>
+<polygon fill="black" stroke="black" points="1045.41,-129.5 1055.41,-126 1045.41,-122.5 1045.41,-129.5"/>
+</g>
+<!-- 11 -->
+<g id="16" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="810.08" cy="-72" rx="84.53" ry="18"/>
+<text text-anchor="middle" x="810.08" y="-67.8" font-family="Times,serif" font-size="14.00">ActorSwingSource</text>
+</g>
+<!-- 10&#45;&gt;11 -->
+<g id="edge12" class="edge">
+<title>10&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M350.12,-77.26C441.56,-76.22 609.98,-74.28 715.39,-73.07"/>
+<polygon fill="black" stroke="black" points="715.43,-76.57 725.39,-72.96 715.35,-69.57 715.43,-76.57"/>
+</g>
+<!-- 12 -->
+<g id="16" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="1084.3" cy="-72" rx="108.27" ry="18"/>
+<text text-anchor="middle" x="1084.3" y="-67.8" font-family="Times,serif" font-size="14.00">enum ActorSwingSource</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge13" class="edge">
+<title>11&#45;&gt;12</title>
+<path fill="none" stroke="black" d="M894.6,-72C917.03,-72 941.71,-72 965.61,-72"/>
+<polygon fill="black" stroke="black" points="965.8,-75.5 975.8,-72 965.8,-68.5 965.8,-75.5"/>
+</g>
+<!-- 14 -->
+<g id="16" class="node">
+<title>14</title>
+<ellipse fill="none" stroke="black" cx="559.72" cy="-24" rx="47.53" ry="18"/>
+<text text-anchor="middle" x="559.72" y="-19.8" font-family="Times,serif" font-size="14.00">HandSlot</text>
+</g>
+<!-- 13&#45;&gt;14 -->
+<g id="edge14" class="edge">
+<title>13&#45;&gt;14</title>
+<path fill="none" stroke="black" d="M317,-24C361.82,-24 445.46,-24 501.62,-24"/>
+<polygon fill="black" stroke="black" points="501.78,-27.5 511.78,-24 501.78,-20.5 501.78,-27.5"/>
+</g>
+<!-- 15 -->
+<g id="16" class="node">
+<title>15</title>
+<ellipse fill="none" stroke="black" cx="1084.3" cy="-18" rx="71.27" ry="18"/>
+<text text-anchor="middle" x="1084.3" y="-13.8" font-family="Times,serif" font-size="14.00">enum HandSlot</text>
+</g>
+<!-- 14&#45;&gt;15 -->
+<g id="edge15" class="edge">
+<title>14&#45;&gt;15</title>
+<path fill="none" stroke="black" d="M607.56,-23.46C696.72,-22.44 891.79,-20.2 1002.45,-18.93"/>
+<polygon fill="black" stroke="black" points="1002.6,-22.43 1012.56,-18.81 1002.52,-15.43 1002.6,-22.43"/>
+</g>
+</g>
+</svg>

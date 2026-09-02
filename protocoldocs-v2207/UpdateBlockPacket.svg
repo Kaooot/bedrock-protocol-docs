@@ -1,0 +1,180 @@
+<svg width="784px" height="314px"
+ viewBox="0.00 0.00 784.03 314.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 310.0)">
+<title>UpdateBlockPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-310 780.03,-310 780.03,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="87.73" cy="-99" rx="87.96" ry="18"/>
+<text text-anchor="middle" x="87.73" y="-94.8" font-family="Times,serif" font-size="14.00">UpdateBlockPacket</text>
+</g>
+<!-- 1 -->
+<g id="15" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="293.84" cy="-179" rx="68.36" ry="18"/>
+<text text-anchor="middle" x="293.84" y="-174.8" font-family="Times,serif" font-size="14.00">Block Position</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M125.52,-115.37C149.75,-125.97 182.29,-139.82 211.46,-151 220.88,-154.61 230.99,-158.26 240.77,-161.69"/>
+<polygon fill="black" stroke="black" points="239.81,-165.06 250.4,-165.02 242.1,-158.44 239.81,-165.06"/>
+</g>
+<!-- 9 -->
+<g id="15" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="293.84" cy="-124" rx="82.26" ry="18"/>
+<text text-anchor="middle" x="293.84" y="-119.8" font-family="Times,serif" font-size="14.00">Block Runtime ID</text>
+</g>
+<!-- &#45;&gt;9 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M163.57,-108.17C179.16,-110.08 195.66,-112.1 211.47,-114.03"/>
+<polygon fill="black" stroke="black" points="211.39,-117.55 221.74,-115.29 212.24,-110.6 211.39,-117.55"/>
+</g>
+<!-- 11 -->
+<g id="15" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="460.28" cy="-72" rx="31.92" ry="18"/>
+<text text-anchor="middle" x="460.28" y="-67.8" font-family="Times,serif" font-size="14.00">Flags</text>
+</g>
+<!-- &#45;&gt;11 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M170.97,-93.01C247.6,-87.42 358.72,-79.33 418.14,-75"/>
+<polygon fill="black" stroke="black" points="418.55,-78.48 428.27,-74.26 418.04,-71.5 418.55,-78.48"/>
+</g>
+<!-- 13 -->
+<g id="15" class="node">
+<title>13</title>
+<ellipse fill="none" stroke="black" cx="460.28" cy="-18" rx="33.61" ry="18"/>
+<text text-anchor="middle" x="460.28" y="-13.8" font-family="Times,serif" font-size="14.00">Layer</text>
+</g>
+<!-- &#45;&gt;13 -->
+<g id="edge4" class="edge">
+<title>&#45;&gt;13</title>
+<path fill="none" stroke="black" d="M148.68,-85.9C224.7,-69.28 353.72,-41.08 418.95,-26.82"/>
+<polygon fill="black" stroke="black" points="419.83,-30.21 428.86,-24.65 418.34,-23.37 419.83,-30.21"/>
+</g>
+<!-- 2 -->
+<g id="15" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="460.28" cy="-207" rx="48.11" ry="18"/>
+<text text-anchor="middle" x="460.28" y="-202.8" font-family="Times,serif" font-size="14.00">BlockPos</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge5" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M351.43,-188.64C369.22,-191.66 388.78,-195 406.3,-197.98"/>
+<polygon fill="black" stroke="black" points="405.91,-201.46 416.36,-199.69 407.09,-194.56 405.91,-201.46"/>
+</g>
+<!-- 3 -->
+<g id="15" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="571.34" cy="-288" rx="27" ry="18"/>
+<text text-anchor="middle" x="571.34" y="-283.8" font-family="Times,serif" font-size="14.00">X</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge6" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M482.83,-223C500.48,-236.12 525.53,-254.72 544.31,-268.67"/>
+<polygon fill="black" stroke="black" points="542.33,-271.56 552.44,-274.71 546.5,-265.94 542.33,-271.56"/>
+</g>
+<!-- 5 -->
+<g id="15" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="571.34" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="571.34" y="-229.8" font-family="Times,serif" font-size="14.00">Y</text>
+</g>
+<!-- 2&#45;&gt;5 -->
+<g id="edge7" class="edge">
+<title>2&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M500.96,-216.82C512.43,-219.66 524.85,-222.74 535.97,-225.49"/>
+<polygon fill="black" stroke="black" points="535.2,-228.91 545.75,-227.91 536.88,-222.11 535.2,-228.91"/>
+</g>
+<!-- 7 -->
+<g id="15" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="571.34" cy="-180" rx="27" ry="18"/>
+<text text-anchor="middle" x="571.34" y="-175.8" font-family="Times,serif" font-size="14.00">Z</text>
+</g>
+<!-- 2&#45;&gt;7 -->
+<g id="edge8" class="edge">
+<title>2&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M500.96,-197.18C512.43,-194.34 524.85,-191.26 535.97,-188.51"/>
+<polygon fill="black" stroke="black" points="536.88,-191.89 545.75,-186.09 535.2,-185.09 536.88,-191.89"/>
+</g>
+<!-- 4 -->
+<g id="15" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="705.18" cy="-288" rx="33.62" ry="18"/>
+<text text-anchor="middle" x="705.18" y="-283.8" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge9" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M598.39,-288C616.23,-288 640.33,-288 661.01,-288"/>
+<polygon fill="black" stroke="black" points="661.16,-291.5 671.16,-288 661.16,-284.5 661.16,-291.5"/>
+</g>
+<!-- 6 -->
+<g id="15" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="705.18" cy="-234" rx="33.62" ry="18"/>
+<text text-anchor="middle" x="705.18" y="-229.8" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge10" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M598.39,-234C616.23,-234 640.33,-234 661.01,-234"/>
+<polygon fill="black" stroke="black" points="661.16,-237.5 671.16,-234 661.16,-230.5 661.16,-237.5"/>
+</g>
+<!-- 8 -->
+<g id="15" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="705.18" cy="-180" rx="33.62" ry="18"/>
+<text text-anchor="middle" x="705.18" y="-175.8" font-family="Times,serif" font-size="14.00">varint</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge11" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M598.39,-180C616.23,-180 640.33,-180 661.01,-180"/>
+<polygon fill="black" stroke="black" points="661.16,-183.5 671.16,-180 661.16,-176.5 661.16,-183.5"/>
+</g>
+<!-- 10 -->
+<g id="15" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="705.18" cy="-126" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="705.18" y="-121.8" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge12" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M376.69,-124.4C448.52,-124.75 552.37,-125.26 623.77,-125.61"/>
+<polygon fill="black" stroke="black" points="624.04,-129.11 634.06,-125.66 624.08,-122.11 624.04,-129.11"/>
+</g>
+<!-- 12 -->
+<g id="15" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="705.18" cy="-72" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="705.18" y="-67.8" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge13" class="edge">
+<title>11&#45;&gt;12</title>
+<path fill="none" stroke="black" d="M492.54,-72C525.65,-72 579.27,-72 624.24,-72"/>
+<polygon fill="black" stroke="black" points="624.29,-75.5 634.29,-72 624.29,-68.5 624.29,-75.5"/>
+</g>
+<!-- 14 -->
+<g id="15" class="node">
+<title>14</title>
+<ellipse fill="none" stroke="black" cx="705.18" cy="-18" rx="70.69" ry="18"/>
+<text text-anchor="middle" x="705.18" y="-13.8" font-family="Times,serif" font-size="14.00">unsigned varint</text>
+</g>
+<!-- 13&#45;&gt;14 -->
+<g id="edge14" class="edge">
+<title>13&#45;&gt;14</title>
+<path fill="none" stroke="black" d="M494.04,-18C527.2,-18 579.75,-18 624,-18"/>
+<polygon fill="black" stroke="black" points="624.18,-21.5 634.18,-18 624.18,-14.5 624.18,-21.5"/>
+</g>
+</g>
+</svg>

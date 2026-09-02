@@ -1,0 +1,96 @@
+<svg width="1125px" height="152px"
+ viewBox="0.00 0.00 1125.27 152.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 148.0)">
+<title>SendPartyDestinationCookiePacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-148 1121.27,-148 1121.27,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="148.89" cy="-72" rx="148.78" ry="18"/>
+<text text-anchor="middle" x="148.89" y="-67.8" font-family="Times,serif" font-size="14.00">SendPartyDestinationCookiePacket</text>
+</g>
+<!-- 1 -->
+<g id="8" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="654.45" cy="-126" rx="36.56" ry="18"/>
+<text text-anchor="middle" x="654.45" y="-121.8" font-family="Times,serif" font-size="14.00">cookie</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M239.53,-86.29C269.45,-90.76 303,-95.44 333.77,-99 431.06,-110.24 545.51,-118.78 607.65,-123.02"/>
+<polygon fill="black" stroke="black" points="607.69,-126.53 617.9,-123.71 608.16,-119.55 607.69,-126.53"/>
+</g>
+<!-- 3 -->
+<g id="8" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="412.93" cy="-72" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="412.93" y="-67.8" font-family="Times,serif" font-size="14.00">intent</text>
+</g>
+<!-- &#45;&gt;3 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M298.14,-72C324.25,-72 349.43,-72 369.44,-72"/>
+<polygon fill="black" stroke="black" points="369.7,-75.5 379.7,-72 369.7,-68.5 369.7,-75.5"/>
+</g>
+<!-- 6 -->
+<g id="8" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="412.93" cy="-18" rx="79.31" ry="18"/>
+<text text-anchor="middle" x="412.93" y="-13.8" font-family="Times,serif" font-size="14.00">destination_name</text>
+</g>
+<!-- &#45;&gt;6 -->
+<g id="edge3" class="edge">
+<title>&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M224.98,-56.53C262.3,-48.83 307.08,-39.61 343.46,-32.11"/>
+<polygon fill="black" stroke="black" points="344.4,-35.49 353.48,-30.04 342.98,-28.64 344.4,-35.49"/>
+</g>
+<!-- 2 -->
+<g id="8" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="967.04" cy="-126" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="967.04" y="-121.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge4" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M691.38,-126C749.04,-126 861.99,-126 923.56,-126"/>
+<polygon fill="black" stroke="black" points="923.71,-129.5 933.71,-126 923.71,-122.5 923.71,-129.5"/>
+</g>
+<!-- 4 -->
+<g id="8" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="654.45" cy="-72" rx="126.22" ry="18"/>
+<text text-anchor="middle" x="654.45" y="-67.8" font-family="Times,serif" font-size="14.00">PartyDestinationCookieIntent</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge5" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M446.23,-72C465.31,-72 490.9,-72 517.58,-72"/>
+<polygon fill="black" stroke="black" points="517.84,-75.5 527.84,-72 517.84,-68.5 517.84,-75.5"/>
+</g>
+<!-- 5 -->
+<g id="8" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="967.04" cy="-72" rx="150.46" ry="18"/>
+<text text-anchor="middle" x="967.04" y="-67.8" font-family="Times,serif" font-size="14.00">enum PartyDestinationCookieIntent</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge6" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M780.88,-72C789.35,-72 797.95,-72 806.56,-72"/>
+<polygon fill="black" stroke="black" points="806.67,-75.5 816.67,-72 806.67,-68.5 806.67,-75.5"/>
+</g>
+<!-- 7 -->
+<g id="8" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="967.04" cy="-18" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="967.04" y="-13.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge7" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M492.16,-18C610.6,-18 831.4,-18 923.74,-18"/>
+<polygon fill="black" stroke="black" points="923.83,-21.5 933.83,-18 923.83,-14.5 923.83,-21.5"/>
+</g>
+</g>
+</svg>

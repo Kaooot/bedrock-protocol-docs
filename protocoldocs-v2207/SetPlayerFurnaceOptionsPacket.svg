@@ -1,0 +1,168 @@
+<svg width="1883px" height="206px"
+ viewBox="0.00 0.00 1883.23 206.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 202.0)">
+<title>SetPlayerFurnaceOptionsPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-202 1879.23,-202 1879.23,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="135.46" cy="-127" rx="135.43" ry="18"/>
+<text text-anchor="middle" x="135.46" y="-122.8" font-family="Times,serif" font-size="14.00">SetPlayerFurnaceOptionsPacket</text>
+</g>
+<!-- 1 -->
+<g id="14" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="382.06" cy="-165" rx="61.96" ry="18"/>
+<text text-anchor="middle" x="382.06" y="-160.8" font-family="Times,serif" font-size="14.00">FurnaceType</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M224.42,-140.67C254.92,-145.4 288.51,-150.62 316.74,-155.01"/>
+<polygon fill="black" stroke="black" points="316.47,-158.51 326.89,-156.58 317.54,-151.59 316.47,-158.51"/>
+</g>
+<!-- 4 -->
+<g id="14" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="382.06" cy="-100" rx="75.26" ry="18"/>
+<text text-anchor="middle" x="382.06" y="-95.8" font-family="Times,serif" font-size="14.00">Furnace Options</text>
+</g>
+<!-- &#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M240.19,-115.55C261.36,-113.21 283.28,-110.79 303.35,-108.58"/>
+<polygon fill="black" stroke="black" points="303.79,-112.05 313.35,-107.47 303.02,-105.09 303.79,-112.05"/>
+</g>
+<!-- 2 -->
+<g id="14" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="713.12" cy="-171" rx="219.87" ry="18"/>
+<text text-anchor="middle" x="713.12" y="-166.8" font-family="Times,serif" font-size="14.00">SetPlayerFurnaceOptionsPacketPayload FurnaceType</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge3" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M444.18,-166.11C457.45,-166.36 472.22,-166.63 487.82,-166.91"/>
+<polygon fill="black" stroke="black" points="488.13,-170.42 498.19,-167.1 488.25,-163.42 488.13,-170.42"/>
+</g>
+<!-- 3 -->
+<g id="14" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="1631.43" cy="-180" rx="243.61" ry="18"/>
+<text text-anchor="middle" x="1631.43" y="-175.8" font-family="Times,serif" font-size="14.00">enum SetPlayerFurnaceOptionsPacketPayload FurnaceType</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge4" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M931.57,-173.14C1066.08,-174.46 1239.25,-176.16 1379.56,-177.54"/>
+<polygon fill="black" stroke="black" points="1379.57,-181.04 1389.6,-177.63 1379.64,-174.04 1379.57,-181.04"/>
+</g>
+<!-- 5 -->
+<g id="14" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="713.12" cy="-77" rx="72.93" ry="18"/>
+<text text-anchor="middle" x="713.12" y="-72.8" font-family="Times,serif" font-size="14.00">FurnaceOptions</text>
+</g>
+<!-- 4&#45;&gt;5 -->
+<g id="edge5" class="edge">
+<title>4&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M454.46,-95.01C506.94,-91.34 578.25,-86.36 632.56,-82.56"/>
+<polygon fill="black" stroke="black" points="633.1,-86.03 642.83,-81.84 632.61,-79.05 633.1,-86.03"/>
+</g>
+<!-- 6 -->
+<g id="14" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="1047.12" cy="-124" rx="78.13" ry="18"/>
+<text text-anchor="middle" x="1047.12" y="-119.8" font-family="Times,serif" font-size="14.00">Left Furnace Tab</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M776.57,-85.84C831.52,-93.62 911.69,-104.97 970.31,-113.27"/>
+<polygon fill="black" stroke="black" points="969.87,-116.74 980.26,-114.68 970.85,-109.81 969.87,-116.74"/>
+</g>
+<!-- 9 -->
+<g id="14" class="node">
+<title>9</title>
+<ellipse fill="none" stroke="black" cx="1256.41" cy="-72" rx="44.1" ry="18"/>
+<text text-anchor="middle" x="1256.41" y="-67.8" font-family="Times,serif" font-size="14.00">Filtering</text>
+</g>
+<!-- 5&#45;&gt;9 -->
+<g id="edge7" class="edge">
+<title>5&#45;&gt;9</title>
+<path fill="none" stroke="black" d="M786,-76.34C896.02,-75.32 1103.69,-73.4 1201.67,-72.5"/>
+<polygon fill="black" stroke="black" points="1201.96,-75.99 1211.93,-72.4 1201.9,-68.99 1201.96,-75.99"/>
+</g>
+<!-- 11 -->
+<g id="14" class="node">
+<title>11</title>
+<ellipse fill="none" stroke="black" cx="1047.12" cy="-20" rx="38.28" ry="18"/>
+<text text-anchor="middle" x="1047.12" y="-15.8" font-family="Times,serif" font-size="14.00">Layout</text>
+</g>
+<!-- 5&#45;&gt;11 -->
+<g id="edge8" class="edge">
+<title>5&#45;&gt;11</title>
+<path fill="none" stroke="black" d="M773.48,-66.81C838.58,-55.63 941.63,-37.94 1000.63,-27.81"/>
+<polygon fill="black" stroke="black" points="1001.5,-31.21 1010.76,-26.07 1000.31,-24.31 1001.5,-31.21"/>
+</g>
+<!-- 7 -->
+<g id="14" class="node">
+<title>7</title>
+<ellipse fill="none" stroke="black" cx="1256.41" cy="-126" rx="95.45" ry="18"/>
+<text text-anchor="middle" x="1256.41" y="-121.8" font-family="Times,serif" font-size="14.00">FurnaceLeftTabIndex</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge9" class="edge">
+<title>6&#45;&gt;7</title>
+<path fill="none" stroke="black" d="M1125.31,-124.74C1133.66,-124.83 1142.26,-124.91 1150.87,-124.99"/>
+<polygon fill="black" stroke="black" points="1150.94,-128.49 1160.97,-125.09 1151.01,-121.49 1150.94,-128.49"/>
+</g>
+<!-- 8 -->
+<g id="14" class="node">
+<title>8</title>
+<ellipse fill="none" stroke="black" cx="1631.43" cy="-126" rx="119.19" ry="18"/>
+<text text-anchor="middle" x="1631.43" y="-121.8" font-family="Times,serif" font-size="14.00">enum FurnaceLeftTabIndex</text>
+</g>
+<!-- 7&#45;&gt;8 -->
+<g id="edge10" class="edge">
+<title>7&#45;&gt;8</title>
+<path fill="none" stroke="black" d="M1352.02,-126C1397.56,-126 1452.83,-126 1502.1,-126"/>
+<polygon fill="black" stroke="black" points="1502.19,-129.5 1512.19,-126 1502.19,-122.5 1502.19,-129.5"/>
+</g>
+<!-- 10 -->
+<g id="14" class="node">
+<title>10</title>
+<ellipse fill="none" stroke="black" cx="1631.43" cy="-72" rx="28.41" ry="18"/>
+<text text-anchor="middle" x="1631.43" y="-67.8" font-family="Times,serif" font-size="14.00">bool</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge11" class="edge">
+<title>9&#45;&gt;10</title>
+<path fill="none" stroke="black" d="M1300.93,-72C1374.78,-72 1523.39,-72 1592.93,-72"/>
+<polygon fill="black" stroke="black" points="1593,-75.5 1603,-72 1593,-68.5 1593,-75.5"/>
+</g>
+<!-- 12 -->
+<g id="14" class="node">
+<title>12</title>
+<ellipse fill="none" stroke="black" cx="1256.41" cy="-18" rx="69.48" ry="18"/>
+<text text-anchor="middle" x="1256.41" y="-13.8" font-family="Times,serif" font-size="14.00">FurnaceLayout</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge12" class="edge">
+<title>11&#45;&gt;12</title>
+<path fill="none" stroke="black" d="M1085.66,-19.64C1111.03,-19.39 1145.47,-19.06 1176.7,-18.76"/>
+<polygon fill="black" stroke="black" points="1176.75,-22.26 1186.71,-18.66 1176.68,-15.26 1176.75,-22.26"/>
+</g>
+<!-- 13 -->
+<g id="14" class="node">
+<title>13</title>
+<ellipse fill="none" stroke="black" cx="1631.43" cy="-18" rx="93.22" ry="18"/>
+<text text-anchor="middle" x="1631.43" y="-13.8" font-family="Times,serif" font-size="14.00">enum FurnaceLayout</text>
+</g>
+<!-- 12&#45;&gt;13 -->
+<g id="edge13" class="edge">
+<title>12&#45;&gt;13</title>
+<path fill="none" stroke="black" d="M1326.26,-18C1382.71,-18 1463.47,-18 1527.58,-18"/>
+<polygon fill="black" stroke="black" points="1527.72,-21.5 1537.72,-18 1527.72,-14.5 1527.72,-21.5"/>
+</g>
+</g>
+</svg>

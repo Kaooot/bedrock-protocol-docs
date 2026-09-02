@@ -1,0 +1,84 @@
+<svg width="1088px" height="98px"
+ viewBox="0.00 0.00 1088.35 98.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 94.0)">
+<title>ServerStoreInfoPacket</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-94 1084.35,-94 1084.35,4 -4,4"/>
+<g id="0" class="node">
+<title></title>
+<ellipse fill="none" stroke="black" cx="98.45" cy="-45" rx="98.39" ry="18"/>
+<text text-anchor="middle" x="98.45" y="-40.8" font-family="Times,serif" font-size="14.00">ServerStoreInfoPacket</text>
+</g>
+<!-- 1 -->
+<g id="7" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="black" cx="395.18" cy="-45" rx="162.08" ry="18"/>
+<text text-anchor="middle" x="395.18" y="-40.8" font-family="Times,serif" font-size="14.00">client_store_entry_point_configuration</text>
+</g>
+<!-- &#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>&#45;&gt;1</title>
+<path fill="none" stroke="black" d="M197.18,-45C205.43,-45 213.91,-45 222.51,-45"/>
+<polygon fill="black" stroke="black" points="222.65,-48.5 232.65,-45 222.65,-41.5 222.65,-48.5"/>
+</g>
+<!-- 2 -->
+<g id="7" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="black" cx="715.02" cy="-45" rx="121.59" ry="18"/>
+<text text-anchor="middle" x="715.02" y="-40.8" font-family="Times,serif" font-size="14.00">clientStoreEntryPointConfig</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>1&#45;&gt;2</title>
+<path fill="none" stroke="black" d="M557.89,-45C566.4,-45 574.89,-45 583.28,-45"/>
+<polygon fill="black" stroke="black" points="583.44,-48.5 593.44,-45 583.44,-41.5 583.44,-48.5"/>
+</g>
+<!-- 3 -->
+<g id="7" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="black" cx="925.42" cy="-72" rx="37.7" ry="18"/>
+<text text-anchor="middle" x="925.42" y="-67.8" font-family="Times,serif" font-size="14.00">storeId</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge3" class="edge">
+<title>2&#45;&gt;3</title>
+<path fill="none" stroke="black" d="M807.12,-56.8C831.88,-60.01 857.64,-63.35 878.69,-66.07"/>
+<polygon fill="black" stroke="black" points="878.25,-69.55 888.62,-67.36 879.15,-62.61 878.25,-69.55"/>
+</g>
+<!-- 5 -->
+<g id="7" class="node">
+<title>5</title>
+<ellipse fill="none" stroke="black" cx="925.42" cy="-18" rx="52.73" ry="18"/>
+<text text-anchor="middle" x="925.42" y="-13.8" font-family="Times,serif" font-size="14.00">storeName</text>
+</g>
+<!-- 2&#45;&gt;5 -->
+<g id="edge4" class="edge">
+<title>2&#45;&gt;5</title>
+<path fill="none" stroke="black" d="M807.12,-33.2C826.99,-30.62 847.51,-27.96 865.72,-25.61"/>
+<polygon fill="black" stroke="black" points="866.39,-29.05 875.86,-24.29 865.49,-22.11 866.39,-29.05"/>
+</g>
+<!-- 4 -->
+<g id="7" class="node">
+<title>4</title>
+<ellipse fill="none" stroke="black" cx="1047.32" cy="-72" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="1047.32" y="-67.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge5" class="edge">
+<title>3&#45;&gt;4</title>
+<path fill="none" stroke="black" d="M963.37,-72C976.19,-72 990.65,-72 1003.87,-72"/>
+<polygon fill="black" stroke="black" points="1004.15,-75.5 1014.15,-72 1004.15,-68.5 1004.15,-75.5"/>
+</g>
+<!-- 6 -->
+<g id="7" class="node">
+<title>6</title>
+<ellipse fill="none" stroke="black" cx="1047.32" cy="-18" rx="33.06" ry="18"/>
+<text text-anchor="middle" x="1047.32" y="-13.8" font-family="Times,serif" font-size="14.00">string</text>
+</g>
+<!-- 5&#45;&gt;6 -->
+<g id="edge6" class="edge">
+<title>5&#45;&gt;6</title>
+<path fill="none" stroke="black" d="M978.31,-18C986.86,-18 995.62,-18 1003.9,-18"/>
+<polygon fill="black" stroke="black" points="1004.07,-21.5 1014.07,-18 1004.07,-14.5 1004.07,-21.5"/>
+</g>
+</g>
+</svg>
