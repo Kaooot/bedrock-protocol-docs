@@ -4,6 +4,9 @@ Version: 26.30
 
 Documentation for the client's SocialDrawer PartyTab.
 
+Some servers may not support parties. See ``hbui.PartyUnsupportedWorldModal.message`` There's also a separate hard block
+for localhost servers.
+
 ## Network Packets
 
 Party information is included in the Login Connection Request, see the relevant fields 'PartyId' and 'IsPartyLeader'.
